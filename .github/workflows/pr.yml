@@ -1,0 +1,33 @@
+name: check
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Validate data
+        run: node scripts/validate.mjs
+
+      - name: README must match the data
+        run: |
+          set -euo pipefail
+          node scripts/build-readme.mjs
+          if ! git diff --quiet -- README.md; then
+            echo "::error::README.md does not match data/entries.json."
+            echo "Run: node scripts/build-readme.mjs   — then commit the result."
+            git --no-pager diff --stat -- README.md
+            exit 1
+          fi
+          echo "README matches the data"

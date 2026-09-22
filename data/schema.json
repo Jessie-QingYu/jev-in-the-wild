@@ -1,0 +1,68 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Jessie-QingYu/jev-in-the-wild/blob/main/data/schema.json",
+  "title": "jev-in-the-wild entries",
+  "type": "object",
+  "required": ["generatedAt", "categories", "entries"],
+  "properties": {
+    "generatedAt": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "categories": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "description"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+          "name": { "type": "string", "minLength": 3 },
+          "description": { "type": "string", "minLength": 10 }
+        }
+      }
+    },
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "title", "summary", "url", "kind", "category", "source", "addedAt", "tier"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^e_[a-z0-9]+$" },
+          "title": { "type": "string", "minLength": 8, "maxLength": 200 },
+          "summary": { "type": "string", "minLength": 20, "maxLength": 600,
+            "description": "One or two original sentences saying what the thing does. Never copied from the source." },
+          "url": { "type": "string", "pattern": "^https://" },
+          "kind": { "enum": ["code", "usecase", "opinion", "official"],
+            "description": "code = something you can run; usecase = a report of a job done; opinion = analysis, review or criticism; official = from TypeSafe AI." },
+          "category": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+          "categoryName": { "type": "string" },
+          "source": { "enum": ["github", "reddit", "hackernews", "youtube", "blog", "web", "x"] },
+          "sourceLabel": { "type": ["string", "null"] },
+          "author": { "type": ["string", "null"] },
+          "publishedAt": { "type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+          "addedAt": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+          "metric": {
+            "type": ["object", "null"],
+            "required": ["type", "value"],
+            "properties": {
+              "type": { "enum": ["stars", "points", "views", "likes"] },
+              "value": { "type": "integer", "minimum": 0 }
+            },
+            "description": "Whatever the host platform counts. Not comparable across types, and never treated as quality."
+          },
+          "sentiment": { "enum": ["positive", "mixed", "negative", null] },
+          "tags": { "type": "array", "items": { "type": "string" } },
+          "repo": {
+            "type": ["object", "null"],
+            "properties": {
+              "slug": { "type": "string", "pattern": "^[^/]+/[^/]+$" },
+              "archived": { "type": "boolean" },
+              "license": { "type": "string" },
+              "language": { "type": "string" },
+              "pushedAt": { "type": "string" }
+            }
+          },
+          "tier": { "enum": ["listed", "unproven"],
+            "description": "unproven = a GitHub repository with no stars yet. Listed apart, not hidden." }
+        }
+      }
+    }
+  }
+}

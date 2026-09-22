@@ -1,0 +1,14 @@
+{
+  "name": "jev-in-the-wild",
+  "private": true,
+  "type": "module",
+  "description": "Real-world use cases, open-source projects, benchmarks and criticism of TypeSafe AI's Jev.",
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "build": "node scripts/build-readme.mjs",
+    "refresh": "node scripts/refresh-stars.mjs",
+    "links": "node scripts/check-links.mjs",
+    "check": "node scripts/validate.mjs && node scripts/build-readme.mjs"
+  },
+  "license": "MIT"
+}

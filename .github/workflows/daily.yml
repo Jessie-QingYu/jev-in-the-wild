@@ -1,0 +1,53 @@
+name: daily refresh
+
+# Star counts written once and never revisited go stale within days. This job
+# re-reads every GitHub number, rebuilds the README from the data and commits
+# only when something actually moved.
+on:
+  schedule:
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Refresh GitHub numbers
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/refresh-stars.mjs
+
+      - name: Validate
+        run: node scripts/validate.mjs
+
+      - name: Rebuild README
+        run: node scripts/build-readme.mjs
+
+      - name: Commit if anything changed
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # generatedAt moves every single day; on its own it is not a change
+          # worth a commit, so the diff is judged on everything else.
+          if git diff --quiet -- README.md && \
+             [ -z "$(git diff -- data/entries.json | grep -E '^[+-]' | grep -vE '^[+-]{3}' | grep -v '"generatedAt"' || true)" ]; then
+            echo "nothing changed"
+            git checkout -- .
+            exit 0
+          fi
+          git add data/entries.json README.md
+          git commit -m "chore: daily refresh ($(date -u +%Y-%m-%d))"
+          git push
