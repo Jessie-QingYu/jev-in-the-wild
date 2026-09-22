@@ -58,13 +58,13 @@ Signals: ★ GitHub stars · ▲ Reddit or Hacker News points · ▶ views · �
 Hand-picked, and picked for evidence rather than for stars: an entry is here because it reports what it measured.
 
 1. **[Classified 261 IRS forms at 100% accuracy](https://github.com/kyotofin/tax-doc-classifier)** — The clearest measured win in the whole index: 261 IRS tax pages, 100% strict accuracy, ~$0.001 a page, 34× cheaper and 6× faster than the LLM pipeline it replaced.  
-   <sub>use case · Classification and routing · ★ 361 · kyotofin/tax-doc-classifier · 2026-09-18</sub>
+   <sub>use case · Classification and routing · ★ 364 · kyotofin/tax-doc-classifier · 2026-09-18</sub>
 
 2. **[Trade futures every 30 seconds with Jev](https://reddit.com/r/ObsideAI/comments/1wkpsxs/i_let_jev_ai_trade_every_30_seconds_for_more_than)** — The clearest measured loss, and it belongs here for the same reason: a futures bot ran on Jev decisions for 24 hours and finished 3.15% down over ~731 simulated trades.  
    <sub>use case · Real-time and games · ▲ 25 · r/ObsideAI · 2026-09-19</sub>
 
 3. **[macOS computer-use loop with OCR and Jev](https://github.com/awlevin/typesafe-computer-use)** — Shows the pattern most projects converge on: Jev picks the action behind a confidence gate, and a writing model is kept in reserve for the parts that need prose.  
-   <sub>code · Editor, OS and app integrations · ★ 775 · awlevin/typesafe-computer-use · 2026-09-16</sub>
+   <sub>code · Editor, OS and app integrations · ★ 777 · awlevin/typesafe-computer-use · 2026-09-16</sub>
 
 4. **[Open-source 421M-parameter Jev-style decision model](https://reddit.com/r/LocalLLaMA/comments/1wjieap/made_the_horizontal_opensource_model_for_jev_with)** — The open answer to “do I need the API at all” — a 421M ModernBERT encoder with a typed decision head, RLCD training, published benchmarks and a ~35 ms forward pass.  
    <sub>code · Open imitations and local models · ▲ 936 · r/LocalLLaMA · 2026-09-18</sub>
@@ -138,7 +138,7 @@ Every other Jev list is a highlight reel. These are the entries that report a li
 | What | What it does | Kind | Signal | Date |
 | --- | --- | --- | --- | --- |
 | [Cloudflare search relevance engine using Jev](https://github.com/superagents-lab/jev-search) | Cloudflare Worker app uses Jev for query interpretation, source selection, and relevance ranking, with TypeSafe, Vercel, and Workers AI provider paths. | code | ★ 391 | 2026-09-17 |
-| [Classified 261 IRS forms at 100% accuracy](https://github.com/kyotofin/tax-doc-classifier) | A tax-page classifier reports 100% strict accuracy at about $0.001 per page, 34× cheaper and 6× faster than its previous LLM pipeline. | use case | ★ 361 | 2026-09-18 |
+| [Classified 261 IRS forms at 100% accuracy](https://github.com/kyotofin/tax-doc-classifier) | A tax-page classifier reports 100% strict accuracy at about $0.001 per page, 34× cheaper and 6× faster than its previous LLM pipeline. | use case | ★ 364 | 2026-09-18 |
 | [Builds a 400-response conversational classifier](https://reddit.com/r/projects/comments/1wlk8yu/typesafes_jev_model_work_as_an_llm) | Uses Jev to classify intent, formality, emotional intensity and human-escalation need across 18 parallel questions, then selects among 400 hand-written responses. | use case | ▲ 9 | 2026-09-20 |
 | [Built prompt signals and routed Claude with Jev](https://reddit.com/r/LLMDevs/comments/1wkjufw/tried_using_jev_for_prompt_observability_and_llm) | Created a prompt oscilloscope that emits structured signals while typing, plus a Jev layer that routes requests before they reach Claude. | use case | ▲ 9 | 2026-09-19 |
 | [Navigates Neo4j graphs with Jev classification](https://github.com/jexp/neo4jev) | A repository using Jev to classify neighbouring graph relationships and navigate a Neo4j graph. | code | ★ 84 | 2026-09-16 |
@@ -328,7 +328,7 @@ Every other Jev list is a highlight reel. These are the entries that report a li
 | --- | --- | --- | --- | --- |
 | [Full tutorial for building with Jev](https://youtube.com/watch?v=Nq_lu5QT-fI) | A tutorial video promises practical instruction for using Jev in an implementation, making it more than a launch-summary headline. | code | ▶ 54k | 2026-09-18 |
 | [Generate prose by batching Jev next-token choices](https://reddit.com/r/LLM/comments/1winnju/jev_the_new_ai_that_can_only_pick_from_a_list_has) | A demo turns Jev into a text generator by selecting candidate next words, then ranking the resulting sentences. It reports about 1.3 seconds per word and roughly a cent per paragraph. | code | ▲ 73 | 2026-09-17 |
-| [Curated Jev use cases, patterns and starter code](https://github.com/Anil-matcha/awesome-jev-by-typesafe) | An evidence-backed awesome list collecting TypeSafe Jev use cases, prompts, patterns and starter implementations. | code | ★ 777 | 2023-05-17 |
+| [Curated Jev use cases, patterns and starter code](https://github.com/Anil-matcha/awesome-jev-by-typesafe) | An evidence-backed awesome list collecting TypeSafe Jev use cases, prompts, patterns and starter implementations. | code | ★ 779 | 2023-05-17 |
 | [Curated TypeSafe, System One and Jev project list](https://github.com/AbdelStark/awesome-typesafe) | A GitHub directory collecting official resources and community projects for TypeSafe, System One models and Jev. | code | ★ 432 | 2026-09-17 |
 | [Evidence-backed index of Jev use cases](https://github.com/walidboulanouar/awesome-jev-use-cases) | Curated list of 74 demos and 150+ Jev-related repositories, including limits, costs, and API examples. | code | ★ 83 | 2026-09-19 |
 | [Curate Jev projects, integrations and resources](https://github.com/MrJev/awesome-jev) | A GitHub repository maintains a curated list of projects, integrations and resources for Jev and TypeSafe AI. | code | ★ 9 | 2026-09-18 |
@@ -351,8 +351,8 @@ Every other Jev list is a highlight reel. These are the entries that report a li
 | What | What it does | Kind | Signal | Date |
 | --- | --- | --- | --- | --- |
 | [Elixir client for Jev and OpenRouter](https://reddit.com/r/elixir/comments/1wmnxzb/i_built_a_small_elixir_client_for_jev_with) | An early `jev_elixir` client supports TypeSafe and OpenRouter, including yes/no, choice, scoring, and multi-question requests. | code | ▲ 15 | 2026-09-21 |
-| [Agent skills for building with TypeSafe's System One API](https://github.com/typesafe-ai/skills) | TypeSafe AI's official skills repository provides agent skills for building with its System One API. | official | ★ 1.6k | 2026-09-12 |
-| [Publish the official TypeScript SDK](https://github.com/typesafe-ai/typesafe-sdk-js) | Official TypeScript/JavaScript client library for calling the TypeSafe API. | official | ★ 219 | 2026-09-15 |
+| [Agent skills for building with TypeSafe's System One API](https://github.com/typesafe-ai/skills) | TypeSafe AI's official skills repository provides agent skills for building with its System One API. | official | ★ 1.7k | 2026-09-12 |
+| [Publish the official TypeScript SDK](https://github.com/typesafe-ai/typesafe-sdk-js) | Official TypeScript/JavaScript client library for calling the TypeSafe API. | official | ★ 220 | 2026-09-15 |
 | [Publish the official Python SDK](https://github.com/typesafe-ai/typesafe-sdk-python) | Official Python client library for the TypeSafe API. | official | ★ 194 | 2026-09-18 |
 | [MCP connector for trying Jev from agent clients](https://reddit.com/r/mcp/comments/1wjfjn3/if_you_have_access_to_the_new_typesafe_ai_try) | A thin MCP server lets Claude, Claude Code, Claude Desktop and Codex clients experiment with Jev, supporting TypeSafe and OpenRouter providers. | code | ▲ 13 | 2026-09-18 |
 | [Unifies Jev typed decisions with 40 AI providers](https://github.com/juspay/neurolink) | Neurolink exposes one TypeScript interface for generation, streaming, and Jev-backed calibrated decisions, with MCP, voice, RAG, memory, and file-processing features. | code | ★ 137 | 2025-05-31 |
@@ -394,7 +394,7 @@ Every other Jev list is a highlight reel. These are the entries that report a li
 | What | What it does | Kind | Signal | Date |
 | --- | --- | --- | --- | --- |
 | [CUA-S1 System One model for computer use](https://github.com/trycua/cua) | An open repository presents CUA-S1, a System One-style model aimed at computer-use tasks. | code | ▲ 90 | 2026-09-19 |
-| [macOS computer-use loop with OCR and Jev](https://github.com/awlevin/typesafe-computer-use) | An open-source macOS automation loop uses OCR, Jev action selection and confidence gates, reserving a writing model for text fields. | code | ★ 775 | 2026-09-16 |
+| [macOS computer-use loop with OCR and Jev](https://github.com/awlevin/typesafe-computer-use) | An open-source macOS automation loop uses OCR, Jev action selection and confidence gates, reserving a writing model for text fields. | code | ★ 777 | 2026-09-16 |
 | [Browser automation library, CLI and MCP server using Jev](https://github.com/Ying-Kai-Liao/jev-browser) | Combines LLM planning with Jev decisions for browser automation, and ships as a library, CLI and MCP server. | code | ★ 69 | 2026-09-16 |
 | [Sort Gmail inboxes with Jevmail](https://github.com/fazlerocks/jevmail) | An open-source local Gmail client uses Jev via Vercel AI Gateway to assign inbox trays, urgency, and human-sent likelihood with read-only Gmail access. | code | ★ 56 | 2026-09-20 |
 | [Evidence-gated coding-agent completion](https://github.com/qkal/Canny) | Canny uses deterministic hooks and Jev to prevent coding agents from claiming completion without evidence, with an append-only ledger and no runtime dependencies. | code | ★ 32 | 2026-09-11 |
