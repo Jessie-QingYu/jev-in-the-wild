@@ -140,6 +140,14 @@ w(
 
 for (const [i, p] of curated.picks.entries()) {
   const e = byId.get(p.id);
+  // A curated pick whose entry has been removed used to surface as an
+  // unreadable TypeError three frames deep. validate.mjs catches it, but the
+  // builder has to say so itself for anyone who runs it alone.
+  if (!e) {
+    console.error(`data/curated.json points at "${p.id}", which is not in data/entries.json.`);
+    console.error("Remove the pick, or restore the entry, then run this again.");
+    process.exit(1);
+  }
   w(`${i + 1}. **${link(e)}** — ${cell(p.why)}  `, `   <sub>${KIND[e.kind]} · ${e.categoryName} · ${signal(e)} · ${e.sourceLabel ?? e.source} · ${e.publishedAt ?? e.addedAt}</sub>`, "");
 }
 
