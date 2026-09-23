@@ -7787,6 +7787,873 @@
         "pushedAt": "2026-09-12T05:42:06Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_mue8kzgdgnoo31",
+      "title": "Jev SDK developer guide",
+      "summary": "TypeSafe AI documents API-key setup, Choice, Score and Noul primitives, pricing, and copy-paste Node.js and Python examples for calling Jev.",
+      "url": "https://jevtypesafe.org/docs/jev-sdk",
+      "kind": "official",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "web",
+      "sourceLabel": "jevtypesafe.org/docs/jev-sdk/",
+      "author": null,
+      "publishedAt": null,
+      "addedAt": "2026-09-23",
+      "metric": null,
+      "sentiment": null,
+      "tags": [
+        "sdk",
+        "nodejs",
+        "python"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mue8kzgbxhp0um",
+      "title": "Jev model overview",
+      "summary": "TypeSafe AI describes Jev as a fast System One model for structured decisions such as routing, classification and scoring, used alongside generative LLMs.",
+      "url": "https://jevtypesafe.org/",
+      "kind": "official",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "web",
+      "sourceLabel": "jevtypesafe.org",
+      "author": null,
+      "publishedAt": null,
+      "addedAt": "2026-09-23",
+      "metric": null,
+      "sentiment": null,
+      "tags": [
+        "system-one",
+        "routing",
+        "classification"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mue8kmvkqo484f",
+      "title": "Offer browser access to the Jev API",
+      "summary": "The official site presents Jev as a typed, calibrated System One decision model, offers a browser trial, and documents API access and latency.",
+      "url": "https://jevtypesafeai.com/",
+      "kind": "official",
+      "category": "economics",
+      "categoryName": "Speed, pricing and access",
+      "source": "web",
+      "sourceLabel": "jevtypesafeai.com",
+      "author": null,
+      "publishedAt": null,
+      "addedAt": "2026-09-23",
+      "metric": null,
+      "sentiment": null,
+      "tags": [
+        "official",
+        "api",
+        "latency"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mue8h7ka74xev7",
+      "title": "Score code quality with Jev",
+      "summary": "Supercov documents an optional Jev-backed code-quality scoring path alongside its local test-coverage workflow.",
+      "url": "https://github.com/supercorp-ai/supercov/blob/main/docs/getting-started.md",
+      "kind": "code",
+      "category": "extraction",
+      "categoryName": "Extraction and scoring",
+      "source": "github",
+      "sourceLabel": "supercorp-ai/supercov",
+      "author": "supercorp-ai",
+      "publishedAt": null,
+      "addedAt": "2026-09-23",
+      "metric": {
+        "type": "stars",
+        "value": 107
+      },
+      "sentiment": null,
+      "tags": [
+        "code-quality",
+        "coverage",
+        "scoring"
+      ],
+      "repo": {
+        "slug": "supercorp-ai/supercov"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mue8k4nf6jtlle",
+      "title": "Survey Jev-like typed decision models",
+      "summary": "A searchable evidence survey covering calibration, selective control, and open implementations of Jev and related typed-decision models.",
+      "url": "https://github.com/Eurekaleo/awesome-jev-survey",
+      "kind": "code",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "github",
+      "sourceLabel": "Eurekaleo",
+      "author": "Eurekaleo",
+      "publishedAt": "2026-09-23",
+      "addedAt": "2026-09-23",
+      "metric": {
+        "type": "stars",
+        "value": 4
+      },
+      "sentiment": null,
+      "tags": [
+        "survey",
+        "calibration",
+        "research"
+      ],
+      "repo": {
+        "slug": "Eurekaleo/awesome-jev-survey"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mue8k4nhbf8ozk",
+      "title": "Audit Jev robustness and failure modes",
+      "summary": "A repository of tests and calibration audits examining jaggedness, consistency, prompt injection, and abstention in Jev.",
+      "url": "https://github.com/Yifan-Lan/awesome-jev-robustness",
+      "kind": "code",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "github",
+      "sourceLabel": "Yifan-Lan",
+      "author": "Yifan-Lan",
+      "publishedAt": "2026-09-23",
+      "addedAt": "2026-09-23",
+      "metric": {
+        "type": "stars",
+        "value": 4
+      },
+      "sentiment": null,
+      "tags": [
+        "robustness",
+        "calibration",
+        "abstention"
+      ],
+      "repo": {
+        "slug": "Yifan-Lan/awesome-jev-robustness"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mue8hmjr7r7z3a",
+      "title": "Train a local Jev-compatible proxy",
+      "summary": "stuntd records hosted Jev decisions, trains a small local head on Laya, and switches to local inference after meeting an agreement threshold while retaining provider fallback.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wnt7kv/stuntd_a_local_jevcompatible_server_on_laya_that",
+      "kind": "code",
+      "category": "imitations",
+      "categoryName": "Open imitations and local models",
+      "source": "reddit",
+      "sourceLabel": "r/LocalLLaMA",
+      "author": "u/Inevitable-Log5414",
+      "publishedAt": "2026-09-23",
+      "addedAt": "2026-09-23",
+      "metric": {
+        "type": "points",
+        "value": 23
+      },
+      "sentiment": null,
+      "tags": [
+        "local-models",
+        "proxy",
+        "distillation"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mud7yq5b3d9qah",
+      "title": "Automated AI video editing with Jev",
+      "summary": "The video presents a full guide claiming Jev can solve AI video-editing workflows, but the supplied metadata gives no further implementation details.",
+      "url": "https://youtube.com/watch?v=ZlICPWwgmmg",
+      "kind": "usecase",
+      "category": "agents",
+      "categoryName": "Agent and workflow logic",
+      "source": "youtube",
+      "sourceLabel": "Albert Olgaard",
+      "author": "Albert Olgaard",
+      "publishedAt": null,
+      "addedAt": "2026-09-22",
+      "metric": {
+        "type": "views",
+        "value": 17528
+      },
+      "sentiment": null,
+      "tags": [
+        "video-editing",
+        "automation",
+        "agents"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mud7zl8oqz3mep",
+      "title": "Real-time exchange risk-triage gateway",
+      "summary": "A Jev-backed gateway for exchange deposits and withdrawals uses Jev only for triage while deterministic code retains final authority.",
+      "url": "https://github.com/klauswg/jev-guard",
+      "kind": "code",
+      "category": "guardrails",
+      "categoryName": "Guardrails and verification",
+      "source": "github",
+      "sourceLabel": "klauswg",
+      "author": "klauswg",
+      "publishedAt": "2026-09-22",
+      "addedAt": "2026-09-22",
+      "metric": {
+        "type": "stars",
+        "value": 25
+      },
+      "sentiment": null,
+      "tags": [
+        "risk",
+        "triage",
+        "trading"
+      ],
+      "repo": {
+        "slug": "klauswg/jev-guard"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muct53c3wvkji7",
+      "title": "Gate agent work with Jev",
+      "summary": "A Muse playbook adds a fast, inexpensive Jev decision layer with confidence policies, recipes, and routing before costly agent execution.",
+      "url": "https://github.com/Bodila51/muse-jev-playbook",
+      "kind": "code",
+      "category": "agents",
+      "categoryName": "Agent and workflow logic",
+      "source": "github",
+      "sourceLabel": "Bodila51",
+      "author": "Bodila51",
+      "publishedAt": "2026-09-22",
+      "addedAt": "2026-09-22",
+      "metric": {
+        "type": "stars",
+        "value": 11
+      },
+      "sentiment": null,
+      "tags": [
+        "agents",
+        "gating",
+        "routing"
+      ],
+      "repo": {
+        "slug": "Bodila51/muse-jev-playbook"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mue8k4nj9orib0",
+      "title": "Guard macOS computer use with Jev",
+      "summary": "An AX-first macOS computer-use kit adds optional Jev semantic guards, accessibility targeting, scoped input, clipboard-safe paste, and read-back verification.",
+      "url": "https://github.com/Sur-Cai/macos-computer-use-kit",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "Sur-Cai",
+      "author": "Sur-Cai",
+      "publishedAt": "2026-09-22",
+      "addedAt": "2026-09-23",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "macos",
+        "computer-use",
+        "guardrails"
+      ],
+      "repo": {
+        "slug": "Sur-Cai/macos-computer-use-kit"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mue8ioshnh2u1y",
+      "title": "Compare Jev with GPT-6 Astra for decisions",
+      "summary": "Vercel compares Jev's typed, probabilistic decisions with GPT-6 Astra's generation, vision, and tool use, including routing examples and guidance on combining both.",
+      "url": "https://vercel.com/i/jev-vs-gpt-6-astra",
+      "kind": "official",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "author": "flashbrew",
+      "publishedAt": "2026-09-22",
+      "addedAt": "2026-09-23",
+      "metric": {
+        "type": "points",
+        "value": 4
+      },
+      "sentiment": null,
+      "tags": [
+        "comparison",
+        "routing",
+        "probabilities"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muct1wjxhl6x4i",
+      "title": "Turn local LLMs into Jev-style decision engines",
+      "summary": "notjev uses one-token logprobs from OpenAI-compatible local models to return Jev-like verdicts, probabilities, margins, abstention, and the System One wire contract.",
+      "url": "https://reddit.com/r/LLMDevs/comments/1wn45oq/notjev_turn_any_local_llm_into_a_jevstyle",
+      "kind": "code",
+      "category": "imitations",
+      "categoryName": "Open imitations and local models",
+      "source": "reddit",
+      "sourceLabel": "r/LLMDevs",
+      "author": "u/n8tz",
+      "publishedAt": "2026-09-22",
+      "addedAt": "2026-09-22",
+      "metric": {
+        "type": "points",
+        "value": 24
+      },
+      "sentiment": null,
+      "tags": [
+        "local models",
+        "logprobs",
+        "system one"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mue8k4nk80y5jg",
+      "title": "Provide an unofficial C++ TypeSafe SDK",
+      "summary": "An unofficial C++20 SDK for integrating with the TypeSafe API.",
+      "url": "https://github.com/pewriebontal/typesafe-sdk-cpp",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "pewriebontal",
+      "author": "pewriebontal",
+      "publishedAt": "2026-09-22",
+      "addedAt": "2026-09-23",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "cpp",
+        "sdk",
+        "typesafe"
+      ],
+      "repo": {
+        "slug": "pewriebontal/typesafe-sdk-cpp"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mue8iosi36wok5",
+      "title": "Apply Jev to seven automation decisions",
+      "summary": "Vercel documents concrete uses including form routing, ticket prioritization, tool-call review, model selection, document categorization, moderation, and response evaluation.",
+      "url": "https://vercel.com/i/jev-use-cases",
+      "kind": "official",
+      "category": "other",
+      "categoryName": "Everything else",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "author": "flashbrew",
+      "publishedAt": "2026-09-22",
+      "addedAt": "2026-09-23",
+      "metric": {
+        "type": "points",
+        "value": 2
+      },
+      "sentiment": null,
+      "tags": [
+        "automation",
+        "routing",
+        "moderation"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mue8hmjq3f7jg5",
+      "title": "Expose Jev through Workers AI",
+      "summary": "A Cloudflare Workers AI integration makes TypeSafe's Jev model available as `typesafe/jev`, returning parallel typed decisions for routing, moderation and triage.",
+      "url": "https://reddit.com/r/CloudFlare/comments/1wmjsj2/typesafes_jev_the_decisiononly_model_is_on",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "reddit",
+      "sourceLabel": "r/CloudFlare",
+      "author": "u/oh_jaimito",
+      "publishedAt": "2026-09-21",
+      "addedAt": "2026-09-23",
+      "metric": {
+        "type": "points",
+        "value": 24
+      },
+      "sentiment": null,
+      "tags": [
+        "cloudflare",
+        "workers-ai",
+        "routing"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mue8jm0zfe1ev6",
+      "title": "Swift bridge for Jev in Foundation Models",
+      "summary": "Provides a native Swift 6 bridge that integrates TypeSafe AI's Jev System One decision model with Apple's Foundation Models framework.",
+      "url": "https://github.com/peterfriese/jev-foundation-models",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "peterfriese",
+      "author": "peterfriese",
+      "publishedAt": "2026-09-21",
+      "addedAt": "2026-09-23",
+      "metric": {
+        "type": "stars",
+        "value": 40
+      },
+      "sentiment": null,
+      "tags": [
+        "swift",
+        "foundation-models",
+        "sdk"
+      ],
+      "repo": {
+        "slug": "peterfriese/jev-foundation-models"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mue8hmjszjoh3y",
+      "title": "Jev improves classifiers more than it creates new AI",
+      "summary": "The author argues that Jev resembles existing classifiers and zero-shot systems, while its architecture and training may still be novel. They caution that internal details and independent benchmarks remain limited.",
+      "url": "https://reddit.com/r/learnmachinelearning/comments/1wmhwdu/what_everyone_is_getting_wrong_about_typesafe_ais",
+      "kind": "opinion",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "reddit",
+      "sourceLabel": "r/learnmachinelearning",
+      "author": "u/kingabzpro",
+      "publishedAt": "2026-09-21",
+      "addedAt": "2026-09-23",
+      "metric": {
+        "type": "points",
+        "value": 17
+      },
+      "sentiment": "mixed",
+      "tags": [
+        "classification",
+        "system-one",
+        "benchmarks"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mud7zl8nxl70q2",
+      "title": "Community Java SDK for Jev",
+      "summary": "A community-maintained Java client for the TypeSafe AI System One API, explicitly separate from the official product.",
+      "url": "https://github.com/jamilxt/typesafe-ai-java",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "jamilxt",
+      "author": "jamilxt",
+      "publishedAt": "2026-09-20",
+      "addedAt": "2026-09-22",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "java",
+        "sdk",
+        "client"
+      ],
+      "repo": {
+        "slug": "jamilxt/typesafe-ai-java"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mue8h7k2ldh3mb",
+      "title": "Control agent memory with Jev",
+      "summary": "Jev-Mem uses Jev to govern memory admission, graph relationships, retrieval routing, scoring, and stopping while another model generates answers.",
+      "url": "https://github.com/libingzheren/Jev-Mem",
+      "kind": "code",
+      "category": "agents",
+      "categoryName": "Agent and workflow logic",
+      "source": "github",
+      "sourceLabel": "libingzheren/Jev-Mem",
+      "author": "libingzheren",
+      "publishedAt": "2026-09-20",
+      "addedAt": "2026-09-23",
+      "metric": {
+        "type": "stars",
+        "value": 44
+      },
+      "sentiment": null,
+      "tags": [
+        "memory",
+        "agents",
+        "retrieval"
+      ],
+      "repo": {
+        "slug": "libingzheren/Jev-Mem"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muct8au47qwqxf",
+      "title": "TypeSafe AI API repository",
+      "summary": "A repository documenting TypeSafe AI, Jev, the System One endpoint, and its typed decision interface.",
+      "url": "https://github.com/api-evangelist/typesafe-ai",
+      "kind": "official",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "github",
+      "sourceLabel": "api-evangelist",
+      "author": "api-evangelist",
+      "publishedAt": "2026-09-19",
+      "addedAt": "2026-09-22",
+      "metric": {
+        "type": "stars",
+        "value": 0
+      },
+      "sentiment": null,
+      "tags": [
+        "api",
+        "system-one",
+        "jev"
+      ],
+      "repo": {
+        "slug": "api-evangelist/typesafe-ai"
+      },
+      "tier": "unproven"
+    },
+    {
+      "id": "e_mud7x57ps31fqm",
+      "title": "Mac voice and browser-control integration for Jev",
+      "summary": "Macbrow is a runnable open-source macOS tool where Jev selects tools and typed arguments in roughly 300 ms, reserving an LLM for text generation.",
+      "url": "https://github.com/timpratim/macbrow",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "timpratim/macbrow",
+      "author": "timpratim",
+      "publishedAt": "2026-09-18",
+      "addedAt": "2026-09-22",
+      "metric": {
+        "type": "stars",
+        "value": 141
+      },
+      "sentiment": null,
+      "tags": [
+        "macos",
+        "voice-control",
+        "browser-automation"
+      ],
+      "repo": {
+        "slug": "timpratim/macbrow"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mue8k4nim01zjp",
+      "title": "Automate browsers with Jev decisions",
+      "summary": "A browser-automation project using Jev as the decision model for automated browsing tasks.",
+      "url": "https://github.com/0x7067/jev-browse",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "0x7067",
+      "author": "0x7067",
+      "publishedAt": "2026-09-18",
+      "addedAt": "2026-09-23",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "browser",
+        "automation",
+        "integration"
+      ],
+      "repo": {
+        "slug": "0x7067/jev-browse"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muct4lfvoebuf8",
+      "title": "Community Java client for TypeSafe API",
+      "summary": "An unofficial Java client library for the TypeSafe System One API, extending the community SDK ecosystem.",
+      "url": "https://github.com/Premo-Cloud/typesafe-sdk-java",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "Premo-Cloud",
+      "author": "Premo-Cloud",
+      "publishedAt": "2026-09-18",
+      "addedAt": "2026-09-22",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "java",
+        "sdk",
+        "api"
+      ],
+      "repo": {
+        "slug": "Premo-Cloud/typesafe-sdk-java"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mue8jm0yk0l0he",
+      "title": "Curated source-backed Jev project directory",
+      "summary": "Catalogs public Jev projects, integrations, research, and use cases with source review and implementation caveats.",
+      "url": "https://github.com/cobanov/awesome-jev",
+      "kind": "code",
+      "category": "other",
+      "categoryName": "Everything else",
+      "source": "github",
+      "sourceLabel": "cobanov",
+      "author": "cobanov",
+      "publishedAt": "2026-09-18",
+      "addedAt": "2026-09-23",
+      "metric": {
+        "type": "stars",
+        "value": 366
+      },
+      "sentiment": null,
+      "tags": [
+        "directory",
+        "ecosystem",
+        "research"
+      ],
+      "repo": {
+        "slug": "cobanov/awesome-jev"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mud7zl8lsthii9",
+      "title": "Gallery of Jev papers, reproductions and evaluations",
+      "summary": "A curated gallery covering System One research, open reproductions and independent Jev evaluations.",
+      "url": "https://github.com/OmniJev/awesome-jev-gallery",
+      "kind": "code",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "github",
+      "sourceLabel": "OmniJev",
+      "author": "OmniJev",
+      "publishedAt": "2026-09-17",
+      "addedAt": "2026-09-22",
+      "metric": {
+        "type": "stars",
+        "value": 233
+      },
+      "sentiment": null,
+      "tags": [
+        "curated list",
+        "evaluations",
+        "open models"
+      ],
+      "repo": {
+        "slug": "OmniJev/awesome-jev-gallery"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mue8j19f7jvyt1",
+      "title": "Curate an ecosystem directory for Jev",
+      "summary": "A GitHub repository collecting public Jev projects, integrations, and discussions. It is a distinct community resource rather than a direct Jev integration.",
+      "url": "https://github.com/yibie/awesome-jev",
+      "kind": "code",
+      "category": "other",
+      "categoryName": "Everything else",
+      "source": "github",
+      "sourceLabel": "yibie",
+      "author": "yibie",
+      "publishedAt": "2026-09-17",
+      "addedAt": "2026-09-23",
+      "metric": {
+        "type": "stars",
+        "value": 1435
+      },
+      "sentiment": null,
+      "tags": [
+        "ecosystem",
+        "directory",
+        "community"
+      ],
+      "repo": {
+        "slug": "yibie/awesome-jev"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mue8j19hjuhzi9",
+      "title": "Build a source-backed Jev field guide",
+      "summary": "A GitHub repository organizing SDKs, live demos, agent tools, and independent evaluations of TypeSafe's Jev model.",
+      "url": "https://github.com/AbdelStark/awesome-typesafe-jev",
+      "kind": "code",
+      "category": "other",
+      "categoryName": "Everything else",
+      "source": "github",
+      "sourceLabel": "AbdelStark",
+      "author": "AbdelStark",
+      "publishedAt": "2026-09-17",
+      "addedAt": "2026-09-23",
+      "metric": {
+        "type": "stars",
+        "value": 490
+      },
+      "sentiment": null,
+      "tags": [
+        "ecosystem",
+        "sdk",
+        "evaluations"
+      ],
+      "repo": {
+        "slug": "AbdelStark/awesome-typesafe-jev"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mud7z6ri1eil2b",
+      "title": "MCP connector for direct Jev access",
+      "summary": "An MCP connector gives AI agents direct access to TypeSafe AI’s Jev model for fast, inexpensive evaluations.",
+      "url": "https://github.com/itsmostafa/typesafe-mcp",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "itsmostafa",
+      "author": "itsmostafa",
+      "publishedAt": "2026-09-17",
+      "addedAt": "2026-09-22",
+      "metric": {
+        "type": "stars",
+        "value": 275
+      },
+      "sentiment": null,
+      "tags": [
+        "mcp",
+        "agents",
+        "connector"
+      ],
+      "repo": {
+        "slug": "itsmostafa/typesafe-mcp"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mue8h7k69qak9n",
+      "title": "Add Jev to a model benchmark",
+      "summary": "A benchmark repository compares direct Jev calls with Qwen structured output and preserves validated responses, raw requests, and timings.",
+      "url": "https://github.com/iammrduncan/typesafe-ai-benchmark/blob/main/docs/jev.md",
+      "kind": "code",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "github",
+      "sourceLabel": "iammrduncan/typesafe-ai-benchmark",
+      "author": "iammrduncan",
+      "publishedAt": "2026-09-17",
+      "addedAt": "2026-09-23",
+      "metric": {
+        "type": "stars",
+        "value": 38
+      },
+      "sentiment": null,
+      "tags": [
+        "benchmark",
+        "qwen",
+        "structured-output"
+      ],
+      "repo": {
+        "slug": "iammrduncan/typesafe-ai-benchmark"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mue8h7jx4i718c",
+      "title": "Release JavaScript SDK 0.6.0 with ordered Score criteria",
+      "summary": "TypeSafe AI’s official JavaScript SDK release changes Score.criteria from an unordered structure to an ordered sequence.",
+      "url": "https://github.com/typesafe-ai/typesafe-sdk-js/releases",
+      "kind": "official",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "blog",
+      "sourceLabel": "typesafe-ai/typesafe-sdk-js",
+      "author": "TypeSafe AI",
+      "publishedAt": "2026-09-15",
+      "addedAt": "2026-09-23",
+      "metric": {
+        "type": "stars",
+        "value": 229
+      },
+      "sentiment": null,
+      "tags": [
+        "javascript",
+        "sdk",
+        "score"
+      ],
+      "repo": {
+        "slug": "typesafe-ai/typesafe-sdk-js"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mud7z6rh0yrqmi",
+      "title": "Agent memory with Jev reranking",
+      "summary": "A zero-dependency SQLite/MCP memory system that includes an opt-in hosted Jev reranker and benchmarks retrieval.",
+      "url": "https://github.com/kitfunso/hippo-memory",
+      "kind": "code",
+      "category": "agents",
+      "categoryName": "Agent and workflow logic",
+      "source": "github",
+      "sourceLabel": "kitfunso",
+      "author": "kitfunso",
+      "publishedAt": "2026-03-15",
+      "addedAt": "2026-09-22",
+      "metric": {
+        "type": "stars",
+        "value": 756
+      },
+      "sentiment": null,
+      "tags": [
+        "memory",
+        "reranking",
+        "mcp"
+      ],
+      "repo": {
+        "slug": "kitfunso/hippo-memory"
+      },
+      "tier": "listed"
     }
   ]
 }
