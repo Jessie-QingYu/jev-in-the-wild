@@ -8742,6 +8742,90 @@
         "pushedAt": "2026-09-24T06:14:42Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_mue8lflg1hvf09",
+      "title": "Provide a local deterministic Jev-compatible model",
+      "summary": "The snap repository provides typed decisions from unstructured state in one forward pass with no generated text. It is local, deterministic, and explicitly Jev-compatible, but unaffiliated with TypeSafe AI.",
+      "url": "https://github.com/emnlmn/snap",
+      "kind": "code",
+      "category": "imitations",
+      "categoryName": "Open imitations and local models",
+      "source": "github",
+      "sourceLabel": "emnlmn",
+      "author": "emnlmn",
+      "publishedAt": "2026-09-23",
+      "addedAt": "2026-09-23",
+      "metric": {
+        "type": "stars",
+        "value": 19
+      },
+      "sentiment": null,
+      "tags": [
+        "local-model",
+        "deterministic",
+        "typed-decisions"
+      ],
+      "repo": {
+        "slug": "emnlmn/snap"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muct53byx4y8p8",
+      "title": "Build a .NET Jev SDK",
+      "summary": "A community .NET 10 SDK integrates official Jev typed decisions with Microsoft.Extensions.AI.",
+      "url": "https://github.com/elbruno/ElBruno.AI.Jev",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "elbruno",
+      "author": "elbruno",
+      "publishedAt": "2026-09-22",
+      "addedAt": "2026-09-22",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "dotnet",
+        "sdk",
+        "integrations"
+      ],
+      "repo": {
+        "slug": "elbruno/ElBruno.AI.Jev"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muct4lfxb5s77h",
+      "title": "Runtime for Jev verdicts",
+      "summary": "A runtime that accepts Jev inputs and produces typed verdicts for TypeSafe System One workflows.",
+      "url": "https://github.com/backant-io/jevelry",
+      "kind": "code",
+      "category": "agents",
+      "categoryName": "Agent and workflow logic",
+      "source": "github",
+      "sourceLabel": "backant-io",
+      "author": "backant-io",
+      "publishedAt": "2026-09-22",
+      "addedAt": "2026-09-22",
+      "metric": {
+        "type": "stars",
+        "value": 5
+      },
+      "sentiment": null,
+      "tags": [
+        "runtime",
+        "verdicts",
+        "workflow"
+      ],
+      "repo": {
+        "slug": "backant-io/jevelry"
+      },
+      "tier": "listed"
     }
   ]
 }
