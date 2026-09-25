@@ -8838,6 +8838,569 @@
         "pushedAt": "2026-09-23T18:04:33Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_muh3clhxnrb6os",
+      "title": "Add Jev decisions to Nexos Gateway",
+      "summary": "Nexos Gateway adds a System One endpoint for Jev, highlighting ticket routing, signup checks, moderation, agent-step selection and human-review gates.",
+      "url": "https://reddit.com/r/nexos_ai/comments/1wpx8k9/new_on_the_gateway_a_model_that_returns_decisions",
+      "kind": "official",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "reddit",
+      "sourceLabel": "r/nexos_ai",
+      "author": null,
+      "publishedAt": "2026-09-25",
+      "addedAt": "2026-09-25",
+      "metric": {
+        "type": "points",
+        "value": 0
+      },
+      "sentiment": null,
+      "tags": [
+        "gateway",
+        "moderation",
+        "agents"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muh3cli3ragu0c",
+      "title": "Run coding-agent workflows as Jev-guided graphs",
+      "summary": "Jive is an open-source agent harness that represents execution as dependent DAG nodes, combining bash and Jev calls to reduce unnecessary LLM calls during tasks such as repository investigation.",
+      "url": "https://reddit.com/r/ClaudeCode/comments/1wp9nga/the_agentic_loop_is_outdated",
+      "kind": "code",
+      "category": "agents",
+      "categoryName": "Agent and workflow logic",
+      "source": "reddit",
+      "sourceLabel": "r/ClaudeCode",
+      "author": "u/merijjeyn",
+      "publishedAt": "2026-09-24",
+      "addedAt": "2026-09-25",
+      "metric": {
+        "type": "points",
+        "value": 304
+      },
+      "sentiment": null,
+      "tags": [
+        "coding agents",
+        "workflow",
+        "graphs"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mufy5949ajfuzj",
+      "title": "OpenJudgement-4B open-weight alternative to Jev",
+      "summary": "An experimental Qwen-based model directly scores classification, rubric and true/false answers, with Python formatting probabilities as JSON; its author says it is unfinished and not yet at Jev’s level.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wp2xpn/i_built_an_openweight_alternative_to_jev_typesafe",
+      "kind": "code",
+      "category": "imitations",
+      "categoryName": "Open imitations and local models",
+      "source": "reddit",
+      "sourceLabel": "r/LocalLLaMA",
+      "author": "u/bakatristan",
+      "publishedAt": "2026-09-24",
+      "addedAt": "2026-09-24",
+      "metric": {
+        "type": "points",
+        "value": 16
+      },
+      "sentiment": null,
+      "tags": [
+        "open-model",
+        "classification",
+        "scoring"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muh3e2sr47wwm0",
+      "title": "Judge browser QA with Jev",
+      "summary": "Plain-English browser QA for Claude Code, with Jev providing judgments through Cloudflare Workers AI.",
+      "url": "https://github.com/cooper667/jev-browse",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "cooper667",
+      "author": "cooper667",
+      "publishedAt": "2026-09-24",
+      "addedAt": "2026-09-25",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "browser",
+        "qa",
+        "cloudflare"
+      ],
+      "repo": {
+        "slug": "cooper667/jev-browse"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mufy5941spoplb",
+      "title": "OpenClaw release adds Jev as an optional decision model",
+      "summary": "OpenClaw v2026.9.6 adds TypeSafe Jev as an optional Decision Model alongside broad release changes; no Jev-specific usage detail is given.",
+      "url": "https://reddit.com/r/openclaw/comments/1woqbls/openclaw_v202696_claude_opus_55_gpt6_sol_and_luna",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "reddit",
+      "sourceLabel": "r/openclaw",
+      "author": "u/hannesrudolph",
+      "publishedAt": "2026-09-24",
+      "addedAt": "2026-09-24",
+      "metric": {
+        "type": "points",
+        "value": 34
+      },
+      "sentiment": null,
+      "tags": [
+        "openclaw",
+        "integration",
+        "agents"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mufy6u8uzses4l",
+      "title": "Local API-compatible replacement for Jev",
+      "summary": "A local project intended to replace Jev with an API-compatible implementation; the description gives no further technical details.",
+      "url": "https://github.com/Mushroom-Systems/lichen",
+      "kind": "code",
+      "category": "imitations",
+      "categoryName": "Open imitations and local models",
+      "source": "github",
+      "sourceLabel": "Mushroom-Systems",
+      "author": "Mushroom-Systems",
+      "publishedAt": "2026-09-23",
+      "addedAt": "2026-09-24",
+      "metric": {
+        "type": "stars",
+        "value": 10
+      },
+      "sentiment": null,
+      "tags": [
+        "local",
+        "replacement"
+      ],
+      "repo": {
+        "slug": "Mushroom-Systems/lichen"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mufy42o2u7w9q9",
+      "title": "Argues Jev repackages classifier behavior and needs classifier benchmarks",
+      "summary": "The author says Jev's constrained probabilistic outputs and zero-shot labels are not novel, and that comparisons should include strong classifiers rather than only LLMs.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1woe70t/jev_isnt_new_tech_its_marketing_targets_people",
+      "kind": "opinion",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "reddit",
+      "sourceLabel": "r/LocalLLaMA",
+      "author": "u/tiensss",
+      "publishedAt": "2026-09-23",
+      "addedAt": "2026-09-24",
+      "metric": {
+        "type": "points",
+        "value": 768
+      },
+      "sentiment": "negative",
+      "tags": [
+        "classifiers",
+        "benchmarking",
+        "critique"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muh3cli2da5g3q",
+      "title": "Typed outputs do not ensure label-robust decisions",
+      "summary": "An evaluation finds that changing option labels and rubrics materially alters hosted Jev decisions, including high-confidence inversions, challenging the assumption that typed outputs guarantee semantic correctness.",
+      "url": "https://arxiv.org/abs/2609.26758",
+      "kind": "opinion",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "web",
+      "sourceLabel": "arXiv",
+      "author": null,
+      "publishedAt": "2026-09-23",
+      "addedAt": "2026-09-25",
+      "metric": null,
+      "sentiment": "negative",
+      "tags": [
+        "robustness",
+        "labels",
+        "evaluation"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mufy6u8s22wyz7",
+      "title": "JavaScript and TypeScript library of Jev recipes",
+      "summary": "Provides 200+ reusable Jev recipes for routing, grading, gating, comparison, and labeling, callable from JS/TS or a JSON CLI.",
+      "url": "https://github.com/agencyenterprise/jev-recipes",
+      "kind": "code",
+      "category": "other",
+      "categoryName": "Everything else",
+      "source": "github",
+      "sourceLabel": "agencyenterprise",
+      "author": "agencyenterprise",
+      "publishedAt": "2026-09-22",
+      "addedAt": "2026-09-24",
+      "metric": {
+        "type": "stars",
+        "value": 10
+      },
+      "sentiment": null,
+      "tags": [
+        "recipes",
+        "javascript",
+        "cli"
+      ],
+      "repo": {
+        "slug": "agencyenterprise/jev-recipes"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mufy6hbydtwe4u",
+      "title": "Awesome Jev directory with dated link and call-site checks",
+      "summary": "Indexes 1,207 public Jev resources by decision pattern, with source citations, dated link checks, scheduled call-site checks, and JSON schema/platform compatibility.",
+      "url": "https://github.com/kydlikebtc/awesome-jev",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "kydlikebtc",
+      "author": "kydlikebtc",
+      "publishedAt": "2026-09-22",
+      "addedAt": "2026-09-24",
+      "metric": {
+        "type": "stars",
+        "value": 351
+      },
+      "sentiment": null,
+      "tags": [
+        "directory",
+        "resources",
+        "validation"
+      ],
+      "repo": {
+        "slug": "kydlikebtc/awesome-jev"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mufy6u9400wd6u",
+      "title": "Play Craftax with Jev choosing actions",
+      "summary": "Uses Jev to play Craftax while an LLM sets the goals, combining model-directed objectives with Jev's gameplay decisions.",
+      "url": "https://github.com/mansicer/jev-plays",
+      "kind": "usecase",
+      "category": "realtime",
+      "categoryName": "Real-time and games",
+      "source": "github",
+      "sourceLabel": "mansicer",
+      "author": "mansicer",
+      "publishedAt": "2026-09-21",
+      "addedAt": "2026-09-24",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "game",
+        "craftax",
+        "agents"
+      ],
+      "repo": {
+        "slug": "mansicer/jev-plays"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muh3e2snezrxdn",
+      "title": "Translate Jev documentation into Chinese",
+      "summary": "Unofficial Chinese translation of TypeSafe AI’s Jev documentation.",
+      "url": "https://github.com/datawhalechina/jev-cookbook",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "datawhalechina",
+      "author": "datawhalechina",
+      "publishedAt": "2026-09-20",
+      "addedAt": "2026-09-25",
+      "metric": {
+        "type": "stars",
+        "value": 11
+      },
+      "sentiment": null,
+      "tags": [
+        "translation",
+        "docs",
+        "chinese"
+      ],
+      "repo": {
+        "slug": "datawhalechina/jev-cookbook"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mufy42o4wwp15v",
+      "title": "Reviews 287 Jev projects to identify useful decision-making patterns",
+      "summary": "The author inspected project sources and highlights 20 examples, arguing Jev is most useful for small in-loop decisions such as choosing actions, files, routes, or next steps.",
+      "url": "https://reddit.com/r/LLMDevs/comments/1wko2e5/i_reviewed_287_opensource_jev_projects_here_are",
+      "kind": "opinion",
+      "category": "other",
+      "categoryName": "Everything else",
+      "source": "reddit",
+      "sourceLabel": "r/LLMDevs",
+      "author": "u/chenrongwei",
+      "publishedAt": "2026-09-19",
+      "addedAt": "2026-09-24",
+      "metric": {
+        "type": "points",
+        "value": 217
+      },
+      "sentiment": "positive",
+      "tags": [
+        "project survey",
+        "agent workflows",
+        "use cases"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mufy42nr8lbktg",
+      "title": "Local gateway routing coding-agent tool calls through Jev",
+      "summary": "Gateway uses Jev to choose coding-agent tools, supports Codex and Claude Code launchers, and enables routing-on/off comparisons.",
+      "url": "https://github.com/vinilana/jev-gateway",
+      "kind": "code",
+      "category": "agents",
+      "categoryName": "Agent and workflow logic",
+      "source": "github",
+      "sourceLabel": "vinilana/jev-gateway",
+      "author": "vinilana",
+      "publishedAt": "2026-09-18",
+      "addedAt": "2026-09-24",
+      "metric": {
+        "type": "stars",
+        "value": 221
+      },
+      "sentiment": null,
+      "tags": [
+        "coding agents",
+        "tool routing",
+        "gateway"
+      ],
+      "repo": {
+        "slug": "vinilana/jev-gateway"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muh3e2soya8i1d",
+      "title": "Provide an idiomatic Java SDK for Jev",
+      "summary": "Java client library for TypeSafe AI’s Jev System One decision engine.",
+      "url": "https://github.com/Olti1947/jev-java",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "Olti1947",
+      "author": "Olti1947",
+      "publishedAt": "2026-09-18",
+      "addedAt": "2026-09-25",
+      "metric": {
+        "type": "stars",
+        "value": 5
+      },
+      "sentiment": null,
+      "tags": [
+        "java",
+        "sdk",
+        "client"
+      ],
+      "repo": {
+        "slug": "Olti1947/jev-java"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mufy6u90znejsl",
+      "title": "Curated Jev and System One project list",
+      "summary": "Curates TypeSafe Jev projects, open-source alternatives, and Jev news; a curated list qualifies as a code artifact.",
+      "url": "https://github.com/daftAI2026/awesome-jev",
+      "kind": "code",
+      "category": "other",
+      "categoryName": "Everything else",
+      "source": "github",
+      "sourceLabel": "daftAI2026",
+      "author": "daftAI2026",
+      "publishedAt": "2026-09-18",
+      "addedAt": "2026-09-24",
+      "metric": {
+        "type": "stars",
+        "value": 8
+      },
+      "sentiment": null,
+      "tags": [
+        "curated-list",
+        "ecosystem"
+      ],
+      "repo": {
+        "slug": "daftAI2026/awesome-jev"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muh3dnw1pbfbuf",
+      "title": "Automate browser tasks with rtrvr.ai and Jev",
+      "summary": "Retriever AI demonstrates using Jev with rtrvr.ai for browser automation. The provided listing gives no further implementation or evaluation details.",
+      "url": "https://youtube.com/watch?v=JsNQwFB9N1Q",
+      "kind": "usecase",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "youtube",
+      "sourceLabel": "Retriever AI",
+      "author": "Retriever AI",
+      "publishedAt": "2026-09-17",
+      "addedAt": "2026-09-25",
+      "metric": {
+        "type": "views",
+        "value": 6899
+      },
+      "sentiment": null,
+      "tags": [
+        "browser",
+        "automation",
+        "agents"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muct53c2gss3v9",
+      "title": "Triage support tickets with Jev",
+      "summary": "A .NET and React application uses Jev for fast, structured AI-powered ticket triage.",
+      "url": "https://github.com/GhrezaKh74/JevTicktRouter",
+      "kind": "usecase",
+      "category": "routing",
+      "categoryName": "Classification and routing",
+      "source": "github",
+      "sourceLabel": "GhrezaKh74",
+      "author": "GhrezaKh74",
+      "publishedAt": "2026-09-17",
+      "addedAt": "2026-09-22",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "ticket-triage",
+        "dotnet",
+        "react"
+      ],
+      "repo": {
+        "slug": "GhrezaKh74/JevTicktRouter"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mufy6u8y1km9k2",
+      "title": "Ruby client for TypeSafe AI",
+      "summary": "A Ruby client for the typesafe.ai API; no additional implementation details are provided.",
+      "url": "https://github.com/joshmn/typesafe-sdk",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "joshmn",
+      "author": "joshmn",
+      "publishedAt": "2026-09-16",
+      "addedAt": "2026-09-24",
+      "metric": {
+        "type": "stars",
+        "value": 8
+      },
+      "sentiment": null,
+      "tags": [
+        "ruby",
+        "sdk"
+      ],
+      "repo": {
+        "slug": "joshmn/typesafe-sdk"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mufy6u92m54d24",
+      "title": "Rust SDK for the TypeSafe AI API",
+      "summary": "A Rust SDK for the TypeSafe AI API, with no further details in the description.",
+      "url": "https://github.com/codeitlikemiley/typesafe-sdk-rust",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "codeitlikemiley",
+      "author": "codeitlikemiley",
+      "publishedAt": "2026-09-16",
+      "addedAt": "2026-09-24",
+      "metric": {
+        "type": "stars",
+        "value": 4
+      },
+      "sentiment": null,
+      "tags": [
+        "rust",
+        "sdk"
+      ],
+      "repo": {
+        "slug": "codeitlikemiley/typesafe-sdk-rust"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muh3cw65ve8dxr",
+      "title": "System One is a faster alternative to parsing LLM prose",
+      "summary": "The post praises TypeSafe's System One framing as a more practical approach than parsing LLM text, pointing readers to the Jev launch article and its real-time DOOM demo.",
+      "url": "https://reddit.com/r/informatik/comments/1whh0k6/oha_neuer_ansatz_in_sachen_frontier_model_ai",
+      "kind": "opinion",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "reddit",
+      "sourceLabel": "r/informatik",
+      "author": "u/SDF_Acc",
+      "publishedAt": "2026-09-15",
+      "addedAt": "2026-09-25",
+      "metric": {
+        "type": "points",
+        "value": 38
+      },
+      "sentiment": "positive",
+      "tags": [
+        "system one",
+        "real-time",
+        "doom"
+      ],
+      "repo": null,
+      "tier": "listed"
     }
   ]
 }
