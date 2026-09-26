@@ -9449,6 +9449,542 @@
       ],
       "repo": null,
       "tier": "listed"
+    },
+    {
+      "id": "e_mui5032z6qjmpl",
+      "title": "OpenCode virtual model router using Jev decisions",
+      "summary": "OpenCode plugin that adds an Auto virtual model routing each user prompt to a configured real model by applying TypeSafe AI Jev to the context.",
+      "url": "https://github.com/jorgefspereira/opencode-auto-jev",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "jorgefspereira",
+      "author": "jorgefspereira",
+      "publishedAt": "2026-09-26",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "routing",
+        "integration",
+        "opencode"
+      ],
+      "repo": {
+        "slug": "jorgefspereira/opencode-auto-jev"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mui4p8thnf0qy0",
+      "title": "Adversarial testing of Jev robustness and failure modes",
+      "summary": "Boundary and HumanLayer conducted deliberate tests to expose Jev's limits, examining robustness under adversarial stress and edge cases.",
+      "url": "https://youtube.com/watch?v=35PSMmDDKP8",
+      "kind": "opinion",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "youtube",
+      "sourceLabel": "Boundary and HumanLayer",
+      "author": "Boundary and HumanLayer",
+      "publishedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "views",
+        "value": 5797
+      },
+      "sentiment": "mixed",
+      "tags": [
+        "testing",
+        "robustness",
+        "adversarial"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mui4nu7f6x6lbi",
+      "title": "Calibration, not accuracy, is the right metric for Jev",
+      "summary": "Argues that calibration—the confidence of probability estimates—is the proper evaluation metric for Jev and System One models, not traditional accuracy measures. Frames calibration as central to the System One philosophy.",
+      "url": "https://kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions",
+      "kind": "opinion",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "author": "pansuriyakartik",
+      "publishedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "points",
+        "value": 13
+      },
+      "sentiment": "positive",
+      "tags": [
+        "calibration",
+        "system-one",
+        "evaluation"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muh3cw66lf3q0q",
+      "title": "Tests Jev on a monitored agent-gateway pilot",
+      "summary": "An independent user benchmarks Jev 1.13 across gateway-agent tasks and is piloting replacements for existing model-powered functions with monitoring and rollback; results are pending.",
+      "url": "https://reddit.com/r/JevAI/comments/1wpe06u/i_run_a_benchmark_and_evaluation_of_jev113",
+      "kind": "opinion",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "reddit",
+      "sourceLabel": "r/JevAI",
+      "author": "u/giulioc84",
+      "publishedAt": "2026-09-24",
+      "addedAt": "2026-09-25",
+      "metric": {
+        "type": "points",
+        "value": 11
+      },
+      "sentiment": "mixed",
+      "tags": [
+        "evaluation",
+        "agents",
+        "pilot"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muiiv3gaf8xhgz",
+      "title": "Jev System One model technical explanation and capabilities",
+      "summary": "Educational video (80k views) explaining Jev's System One approach and the three decision output types with practical examples.",
+      "url": "https://youtube.com/watch?v=6piQcPa6V-U",
+      "kind": "opinion",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "youtube",
+      "sourceLabel": "Piyush Garg",
+      "author": "Piyush Garg",
+      "publishedAt": "2026-09-24",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "views",
+        "value": 80179
+      },
+      "sentiment": "positive",
+      "tags": [
+        "system-one",
+        "education",
+        "video"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muiiv3g9gpb7gt",
+      "title": "System One decision models fundamentally differ from text-generating LLMs",
+      "summary": "Educational video (130k views) explaining System One decision models and how Jev's choice/score/yes-no interface differs from chat LLM generation.",
+      "url": "https://youtube.com/watch?v=0zFfcEr1e9U",
+      "kind": "opinion",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "youtube",
+      "sourceLabel": "CampusX",
+      "author": "CampusX",
+      "publishedAt": "2026-09-24",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "views",
+        "value": 130527
+      },
+      "sentiment": "positive",
+      "tags": [
+        "system-one",
+        "education",
+        "video"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mui4p8tcqr2e4s",
+      "title": "Jev vs LLMs: capabilities, positioning, and use cases",
+      "summary": "Video explaining Jev's design, comparing it to LLM capabilities, and addressing whether Jev will replace language models.",
+      "url": "https://youtube.com/watch?v=4KJJRxLrvKQ",
+      "kind": "opinion",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "youtube",
+      "sourceLabel": "Learn with Whiteboard",
+      "author": "Learn with Whiteboard",
+      "publishedAt": "2026-09-23",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "views",
+        "value": 13058
+      },
+      "sentiment": "mixed",
+      "tags": [
+        "comparison",
+        "overview",
+        "llms"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mui4rqs7c9x0nu",
+      "title": "jev-harness: official coding harness for Jev",
+      "summary": "Official TypeSafe harness where LLMs propose, Jev answers narrow questions, code decides, and every step leaves an audit receipt.",
+      "url": "https://github.com/TypeSafeAI/jev-harness",
+      "kind": "official",
+      "category": "agents",
+      "categoryName": "Agent and workflow logic",
+      "source": "github",
+      "sourceLabel": "TypeSafeAI",
+      "author": "TypeSafeAI",
+      "publishedAt": "2026-09-22",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "stars",
+        "value": 17
+      },
+      "sentiment": null,
+      "tags": [
+        "harness",
+        "agents",
+        "workflow"
+      ],
+      "repo": {
+        "slug": "TypeSafeAI/jev-harness"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muct53c1mv0knf",
+      "title": "Expose Jev typed decisions through MCP",
+      "summary": "An MCP tool provides fast yes/no probability, choice, and score decisions backed by TypeSafe System One.",
+      "url": "https://github.com/clouatre-labs/decisions-judge-mcp",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "clouatre-labs",
+      "author": "clouatre-labs",
+      "publishedAt": "2026-09-20",
+      "addedAt": "2026-09-22",
+      "metric": {
+        "type": "stars",
+        "value": 4
+      },
+      "sentiment": null,
+      "tags": [
+        "mcp",
+        "agents",
+        "typed-decisions"
+      ],
+      "repo": {
+        "slug": "clouatre-labs/decisions-judge-mcp"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muiiseqikl4ket",
+      "title": "Jev outperforms LLMs on speed and cost in market analysis",
+      "summary": "Comprehensive analysis of Jev: $0.042/MTok input pricing, free output tokens, Vercel benchmarks showing 18x faster than GPT Luna, but notes vendor-reported claims and uncertain cost results.",
+      "url": "https://reddit.com/r/machinelearningnews/comments/1wku8qn/typesafe_ai_releases_jev_a_system_one_model_that",
+      "kind": "opinion",
+      "category": "economics",
+      "categoryName": "Speed, pricing and access",
+      "source": "reddit",
+      "sourceLabel": "r/machinelearningnews",
+      "author": "u/ai-lover",
+      "publishedAt": "2026-09-19",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "points",
+        "value": 36
+      },
+      "sentiment": "mixed",
+      "tags": [
+        "pricing",
+        "performance",
+        "benchmarks"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muij15mn3z2zpy",
+      "title": "Browser control with Jev / 用 Jev 控制浏览器",
+      "summary": "Chrome extension + MCP server for autonomous browser clicks with Jev (~0.5s). / Chrome 扩展 + MCP 服务器，使用 Jev 选择浏览器点击，实现自主浏览。",
+      "url": "https://github.com/nexibeo/jev-browser-control",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "nexibeo",
+      "author": "nexibeo",
+      "publishedAt": "2026-09-19",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "stars",
+        "value": 5
+      },
+      "sentiment": null,
+      "tags": [
+        "chrome",
+        "browser",
+        "mcp"
+      ],
+      "repo": {
+        "slug": "nexibeo/jev-browser-control"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muiiyt68s94hjk",
+      "title": "Jev ecosystem tracker with API and confidence grading",
+      "summary": "Comprehensive tracker of 220+ Jev projects with confidence-graded entries, API access, automated rescans every 3 hours, and multilingual support.",
+      "url": "https://github.com/everyinfra/jev-radar",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "everyinfra",
+      "author": "everyinfra",
+      "publishedAt": "2026-09-19",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "stars",
+        "value": 29
+      },
+      "sentiment": null,
+      "tags": [
+        "tracking",
+        "api",
+        "ecosystem"
+      ],
+      "repo": {
+        "slug": "everyinfra/jev-radar"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muiiyt67jl03ot",
+      "title": "Rust SEO toolkit with Jev audits and crawls",
+      "summary": "Free Rust tool for SEO and GEO analysis using Jev, with 58-rule audits, site crawls, AI citation checks, rank tracking, and 15 MCP tools for CI gates.",
+      "url": "https://github.com/AkashPriyadarshii/jev-seo",
+      "kind": "code",
+      "category": "other",
+      "categoryName": "Everything else",
+      "source": "github",
+      "sourceLabel": "AkashPriyadarshii",
+      "author": "AkashPriyadarshii",
+      "publishedAt": "2026-09-18",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "stars",
+        "value": 76
+      },
+      "sentiment": null,
+      "tags": [
+        "seo",
+        "rust",
+        "mcp"
+      ],
+      "repo": {
+        "slug": "AkashPriyadarshii/jev-seo"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muiiseqgtbwea5",
+      "title": "Explore smart home automation with Jev voice control",
+      "summary": "Discussion of Jev applications in Home Assistant for natural voice control and context-aware smart home decisions without wake words.",
+      "url": "https://reddit.com/r/homeassistant/comments/1wjmqj0/upcoming_revolution_for_smart_home_control_with",
+      "kind": "usecase",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "reddit",
+      "sourceLabel": "r/homeassistant",
+      "author": "u/ntech2",
+      "publishedAt": "2026-09-18",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "points",
+        "value": 59
+      },
+      "sentiment": null,
+      "tags": [
+        "smart-home",
+        "voice-control",
+        "home-assistant"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mui4rqse1migvu",
+      "title": "jevsume: resume reviewer and scorer with Jev",
+      "summary": "ATS-friendly resume tool that extracts text like a parser, then runs Jev Score questions via Cloudflare Worker to compose a JevScore and feedback.",
+      "url": "https://github.com/unownone/jevsume",
+      "kind": "code",
+      "category": "extraction",
+      "categoryName": "Extraction and scoring",
+      "source": "github",
+      "sourceLabel": "unownone",
+      "author": "unownone",
+      "publishedAt": "2026-09-17",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "resume",
+        "scoring",
+        "recruitment"
+      ],
+      "repo": {
+        "slug": "unownone/jevsume"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mui4kp86gss31g",
+      "title": "Survey of six open-source projects already built on Jev ecosystem",
+      "summary": "Reddit roundup of ecosystem projects built on Jev, highlighting Browser Use's jev-ultrafast (1k stars, 7-second Google Flights demo) and MCP checker tools.",
+      "url": "https://reddit.com/r/WebAfterAI/comments/1wiyj0i/6_opensource_projects_already_built_around_jev",
+      "kind": "opinion",
+      "category": "agents",
+      "categoryName": "Agent and workflow logic",
+      "source": "reddit",
+      "sourceLabel": "r/WebAfterAI",
+      "author": "u/ShilpaMitra",
+      "publishedAt": "2026-09-17",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "points",
+        "value": 14
+      },
+      "sentiment": "positive",
+      "tags": [
+        "ecosystem",
+        "browser-automation",
+        "projects"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mui4rqsbwoz1bs",
+      "title": ".NET SDK for TypeSafe AI Jev",
+      "summary": "Community-maintained .NET client library for TypeSafe AI System One, supporting typed Choice, Noul, and Score questions with confidence scoring.",
+      "url": "https://github.com/saibimajdi/typesafeai-dotnet-sdk",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "saibimajdi",
+      "author": "saibimajdi",
+      "publishedAt": "2026-09-16",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "stars",
+        "value": 8
+      },
+      "sentiment": null,
+      "tags": [
+        "csharp",
+        "sdk",
+        "community"
+      ],
+      "repo": {
+        "slug": "saibimajdi/typesafeai-dotnet-sdk"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muiiv3ggw6kfic",
+      "title": "Jev decision-making value distinct from text generation",
+      "summary": "Introductory video (67k views) about Jev's decision-making capabilities and positioning as typed decision alternative to LLM text generation.",
+      "url": "https://youtube.com/watch?v=9oWxrsRo4d8",
+      "kind": "opinion",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "youtube",
+      "sourceLabel": "vogel",
+      "author": "vogel",
+      "publishedAt": "2026-09-16",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "views",
+        "value": 67420
+      },
+      "sentiment": "positive",
+      "tags": [
+        "system-one",
+        "education",
+        "video"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muiiseqh6ojuns",
+      "title": "Diogo Almeida introduces Jev System One decision model",
+      "summary": "Founder's detailed announcement of Jev: trained with RLCD, 20-200x faster than LLMs, 40-400x cheaper with free output tokens, optimized for typed decisions.",
+      "url": "https://reddit.com/r/ProAI/comments/1wht2ou/after_coinventing_chatgpt_i_kept_asking_myself",
+      "kind": "official",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "reddit",
+      "sourceLabel": "r/ProAI",
+      "author": "u/stealthispost",
+      "publishedAt": "2026-09-16",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "points",
+        "value": 58
+      },
+      "sentiment": null,
+      "tags": [
+        "system-one",
+        "rlcd",
+        "pricing"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mui4iy9vdng25g",
+      "title": "Jev released: System One model at $0.042 per million input tokens",
+      "summary": "TypeSafe releases Jev, a System One model returning typed decisions (Choice, Score, Noul) at $0.042 per million input tokens with free output. Claims 20-200x faster and 40-400x cheaper than LLMs. Available on Vercel AI Gateway.",
+      "url": "https://reddit.com/r/accelerate/comments/1wht23u/after_coinventing_chatgpt_i_kept_asking_myself",
+      "kind": "official",
+      "category": "economics",
+      "categoryName": "Speed, pricing and access",
+      "source": "reddit",
+      "sourceLabel": "r/accelerate",
+      "author": "u/stealthispost",
+      "publishedAt": "2026-09-16",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "points",
+        "value": 473
+      },
+      "sentiment": null,
+      "tags": [
+        "pricing",
+        "speed",
+        "launch"
+      ],
+      "repo": null,
+      "tier": "listed"
     }
   ]
 }
