@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25",
+  "generatedAt": "2026-09-26",
   "categories": [
     {
       "id": "routing",
@@ -432,7 +432,7 @@
       "addedAt": "2026-09-22",
       "metric": {
         "type": "stars",
-        "value": 4
+        "value": 5
       },
       "sentiment": null,
       "tags": [
@@ -733,7 +733,7 @@
         "archived": false,
         "license": "MIT",
         "language": "JavaScript",
-        "pushedAt": "2026-09-22T13:08:30Z"
+        "pushedAt": "2026-09-26T05:02:50Z"
       },
       "tier": "listed"
     },
@@ -784,7 +784,7 @@
       "addedAt": "2026-09-22",
       "metric": {
         "type": "stars",
-        "value": 85
+        "value": 90
       },
       "sentiment": null,
       "tags": [
@@ -816,7 +816,7 @@
       "addedAt": "2026-09-22",
       "metric": {
         "type": "stars",
-        "value": 272
+        "value": 273
       },
       "sentiment": null,
       "tags": [
@@ -1354,7 +1354,7 @@
       "addedAt": "2026-09-22",
       "metric": {
         "type": "stars",
-        "value": 12135
+        "value": 12184
       },
       "sentiment": null,
       "tags": [
@@ -1367,7 +1367,7 @@
         "archived": false,
         "license": "Apache-2.0",
         "language": "Python",
-        "pushedAt": "2026-09-25T07:54:36Z"
+        "pushedAt": "2026-09-25T15:35:44Z"
       },
       "tier": "listed"
     },
@@ -1386,7 +1386,7 @@
       "addedAt": "2026-09-22",
       "metric": {
         "type": "stars",
-        "value": 454
+        "value": 462
       },
       "sentiment": null,
       "tags": [
@@ -1994,7 +1994,7 @@
       "addedAt": "2026-09-21",
       "metric": {
         "type": "stars",
-        "value": 16
+        "value": 17
       },
       "sentiment": null,
       "tags": [
@@ -2007,7 +2007,7 @@
         "archived": false,
         "license": "Apache-2.0",
         "language": "Rust",
-        "pushedAt": "2026-09-24T14:42:08Z"
+        "pushedAt": "2026-09-25T21:20:52Z"
       },
       "tier": "listed"
     },
@@ -2026,7 +2026,7 @@
       "addedAt": "2026-09-21",
       "metric": {
         "type": "stars",
-        "value": 20
+        "value": 21
       },
       "sentiment": null,
       "tags": [
@@ -2058,7 +2058,7 @@
       "addedAt": "2026-09-21",
       "metric": {
         "type": "stars",
-        "value": 85
+        "value": 87
       },
       "sentiment": null,
       "tags": [
@@ -2376,7 +2376,7 @@
       "addedAt": "2026-09-21",
       "metric": {
         "type": "stars",
-        "value": 76
+        "value": 81
       },
       "sentiment": null,
       "tags": [
@@ -2655,7 +2655,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 0
+        "value": 14
       },
       "sentiment": null,
       "tags": [
@@ -2668,9 +2668,9 @@
         "archived": false,
         "license": "Apache-2.0",
         "language": "PHP",
-        "pushedAt": "2026-09-25T01:35:59Z"
+        "pushedAt": "2026-09-26T02:35:19Z"
       },
-      "tier": "unproven"
+      "tier": "listed"
     },
     {
       "id": "e_mua9jixjgs1vy7",
@@ -2700,7 +2700,7 @@
         "archived": false,
         "license": "MIT",
         "language": "Scala",
-        "pushedAt": "2026-09-25T07:49:38Z"
+        "pushedAt": "2026-09-25T08:02:50Z"
       },
       "tier": "unproven"
     },
@@ -2732,7 +2732,7 @@
         "archived": false,
         "license": "CC0-1.0",
         "language": "",
-        "pushedAt": "2026-09-25T07:24:01Z"
+        "pushedAt": "2026-09-26T07:25:00Z"
       },
       "tier": "listed"
     },
@@ -2796,7 +2796,7 @@
         "archived": false,
         "license": "MIT",
         "language": "Python",
-        "pushedAt": "2026-09-24T22:44:36Z"
+        "pushedAt": "2026-09-25T18:35:06Z"
       },
       "tier": "listed"
     },
@@ -2924,7 +2924,7 @@
         "archived": false,
         "license": "MIT",
         "language": "TypeScript",
-        "pushedAt": "2026-09-20T20:25:27Z"
+        "pushedAt": "2026-09-25T08:55:49Z"
       },
       "tier": "listed"
     },
@@ -2943,7 +2943,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 191
+        "value": 220
       },
       "sentiment": null,
       "tags": [
@@ -3316,7 +3316,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 0
+        "value": 1
       },
       "sentiment": null,
       "tags": [
@@ -3331,7 +3331,7 @@
         "language": "HTML",
         "pushedAt": "2026-09-22T05:01:03Z"
       },
-      "tier": "unproven"
+      "tier": "listed"
     },
     {
       "id": "e_mua98rh33f6owq",
@@ -3790,7 +3790,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 9
+        "value": 10
       },
       "sentiment": null,
       "tags": [
@@ -4045,7 +4045,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 448
+        "value": 457
       },
       "sentiment": null,
       "tags": [
@@ -4077,7 +4077,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 954
+        "value": 981
       },
       "sentiment": null,
       "tags": [
@@ -4090,7 +4090,7 @@
         "archived": false,
         "license": "MIT",
         "language": "Python",
-        "pushedAt": "2026-09-23T21:55:27Z"
+        "pushedAt": "2026-09-26T05:39:32Z"
       },
       "tier": "listed"
     },
@@ -4354,7 +4354,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 513
+        "value": 522
       },
       "sentiment": null,
       "tags": [
@@ -4367,7 +4367,7 @@
         "archived": false,
         "license": "MIT",
         "language": "HTML",
-        "pushedAt": "2026-09-24T14:54:47Z"
+        "pushedAt": "2026-09-26T04:31:10Z"
       },
       "tier": "listed"
     },
@@ -4509,7 +4509,7 @@
         "archived": false,
         "license": "",
         "language": "TypeScript",
-        "pushedAt": "2026-09-25T00:10:53Z"
+        "pushedAt": "2026-09-25T19:46:26Z"
       },
       "tier": "unproven"
     },
@@ -5109,7 +5109,7 @@
         "archived": false,
         "license": "MIT",
         "language": "HTML",
-        "pushedAt": "2026-09-25T06:38:17Z"
+        "pushedAt": "2026-09-26T04:53:44Z"
       },
       "tier": "listed"
     },
@@ -5324,7 +5324,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 3
+        "value": 4
       },
       "sentiment": null,
       "tags": [
@@ -5674,7 +5674,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 20
+        "value": 22
       },
       "sentiment": null,
       "tags": [
@@ -5687,7 +5687,7 @@
         "archived": false,
         "license": "MIT",
         "language": "JavaScript",
-        "pushedAt": "2026-09-25T05:39:51Z"
+        "pushedAt": "2026-09-26T02:33:22Z"
       },
       "tier": "listed"
     },
@@ -5706,7 +5706,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 18
+        "value": 19
       },
       "sentiment": null,
       "tags": [
@@ -5751,7 +5751,7 @@
         "archived": false,
         "license": "MIT",
         "language": "TypeScript",
-        "pushedAt": "2026-09-25T06:45:03Z"
+        "pushedAt": "2026-09-26T06:42:13Z"
       },
       "tier": "listed"
     },
@@ -5903,7 +5903,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 0
+        "value": 1
       },
       "sentiment": null,
       "tags": [
@@ -5918,7 +5918,7 @@
         "language": "Python",
         "pushedAt": "2026-09-21T15:46:19Z"
       },
-      "tier": "unproven"
+      "tier": "listed"
     },
     {
       "id": "e_mu9yc17udbd7jl",
@@ -6273,7 +6273,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 3
+        "value": 2
       },
       "sentiment": null,
       "tags": [
@@ -6337,7 +6337,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 5
+        "value": 6
       },
       "sentiment": null,
       "tags": [
@@ -6563,7 +6563,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 8
+        "value": 9
       },
       "sentiment": null,
       "tags": [
@@ -6595,7 +6595,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 101
+        "value": 104
       },
       "sentiment": null,
       "tags": [
@@ -6679,7 +6679,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 5
+        "value": 13
       },
       "sentiment": null,
       "tags": [
@@ -6690,9 +6690,9 @@
       "repo": {
         "slug": "Bald0Wang/jev-docs-zh",
         "archived": false,
-        "license": "",
-        "language": "Jupyter Notebook",
-        "pushedAt": "2026-09-25T06:53:51Z"
+        "license": "NOASSERTION",
+        "language": "Python",
+        "pushedAt": "2026-09-26T01:20:02Z"
       },
       "tier": "listed"
     },
@@ -6938,7 +6938,7 @@
         "archived": false,
         "license": "MIT",
         "language": "Java",
-        "pushedAt": "2026-09-21T14:38:24Z"
+        "pushedAt": "2026-09-26T06:59:20Z"
       },
       "tier": "listed"
     },
@@ -7041,7 +7041,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 11
+        "value": 12
       },
       "sentiment": null,
       "tags": [
@@ -7054,7 +7054,7 @@
         "archived": false,
         "license": "CC0-1.0",
         "language": "Python",
-        "pushedAt": "2026-09-25T03:42:17Z"
+        "pushedAt": "2026-09-26T04:46:30Z"
       },
       "tier": "listed"
     },
@@ -7339,7 +7339,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 134
+        "value": 137
       },
       "sentiment": null,
       "tags": [
@@ -7397,7 +7397,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 85
+        "value": 86
       },
       "sentiment": null,
       "tags": [
@@ -7410,7 +7410,7 @@
         "archived": false,
         "license": "NOASSERTION",
         "language": "Python",
-        "pushedAt": "2026-09-25T06:02:41Z"
+        "pushedAt": "2026-09-26T05:59:08Z"
       },
       "tier": "listed"
     },
@@ -7481,7 +7481,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 120
+        "value": 121
       },
       "sentiment": null,
       "tags": [
@@ -7494,7 +7494,7 @@
         "archived": false,
         "license": "NOASSERTION",
         "language": "Rust",
-        "pushedAt": "2026-09-25T06:57:51Z"
+        "pushedAt": "2026-09-26T05:46:01Z"
       },
       "tier": "listed"
     },
@@ -7591,7 +7591,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 223
+        "value": 229
       },
       "sentiment": null,
       "tags": [
@@ -7623,7 +7623,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 235
+        "value": 240
       },
       "sentiment": null,
       "tags": [
@@ -7655,7 +7655,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 294
+        "value": 299
       },
       "sentiment": null,
       "tags": [
@@ -7713,7 +7713,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 846
+        "value": 851
       },
       "sentiment": null,
       "tags": [
@@ -7771,7 +7771,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 2109
+        "value": 2159
       },
       "sentiment": null,
       "tags": [
@@ -7872,7 +7872,7 @@
       "addedAt": "2026-09-23",
       "metric": {
         "type": "stars",
-        "value": 120
+        "value": 122
       },
       "sentiment": null,
       "tags": [
@@ -7885,7 +7885,7 @@
         "archived": false,
         "license": "MIT",
         "language": "Rust",
-        "pushedAt": "2026-09-25T00:34:08Z"
+        "pushedAt": "2026-09-26T06:09:49Z"
       },
       "tier": "listed"
     },
@@ -8020,7 +8020,7 @@
       "addedAt": "2026-09-22",
       "metric": {
         "type": "stars",
-        "value": 36
+        "value": 35
       },
       "sentiment": null,
       "tags": [
@@ -8252,7 +8252,7 @@
       "addedAt": "2026-09-23",
       "metric": {
         "type": "stars",
-        "value": 45
+        "value": 47
       },
       "sentiment": null,
       "tags": [
@@ -8265,7 +8265,7 @@
         "archived": false,
         "license": "Apache-2.0",
         "language": "Swift",
-        "pushedAt": "2026-09-24T11:42:18Z"
+        "pushedAt": "2026-09-25T23:41:39Z"
       },
       "tier": "listed"
     },
@@ -8342,7 +8342,7 @@
       "addedAt": "2026-09-23",
       "metric": {
         "type": "stars",
-        "value": 87
+        "value": 93
       },
       "sentiment": null,
       "tags": [
@@ -8406,7 +8406,7 @@
       "addedAt": "2026-09-22",
       "metric": {
         "type": "stars",
-        "value": 148
+        "value": 150
       },
       "sentiment": null,
       "tags": [
@@ -8451,7 +8451,7 @@
         "archived": false,
         "license": "MIT",
         "language": "JavaScript",
-        "pushedAt": "2026-09-24T14:11:48Z"
+        "pushedAt": "2026-09-25T17:25:16Z"
       },
       "tier": "listed"
     },
@@ -8470,7 +8470,7 @@
       "addedAt": "2026-09-22",
       "metric": {
         "type": "stars",
-        "value": 7
+        "value": 9
       },
       "sentiment": null,
       "tags": [
@@ -8483,7 +8483,7 @@
         "archived": false,
         "license": "MIT",
         "language": "Java",
-        "pushedAt": "2026-09-23T13:03:28Z"
+        "pushedAt": "2026-09-25T14:50:00Z"
       },
       "tier": "listed"
     },
@@ -8502,7 +8502,7 @@
       "addedAt": "2026-09-23",
       "metric": {
         "type": "stars",
-        "value": 393
+        "value": 401
       },
       "sentiment": null,
       "tags": [
@@ -8515,7 +8515,7 @@
         "archived": false,
         "license": "CC0-1.0",
         "language": "",
-        "pushedAt": "2026-09-24T15:59:17Z"
+        "pushedAt": "2026-09-25T17:25:26Z"
       },
       "tier": "listed"
     },
@@ -8534,7 +8534,7 @@
       "addedAt": "2026-09-22",
       "metric": {
         "type": "stars",
-        "value": 347
+        "value": 414
       },
       "sentiment": null,
       "tags": [
@@ -8547,7 +8547,7 @@
         "archived": false,
         "license": "NOASSERTION",
         "language": "JavaScript",
-        "pushedAt": "2026-09-24T08:31:20Z"
+        "pushedAt": "2026-09-25T08:52:59Z"
       },
       "tier": "listed"
     },
@@ -8566,7 +8566,7 @@
       "addedAt": "2026-09-23",
       "metric": {
         "type": "stars",
-        "value": 1638
+        "value": 1699
       },
       "sentiment": null,
       "tags": [
@@ -8579,7 +8579,7 @@
         "archived": false,
         "license": "",
         "language": "Python",
-        "pushedAt": "2026-09-24T23:00:20Z"
+        "pushedAt": "2026-09-26T05:48:20Z"
       },
       "tier": "listed"
     },
@@ -8598,7 +8598,7 @@
       "addedAt": "2026-09-23",
       "metric": {
         "type": "stars",
-        "value": 513
+        "value": 522
       },
       "sentiment": null,
       "tags": [
@@ -8611,7 +8611,7 @@
         "archived": false,
         "license": "MIT",
         "language": "HTML",
-        "pushedAt": "2026-09-24T14:54:47Z"
+        "pushedAt": "2026-09-26T04:31:10Z"
       },
       "tier": "listed"
     },
@@ -8630,7 +8630,7 @@
       "addedAt": "2026-09-22",
       "metric": {
         "type": "stars",
-        "value": 302
+        "value": 306
       },
       "sentiment": null,
       "tags": [
@@ -8643,7 +8643,7 @@
         "archived": false,
         "license": "MIT",
         "language": "Go",
-        "pushedAt": "2026-09-23T21:36:02Z"
+        "pushedAt": "2026-09-25T19:22:16Z"
       },
       "tier": "listed"
     },
@@ -8694,7 +8694,7 @@
       "addedAt": "2026-09-23",
       "metric": {
         "type": "stars",
-        "value": 235
+        "value": 240
       },
       "sentiment": null,
       "tags": [
@@ -8726,7 +8726,7 @@
       "addedAt": "2026-09-22",
       "metric": {
         "type": "stars",
-        "value": 757
+        "value": 758
       },
       "sentiment": null,
       "tags": [
@@ -8739,7 +8739,7 @@
         "archived": false,
         "license": "MIT",
         "language": "TypeScript",
-        "pushedAt": "2026-09-25T07:45:44Z"
+        "pushedAt": "2026-09-25T19:45:54Z"
       },
       "tier": "listed"
     },
@@ -8758,7 +8758,7 @@
       "addedAt": "2026-09-23",
       "metric": {
         "type": "stars",
-        "value": 20
+        "value": 21
       },
       "sentiment": null,
       "tags": [
@@ -8771,7 +8771,7 @@
         "archived": false,
         "license": "",
         "language": "Rust",
-        "pushedAt": "2026-09-24T10:21:38Z"
+        "pushedAt": "2026-09-25T20:45:30Z"
       },
       "tier": "listed"
     },
@@ -8941,7 +8941,11 @@
         "cloudflare"
       ],
       "repo": {
-        "slug": "cooper667/jev-browse"
+        "slug": "cooper667/jev-browse",
+        "archived": false,
+        "license": "MIT",
+        "language": "TypeScript",
+        "pushedAt": "2026-09-25T13:29:19Z"
       },
       "tier": "listed"
     },
@@ -8986,7 +8990,7 @@
       "addedAt": "2026-09-24",
       "metric": {
         "type": "stars",
-        "value": 10
+        "value": 11
       },
       "sentiment": null,
       "tags": [
@@ -8994,7 +8998,11 @@
         "replacement"
       ],
       "repo": {
-        "slug": "Mushroom-Systems/lichen"
+        "slug": "Mushroom-Systems/lichen",
+        "archived": false,
+        "license": "MIT",
+        "language": "Python",
+        "pushedAt": "2026-09-24T19:09:08Z"
       },
       "tier": "listed"
     },
@@ -9062,7 +9070,7 @@
       "addedAt": "2026-09-24",
       "metric": {
         "type": "stars",
-        "value": 10
+        "value": 11
       },
       "sentiment": null,
       "tags": [
@@ -9071,7 +9079,11 @@
         "cli"
       ],
       "repo": {
-        "slug": "agencyenterprise/jev-recipes"
+        "slug": "agencyenterprise/jev-recipes",
+        "archived": false,
+        "license": "MIT",
+        "language": "TypeScript",
+        "pushedAt": "2026-09-25T07:52:43Z"
       },
       "tier": "listed"
     },
@@ -9090,7 +9102,7 @@
       "addedAt": "2026-09-24",
       "metric": {
         "type": "stars",
-        "value": 351
+        "value": 438
       },
       "sentiment": null,
       "tags": [
@@ -9099,7 +9111,11 @@
         "validation"
       ],
       "repo": {
-        "slug": "kydlikebtc/awesome-jev"
+        "slug": "kydlikebtc/awesome-jev",
+        "archived": false,
+        "license": "NOASSERTION",
+        "language": "Python",
+        "pushedAt": "2026-09-25T04:20:32Z"
       },
       "tier": "listed"
     },
@@ -9127,7 +9143,11 @@
         "agents"
       ],
       "repo": {
-        "slug": "mansicer/jev-plays"
+        "slug": "mansicer/jev-plays",
+        "archived": false,
+        "license": "Apache-2.0",
+        "language": "Python",
+        "pushedAt": "2026-09-24T11:30:47Z"
       },
       "tier": "listed"
     },
@@ -9146,7 +9166,7 @@
       "addedAt": "2026-09-25",
       "metric": {
         "type": "stars",
-        "value": 11
+        "value": 13
       },
       "sentiment": null,
       "tags": [
@@ -9155,7 +9175,11 @@
         "chinese"
       ],
       "repo": {
-        "slug": "datawhalechina/jev-cookbook"
+        "slug": "datawhalechina/jev-cookbook",
+        "archived": false,
+        "license": "NOASSERTION",
+        "language": "Python",
+        "pushedAt": "2026-09-26T01:20:02Z"
       },
       "tier": "listed"
     },
@@ -9200,7 +9224,7 @@
       "addedAt": "2026-09-24",
       "metric": {
         "type": "stars",
-        "value": 221
+        "value": 228
       },
       "sentiment": null,
       "tags": [
@@ -9209,7 +9233,11 @@
         "gateway"
       ],
       "repo": {
-        "slug": "vinilana/jev-gateway"
+        "slug": "vinilana/jev-gateway",
+        "archived": false,
+        "license": "MIT",
+        "language": "TypeScript",
+        "pushedAt": "2026-09-25T21:10:35Z"
       },
       "tier": "listed"
     },
@@ -9237,7 +9265,11 @@
         "client"
       ],
       "repo": {
-        "slug": "Olti1947/jev-java"
+        "slug": "Olti1947/jev-java",
+        "archived": false,
+        "license": "",
+        "language": "Java",
+        "pushedAt": "2026-09-24T20:13:14Z"
       },
       "tier": "listed"
     },
@@ -9264,7 +9296,11 @@
         "ecosystem"
       ],
       "repo": {
-        "slug": "daftAI2026/awesome-jev"
+        "slug": "daftAI2026/awesome-jev",
+        "archived": false,
+        "license": "",
+        "language": "TypeScript",
+        "pushedAt": "2026-09-26T05:32:28Z"
       },
       "tier": "listed"
     },
@@ -9318,7 +9354,11 @@
         "react"
       ],
       "repo": {
-        "slug": "GhrezaKh74/JevTicktRouter"
+        "slug": "GhrezaKh74/JevTicktRouter",
+        "archived": false,
+        "license": "",
+        "language": "C#",
+        "pushedAt": "2026-09-22T19:49:00Z"
       },
       "tier": "listed"
     },
@@ -9345,7 +9385,11 @@
         "sdk"
       ],
       "repo": {
-        "slug": "joshmn/typesafe-sdk"
+        "slug": "joshmn/typesafe-sdk",
+        "archived": false,
+        "license": "MIT",
+        "language": "Ruby",
+        "pushedAt": "2026-09-24T12:23:04Z"
       },
       "tier": "listed"
     },
@@ -9372,7 +9416,11 @@
         "sdk"
       ],
       "repo": {
-        "slug": "codeitlikemiley/typesafe-sdk-rust"
+        "slug": "codeitlikemiley/typesafe-sdk-rust",
+        "archived": false,
+        "license": "MIT",
+        "language": "Rust",
+        "pushedAt": "2026-09-24T11:38:31Z"
       },
       "tier": "listed"
     },
@@ -9417,7 +9465,7 @@
       "addedAt": "2026-09-26",
       "metric": {
         "type": "stars",
-        "value": 85
+        "value": 87
       },
       "sentiment": null,
       "tags": [
@@ -9430,7 +9478,7 @@
         "archived": false,
         "license": "MIT",
         "language": "JavaScript",
-        "pushedAt": "2026-09-26T05:06:09Z"
+        "pushedAt": "2026-09-26T08:40:03Z"
       },
       "tier": "listed"
     }
