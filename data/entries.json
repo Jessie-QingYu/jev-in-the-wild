@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25",
+  "generatedAt": "2026-09-26",
   "categories": [
     {
       "id": "routing",
@@ -9398,6 +9398,31 @@
         "system one",
         "real-time",
         "doom"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_jevwild260930216",
+      "title": "Surveys Jev's application ecosystem across 2,170 projects",
+      "summary": "The first data-driven survey and analysis of Jev's application ecosystem examines 2,170 public GitHub projects, documenting rapid early growth, application domains, decision purposes, and interface use.",
+      "url": "https://arxiv.org/abs/2609.30216",
+      "kind": "opinion",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "web",
+      "sourceLabel": "arXiv",
+      "author": "Guoming Ling, Muen Xue, Zijian Ye",
+      "publishedAt": "2026-09-24",
+      "addedAt": "2026-09-26",
+      "metric": null,
+      "sentiment": null,
+      "tags": [
+        "ecosystem",
+        "applications",
+        "survey",
+        "analysis",
+        "research"
       ],
       "repo": null,
       "tier": "listed"
