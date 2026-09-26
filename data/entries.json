@@ -9449,6 +9449,38 @@
       ],
       "repo": null,
       "tier": "listed"
+    },
+    {
+      "id": "e_jevsocial",
+      "title": "Research social media through a signed-in browser",
+      "summary": "Jev chooses among bounded browser actions while the local application captures posts, comments, media, and source links before a separate model writes the report.",
+      "url": "https://github.com/socai-io/jev-social",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "socai-io/jev-social",
+      "author": "socai-io",
+      "publishedAt": "2026-09-18",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "stars",
+        "value": 87
+      },
+      "sentiment": null,
+      "tags": [
+        "browser automation",
+        "social research",
+        "evidence"
+      ],
+      "repo": {
+        "slug": "socai-io/jev-social",
+        "archived": false,
+        "license": "MIT",
+        "language": "JavaScript",
+        "pushedAt": "2026-09-26T08:40:03Z"
+      },
+      "tier": "listed"
     }
   ]
 }
