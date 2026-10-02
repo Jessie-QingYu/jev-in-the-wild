@@ -11229,6 +11229,143 @@
         "pushedAt": "2026-09-25T08:03:07Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_mupo0ify39nogk",
+      "title": "Run open-weight visual Jev-style decisions locally",
+      "summary": "Vev provides Qwen3.5 4B/9B fine-tunes for image-conditioned yes/no, choice, and scoring decisions, returning answer probabilities via local inference and a Jev-compatible API.",
+      "url": "https://reddit.com/r/computervision/comments/1wuyyrz/vev_jevlike_vision_decision_models_built_on",
+      "kind": "code",
+      "category": "imitations",
+      "categoryName": "Open imitations and local models",
+      "source": "reddit",
+      "sourceLabel": "r/computervision",
+      "author": "u/Pure-Job1336",
+      "publishedAt": "2026-10-01",
+      "addedAt": "2026-10-01",
+      "metric": {
+        "type": "points",
+        "value": 28
+      },
+      "sentiment": null,
+      "tags": [
+        "vision",
+        "open-weights",
+        "local-inference"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muldrze9t2wvoz",
+      "title": "Find clothing from natural-language requests",
+      "summary": "A Turkish-language app uses Jev to make clothing-search decisions and code to rank the results, separating intent judgment from result ordering.",
+      "url": "https://github.com/selmakcby/jev-kiyafet-bul",
+      "kind": "usecase",
+      "category": "routing",
+      "categoryName": "Classification and routing",
+      "source": "github",
+      "sourceLabel": "selmakcby",
+      "author": "selmakcby",
+      "publishedAt": "2026-09-28",
+      "addedAt": "2026-09-28",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "shopping",
+        "search",
+        "turkish"
+      ],
+      "repo": {
+        "slug": "selmakcby/jev-kiyafet-bul"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muldtluxk5m0pw",
+      "title": "Collect papers on Jev and System One models",
+      "summary": "A GitHub repository curates research papers about Jev, TypeSafe's System One model, and open models modeled after it.",
+      "url": "https://github.com/OmniJev/awesome-jev-papers",
+      "kind": "code",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "github",
+      "sourceLabel": "OmniJev",
+      "author": "OmniJev",
+      "publishedAt": "2026-09-28",
+      "addedAt": "2026-09-28",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "papers",
+        "system-one",
+        "open-models"
+      ],
+      "repo": {
+        "slug": "OmniJev/awesome-jev-papers"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mur3hmsmc2ule6",
+      "title": "Bridge Jev into Apple Foundation Models",
+      "summary": "A lightweight native Swift 6 bridge integrates Jev System One decisions with Apple's Foundation Models framework.",
+      "url": "https://github.com/peterfriese/system-one-foundation-models",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "peterfriese",
+      "author": "peterfriese",
+      "publishedAt": "2026-09-21",
+      "addedAt": "2026-10-02",
+      "metric": {
+        "type": "stars",
+        "value": 60
+      },
+      "sentiment": null,
+      "tags": [
+        "swift",
+        "apple",
+        "bridge"
+      ],
+      "repo": {
+        "slug": "peterfriese/system-one-foundation-models"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mur3hmskpjq6qq",
+      "title": "Curate an awesome list of Jev tools",
+      "summary": "GitHub repository collecting tools built around Jev and TypeSafe AI's System One typed-decision model.",
+      "url": "https://github.com/v-modal/awesome-jev-tools",
+      "kind": "code",
+      "category": "other",
+      "categoryName": "Everything else",
+      "source": "github",
+      "sourceLabel": "v-modal",
+      "author": "v-modal",
+      "publishedAt": "2026-09-19",
+      "addedAt": "2026-10-02",
+      "metric": {
+        "type": "stars",
+        "value": 736
+      },
+      "sentiment": null,
+      "tags": [
+        "curation",
+        "tools"
+      ],
+      "repo": {
+        "slug": "v-modal/awesome-jev-tools"
+      },
+      "tier": "listed"
     }
   ]
 }
