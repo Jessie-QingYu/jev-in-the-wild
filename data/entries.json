@@ -11382,6 +11382,111 @@
         "pushedAt": "2026-10-02T03:56:49Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_musix4qi1dmhis",
+      "title": "Make Jev decisions from PowerShell",
+      "summary": "A PowerShell repository for making decisions with TypeSafe AI's Jev model, linking to the official System One introduction.",
+      "url": "https://github.com/dfinke/Jev",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "dfinke",
+      "author": "dfinke",
+      "publishedAt": "2026-09-22",
+      "addedAt": "2026-10-03",
+      "metric": {
+        "type": "stars",
+        "value": 8
+      },
+      "sentiment": null,
+      "tags": [
+        "powershell",
+        "sdk"
+      ],
+      "repo": {
+        "slug": "dfinke/Jev"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_musivw9fn1b4tw",
+      "title": "Jev beats cheap LLMs but not DIY classifiers on cost",
+      "summary": "A founder reports Jev was 5–13 points more accurate than tested cheap LLM configurations across 200 human-labeled calls, but not cheaper than their DIY route or uniquely well calibrated.",
+      "url": "https://navyaai.com/blog/jev-typesafe-limitations-production",
+      "kind": "opinion",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "web",
+      "sourceLabel": "NavyaAI",
+      "author": "Vikas Chamarthi",
+      "publishedAt": "2026-09-21",
+      "addedAt": "2026-10-03",
+      "metric": null,
+      "sentiment": "mixed",
+      "tags": [
+        "accuracy",
+        "cost",
+        "calibration"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_musix4qj27wp8v",
+      "title": "Monitor agent chains and contain malicious behavior with Jev",
+      "summary": "A HackSpain project combining Jev and Sentinel for chain-level malicious-agent detection, escalation-based containment, Neo4j forensics, and a dashboard.",
+      "url": "https://github.com/carlosedm10/agi-jev-containment",
+      "kind": "code",
+      "category": "guardrails",
+      "categoryName": "Guardrails and verification",
+      "source": "github",
+      "sourceLabel": "carlosedm10",
+      "author": "carlosedm10",
+      "publishedAt": "2026-09-14",
+      "addedAt": "2026-10-03",
+      "metric": {
+        "type": "stars",
+        "value": 4
+      },
+      "sentiment": null,
+      "tags": [
+        "security",
+        "agents",
+        "containment"
+      ],
+      "repo": {
+        "slug": "carlosedm10/agi-jev-containment"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_musix4qg6smkv7",
+      "title": "Watch agents produce and check work, with Jev deciding",
+      "summary": "Atoma presents a workflow where AI agents produce and verify work while Jev makes decisions; repository details are limited in the supplied description.",
+      "url": "https://github.com/mgtf/atoma",
+      "kind": "code",
+      "category": "agents",
+      "categoryName": "Agent and workflow logic",
+      "source": "github",
+      "sourceLabel": "mgtf",
+      "author": "mgtf",
+      "publishedAt": "2026-04-18",
+      "addedAt": "2026-10-03",
+      "metric": {
+        "type": "stars",
+        "value": 16
+      },
+      "sentiment": null,
+      "tags": [
+        "agents",
+        "workflow"
+      ],
+      "repo": {
+        "slug": "mgtf/atoma"
+      },
+      "tier": "listed"
     }
   ]
 }
