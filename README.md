@@ -2,11 +2,11 @@
 
 **Real-world use cases, open-source projects, benchmarks and criticism of [Jev](https://typesafe.ai), TypeSafe AI's System One model — what people actually build with it, and where it actually fails.**
 
-![entries](https://img.shields.io/badge/entries-348-2f81f7) ![open source](https://img.shields.io/badge/open%20source%20projects-216-2f81f7) ![updated](https://img.shields.io/badge/updated-2026--10--02-2f81f7) ![data license](https://img.shields.io/badge/data-CC0--1.0-2f81f7)
+![entries](https://img.shields.io/badge/entries-349-2f81f7) ![open source](https://img.shields.io/badge/open%20source%20projects-216-2f81f7) ![updated](https://img.shields.io/badge/updated-2026--10--02-2f81f7) ![data license](https://img.shields.io/badge/data-CC0--1.0-2f81f7)
 
 Three things make this different from the other Jev lists:
 
-1. **It is not only GitHub.** 174 of the 348 entries are Reddit threads, Hacker News posts, YouTube evaluations and blog write-ups — where most of the first-hand reporting actually happens.
+1. **It is not only GitHub.** 175 of the 349 entries are Reddit threads, Hacker News posts, YouTube evaluations and blog write-ups — where most of the first-hand reporting actually happens.
 2. **It includes the criticism.** An awesome list is promotional by construction. This one has a [section for what does not work](#where-jev-struggles), and negative results are welcome in every other section too.
 3. **It is data, not prose.** [`data/entries.json`](data/entries.json) is the source of truth and this README is generated from it. Fork the data, build something better, no scraping required.
 
@@ -44,12 +44,12 @@ Three things make this different from the other Jev lists:
 
 | | |
 | --- | --- |
-| Entries | **348** listed, 42 unproven |
+| Entries | **349** listed, 42 unproven |
 | Open-source projects | 216 |
 | Reported use cases | 51 |
-| Analysis and criticism | 66 |
+| Analysis and criticism | 67 |
 | Official from TypeSafe AI | 33 |
-| Where the entries come from | GitHub 204, Reddit 98, YouTube 25, Hacker News 20, blogs and web 43 |
+| Where the entries come from | GitHub 204, Reddit 98, YouTube 25, Hacker News 20, blogs and web 44 |
 | Languages of the code | Python 71, TypeScript 45, JavaScript 25, Rust 13, Go 9, HTML 9 |
 | Categories | 12 |
 | Last refreshed | 2026-10-02 |
@@ -419,7 +419,7 @@ Every other Jev list is a highlight reel. These are the entries that report a li
 
 ### Model and research
 
-*How it works: System One framing, calibrated decisions, RLCD, what it cannot do.* — 37 entries
+*How it works: System One framing, calibrated decisions, RLCD, what it cannot do.* — 38 entries
 
 | What | What it does | Kind | Signal | Date |
 | --- | --- | --- | --- | --- |
@@ -449,6 +449,7 @@ Every other Jev list is a highlight reel. These are the entries that report a li
 | [Collect papers on Jev and System One models](https://github.com/OmniJev/awesome-jev-papers) | A GitHub repository curates research papers about Jev, TypeSafe's System One model, and open models modeled after it. | code | ★ 3 | 2026-09-28 |
 | [Explains Jev as a decision layer, not an LLM replacement](https://reddit.com/r/ArtificialInteligence/comments/1wl2our/spent_over_2_hours_going_through_the_jev_docs_and) | After working through the docs, the author explains Jev’s typed choices, scores and checks, and demonstrates the API through the playground, curl, Python SDK and an agent. | opinion | — | 2026-09-20 |
 | [Argues Jev is a decision model, not a chatbot](https://youtube.com/watch?v=1cuUm-k3e9Y) | An explainer emphasizing Jev's distinction from conversational chatbots and its typed-decision role. | opinion | ▶ 2.2k | 2026-09-16 |
+| [Surveys Jev's application ecosystem across 2,170 projects](https://arxiv.org/abs/2609.30216) | The first data-driven survey and analysis of Jev's application ecosystem examines 2,170 public GitHub projects, documenting rapid early growth, application domains, decision purposes, and interface use. | opinion | — | 2026-09-24 |
 | [Jev model overview](https://jevtypesafe.org/) | TypeSafe AI describes Jev as a fast System One model for structured decisions such as routing, classification and scoring, used alongside generative LLMs. | official | — | 2026-09-23 |
 | [Narrow Jev’s claims while keeping routing value](https://eesel.ai/blog/typesafe-jev-review) | Review finds structured decisions compelling for high-volume routing and support triage, but says “can’t hallucinate” is oversold and treats launch benchmarks and pricing cautiously. | opinion | — | 2026-09-21 |
 | [Explains Jev’s non-autoregressive decision model](https://mindstudio.ai/blog/jev-system-one-model-launch) | An explainer argues that Jev matters because it outputs typed decisions, probabilities and confidence directly rather than generating text token by token. | opinion | — | 2026-09-20 |
@@ -709,7 +710,7 @@ Every other Jev list is a highlight reel. These are the entries that report a li
 
 **What stays out.** Reposted news, "what is Jev" explainers with nothing behind them, reaction videos, and anything whose only claim is that Jev exists. A repository with no stars is not rejected — it goes to [New and unproven](#new-and-unproven).
 
-**The site and this list are not the same set.** The [live tracker](https://jessie.romeos.cc/full/apps/jev-tracker) shows every candidate the scan has found — currently more than the 348 listed here — because it is the raw feed. This list is the filtered one: after the first import, a new entry has to clear a bar before it is added (3+ GitHub stars, 10+ forum points, 1000+ video views; TypeSafe AI's own releases always, and an article on a formed judgment). So the site answers "what is out there", and this list answers "what has anyone else noticed".
+**The site and this list are not the same set.** The [live tracker](https://jessie.romeos.cc/full/apps/jev-tracker) shows every candidate the scan has found — currently more than the 349 listed here — because it is the raw feed. This list is the filtered one: after the first import, a new entry has to clear a bar before it is added (3+ GitHub stars, 10+ forum points, 1000+ video views; TypeSafe AI's own releases always, and an article on a formed judgment). So the site answers "what is out there", and this list answers "what has anyone else noticed".
 
 **What is automated and what is not.** The long tables are maintained automatically: numbers are re-read from the GitHub API daily, and the README is regenerated from the data. [Ten worth opening first](#ten-worth-opening-first) is chosen by hand, the reasons are written by hand, and every incoming pull request is reviewed by a person. Nothing merges itself.
 
