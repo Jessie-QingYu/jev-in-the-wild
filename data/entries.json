@@ -11499,6 +11499,170 @@
         "pushedAt": "2026-10-04T08:25:24Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_mutyfm37cpix9x",
+      "title": "Jev available in EU hosting region",
+      "summary": "Jev System One model now deployed in EU through jev.bevel.software, enabling region-compliant deployments with local data residency.",
+      "url": "https://jev.bevel.software/",
+      "kind": "official",
+      "category": "economics",
+      "categoryName": "Speed, pricing and access",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "author": "juanviera23",
+      "publishedAt": "2026-10-01",
+      "addedAt": "2026-10-04",
+      "metric": {
+        "type": "points",
+        "value": 2
+      },
+      "sentiment": null,
+      "tags": [
+        "deployment",
+        "eu",
+        "availability"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mur3i9gkli726o",
+      "title": "Route agent tasks through Jev decision layer",
+      "summary": "Open-source agent decision layer uses TypeSafe Jev for typed task, tool, skill, and review routing, with local policy gates and auditable receipts.",
+      "url": "https://github.com/qualixar/jev-decision-layer",
+      "kind": "code",
+      "category": "agents",
+      "categoryName": "Agent and workflow logic",
+      "source": "github",
+      "sourceLabel": "qualixar",
+      "author": "qualixar",
+      "publishedAt": "2026-09-25",
+      "addedAt": "2026-10-02",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "agent-routing",
+        "policy-gates",
+        "audit"
+      ],
+      "repo": {
+        "slug": "qualixar/jev-decision-layer"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mutyjgf1s2l7om",
+      "title": "Machine-readable directory of Jev use cases and criticism | Jev 用例与批评的机器可读目录",
+      "summary": "Machine-readable catalog of real-world Jev projects, benchmarks, and critical analysis showing where Jev fails; updated daily. | 实时 Jev 项目、基准测试和批评分析的机器可读目录，包括失败案例，每日更新。",
+      "url": "https://github.com/Jessie-QingYu/jev-in-the-wild",
+      "kind": "code",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "github",
+      "sourceLabel": "Jessie-QingYu",
+      "author": "Jessie-QingYu",
+      "publishedAt": "2026-09-22",
+      "addedAt": "2026-10-04",
+      "metric": {
+        "type": "stars",
+        "value": 7
+      },
+      "sentiment": null,
+      "tags": [
+        "benchmarks",
+        "research",
+        "curation"
+      ],
+      "repo": {
+        "slug": "Jessie-QingYu/jev-in-the-wild"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mutyh60m36x4fn",
+      "title": "Jev tutorial for beginners | 初学者的Jev教程",
+      "summary": "Full-length YouTube tutorial explaining Jev and System One decision models as educational resource. | 完整的YouTube教程，解释Jev和系统一号决策模型。",
+      "url": "https://youtube.com/watch?v=d9lCIVc5AyU",
+      "kind": "opinion",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "youtube",
+      "sourceLabel": "Mayank Aggarwal",
+      "author": "Mayank Aggarwal",
+      "publishedAt": "2026-09-20",
+      "addedAt": "2026-10-04",
+      "metric": {
+        "type": "views",
+        "value": 54061
+      },
+      "sentiment": "positive",
+      "tags": [
+        "tutorial",
+        "system-one",
+        "learning"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mutyjgexxffvsj",
+      "title": "Jev classifier tool for Claude Code, Codex, Pi and OpenCode | Jev 分类器工具集成 Claude Code、Codex、Pi 和 OpenCode",
+      "summary": "Jev integrated as a tool in Claude Code, Codex, Pi and OpenCode for typed classify, check, score, rank operations and one-command setup. | Jev 作为工具集成到 Claude Code、Codex、Pi 和 OpenCode，支持类型化的分类、检查、评分、排名操作。",
+      "url": "https://github.com/FrancoisChastel/jev-code",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "FrancoisChastel",
+      "author": "FrancoisChastel",
+      "publishedAt": "2026-09-19",
+      "addedAt": "2026-10-04",
+      "metric": {
+        "type": "stars",
+        "value": 39
+      },
+      "sentiment": null,
+      "tags": [
+        "integrations",
+        "coding-tools",
+        "claude"
+      ],
+      "repo": {
+        "slug": "FrancoisChastel/jev-code"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mutyjgeza8ytmo",
+      "title": "Backtest Jev trader on NQ L10 order-book data | 在纳斯达克 L10 订单簿数据上回测 Jev 交易机器人",
+      "summary": "Backtest TypeSafe Jev classifier as automated BUY/SELL/HOLD trader against Nasdaq-100 L10 order-book data. | 使用 TypeSafe Jev 分类器作为自动化交易机器人进行回测，针对纳斯达克-100 L10 订单簿数据。",
+      "url": "https://github.com/justinhe16/trade-jev",
+      "kind": "usecase",
+      "category": "realtime",
+      "categoryName": "Real-time and games",
+      "source": "github",
+      "sourceLabel": "justinhe16",
+      "author": "justinhe16",
+      "publishedAt": "2026-09-17",
+      "addedAt": "2026-10-04",
+      "metric": {
+        "type": "stars",
+        "value": 12
+      },
+      "sentiment": null,
+      "tags": [
+        "trading",
+        "finance",
+        "backtesting"
+      ],
+      "repo": {
+        "slug": "justinhe16/trade-jev"
+      },
+      "tier": "listed"
     }
   ]
 }
