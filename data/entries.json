@@ -11679,6 +11679,292 @@
         "pushedAt": "2026-10-04T07:11:27Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_muvdwp73yf7btb",
+      "title": "Benchmark Jev against Cloudflare Clef",
+      "summary": "Head-to-head performance comparison between Jev and Cloudflare's new Clef decision model, testing accuracy and speed trade-offs.",
+      "url": "https://youtube.com/watch?v=Uihz1NkhFM0",
+      "kind": "opinion",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "youtube",
+      "sourceLabel": "Better Stack",
+      "author": "Better Stack",
+      "publishedAt": "2026-10-05",
+      "addedAt": "2026-10-05",
+      "metric": {
+        "type": "views",
+        "value": 18039
+      },
+      "sentiment": "mixed",
+      "tags": [
+        "comparison",
+        "cloudflare",
+        "performance"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muvdwp71kara5c",
+      "title": "Train fast Jev-compatible decision models",
+      "summary": "Architecture deep-dive explaining training techniques for Jev-compatible models from scratch, revealing performance optimization and structural design choices.",
+      "url": "https://youtube.com/watch?v=sF3CNPbWA8o",
+      "kind": "opinion",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "youtube",
+      "sourceLabel": "Neural Breakdown with AVB",
+      "author": "Neural Breakdown with AVB",
+      "publishedAt": "2026-10-04",
+      "addedAt": "2026-10-05",
+      "metric": {
+        "type": "views",
+        "value": 19960
+      },
+      "sentiment": "positive",
+      "tags": [
+        "training",
+        "architecture",
+        "performance"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muvdvx4m1p6281",
+      "title": "IBM Technology explains Jev and its differences from LLMs | IBM讲解Jev与LLM的差异",
+      "summary": "High-engagement YouTube video (762K views) from IBM Technology explaining what Jev is, how it differs from text-generating LLMs, providing accessible introduction to System One decisions | IBM的热门YouTube视频(76.2万次浏览)讲解Jev是什么及其与文本生成LLM的区别，介绍System One决策框架",
+      "url": "https://youtube.com/watch?v=YGgNBcIgI4s",
+      "kind": "opinion",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "youtube",
+      "sourceLabel": "IBM Technology",
+      "author": "IBM Technology",
+      "publishedAt": "2026-10-01",
+      "addedAt": "2026-10-05",
+      "metric": {
+        "type": "views",
+        "value": 762675
+      },
+      "sentiment": "positive",
+      "tags": [
+        "education",
+        "video",
+        "explanation"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muvds4d97ngida",
+      "title": "Jev complements LLMs, not replaces them",
+      "summary": "Jev serves routing, gating, and classification in agent loops at $0.042/M tokens while LLMs handle open-ended generation. | Jev 在智能体循环中以 $0.042/百万 tokens 的成本提供路由、门控和分类，而 LLM 处理开放式生成。",
+      "url": "https://width.ai/post/what-is-jev-ai-typesafe",
+      "kind": "opinion",
+      "category": "agents",
+      "categoryName": "Agent and workflow logic",
+      "source": "web",
+      "sourceLabel": "Width.ai",
+      "author": "Matt Payne",
+      "publishedAt": "2026-09-29",
+      "addedAt": "2026-10-05",
+      "metric": null,
+      "sentiment": "positive",
+      "tags": [
+        "agents",
+        "pricing",
+        "routing"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muvdwp70a5z2wr",
+      "title": "Explain Jev and System One for career planning",
+      "summary": "Educational video contextualizing Jev and System One models within FDE and AI jobs, providing career-relevant framing for understanding typed decision systems.",
+      "url": "https://youtube.com/watch?v=Y4co_ZN5J9I",
+      "kind": "opinion",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "youtube",
+      "sourceLabel": "The Cutting Edge School",
+      "author": "The Cutting Edge School",
+      "publishedAt": "2026-09-24",
+      "addedAt": "2026-10-05",
+      "metric": {
+        "type": "views",
+        "value": 29613
+      },
+      "sentiment": "positive",
+      "tags": [
+        "system one",
+        "education",
+        "career"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muvdvx4ossdd63",
+      "title": "Mikey No Code: Beginner tutorial for Jev setup and usage | Mikey No Code：Jev设置和使用初学者教程",
+      "summary": "YouTube tutorial (65K views) providing step-by-step walkthrough of Jev setup and practical usage examples with beginner-friendly explanations | YouTube教程(6.5万次浏览)提供Jev设置的逐步演练和实用使用示例，附带初学者友好的解释",
+      "url": "https://youtube.com/watch?v=MQg1-JAky1E",
+      "kind": "opinion",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "youtube",
+      "sourceLabel": "Mikey No Code",
+      "author": "Mikey No Code",
+      "publishedAt": "2026-09-23",
+      "addedAt": "2026-10-05",
+      "metric": {
+        "type": "views",
+        "value": 65725
+      },
+      "sentiment": "positive",
+      "tags": [
+        "tutorial",
+        "setup",
+        "education"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muvdzdj12r1gq8",
+      "title": "Rust Jev-compatible API | Rust版Jev兼容API",
+      "summary": "Self-hosted Rust implementation of TypeSafe AI compatible API for fast structured decisions using open models. | 自托管Rust实现，提供TypeSafe AI兼容API进行快速结构化决策。",
+      "url": "https://github.com/alvarobartt/sys1",
+      "kind": "code",
+      "category": "imitations",
+      "categoryName": "Open imitations and local models",
+      "source": "github",
+      "sourceLabel": "alvarobartt",
+      "author": "alvarobartt",
+      "publishedAt": "2026-09-22",
+      "addedAt": "2026-10-05",
+      "metric": {
+        "type": "stars",
+        "value": 48
+      },
+      "sentiment": null,
+      "tags": [
+        "rust",
+        "self-hosted",
+        "open-weight"
+      ],
+      "repo": {
+        "slug": "alvarobartt/sys1"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muvdwp7ia57f2e",
+      "title": "Compare Jev decision models to LLMs",
+      "summary": "Concise comparison framing Jev as a System One decision model distinct from LLM text generation, emphasizing structural differences.",
+      "url": "https://youtube.com/watch?v=UA1BkYkP1DU",
+      "kind": "opinion",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "youtube",
+      "sourceLabel": "Singularity Feed | AI Models , Agents & Robotics",
+      "author": "Singularity Feed | AI Models , Agents & Robotics",
+      "publishedAt": "2026-09-21",
+      "addedAt": "2026-10-05",
+      "metric": {
+        "type": "views",
+        "value": 2381
+      },
+      "sentiment": "mixed",
+      "tags": [
+        "llm",
+        "comparison",
+        "system one"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muvdzdj41pu2c5",
+      "title": "Jev calibration benchmark | Jev校准基准",
+      "summary": "Independent calibration test on unseen support-ticket tasks with ECE measurements and temperature analysis. | 未见任务上的独立校准测试，包含ECE测量和温度分析。",
+      "url": "https://github.com/scienthoon/jev-ood-calibration",
+      "kind": "code",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "github",
+      "sourceLabel": "scienthoon",
+      "author": "scienthoon",
+      "publishedAt": "2026-09-19",
+      "addedAt": "2026-10-05",
+      "metric": {
+        "type": "stars",
+        "value": 6
+      },
+      "sentiment": null,
+      "tags": [
+        "calibration",
+        "benchmark",
+        "ood"
+      ],
+      "repo": {
+        "slug": "scienthoon/jev-ood-calibration"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muvds4d73gijsp",
+      "title": "Jev is a different architecture from chat LLMs",
+      "summary": "Jev returns typed schema fields with probabilities, functioning as a callable interface unlike conversational LLMs. | Jev 返回带有概率的类型化字段，充当可调用接口，与对话式 LLM 不同。",
+      "url": "https://truefoundry.com/blog/typesafe-ai-jev",
+      "kind": "opinion",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "web",
+      "sourceLabel": "TrueFoundry blog",
+      "author": "Ashish Dubey",
+      "publishedAt": "2026-09-18",
+      "addedAt": "2026-10-05",
+      "metric": null,
+      "sentiment": "positive",
+      "tags": [
+        "architecture",
+        "interface",
+        "decisions"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muvdzdj3v9ilsw",
+      "title": "Jev use cases and patterns | Jev用例和模式",
+      "summary": "Curated collection of documented Jev applications with source citations, patterns, and building guidance. | 精选经过记录的Jev应用，包括来源引用、模式和构建指南。",
+      "url": "https://github.com/aliaihub/awesome-jev-usecases",
+      "kind": "opinion",
+      "category": "other",
+      "categoryName": "Everything else",
+      "source": "github",
+      "sourceLabel": "aliaihub",
+      "author": "aliaihub",
+      "publishedAt": "2026-09-17",
+      "addedAt": "2026-10-05",
+      "metric": {
+        "type": "stars",
+        "value": 21
+      },
+      "sentiment": null,
+      "tags": [
+        "usecases",
+        "patterns",
+        "guide"
+      ],
+      "repo": {
+        "slug": "aliaihub/awesome-jev-usecases"
+      },
+      "tier": "listed"
     }
   ]
 }
