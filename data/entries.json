@@ -11977,6 +11977,329 @@
         "pushedAt": "2026-10-05T04:17:24Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_muwtk3vwvghe6a",
+      "title": "BuildWithJev community project showcase | BuildWithJev社区项目展示",
+      "summary": "Curated directory of open-source projects and use cases built with Jev. | Jev构建的开源项目和用例的精选目录。",
+      "url": "https://buildwithjev.com/",
+      "kind": "official",
+      "category": "other",
+      "categoryName": "Everything else",
+      "source": "web",
+      "sourceLabel": "buildwithjev.com",
+      "author": null,
+      "publishedAt": null,
+      "addedAt": "2026-10-06",
+      "metric": null,
+      "sentiment": null,
+      "tags": [
+        "directory",
+        "showcase",
+        "projects"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muwti6y9bfbqi3",
+      "title": "Jev systemone endpoint API reference | Jev systemone端点API参考",
+      "summary": "Complete API reference for the systemone endpoint with field-by-field documentation verified September 2026.",
+      "url": "https://typesafe-jev.com/en/guides/api",
+      "kind": "official",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "web",
+      "sourceLabel": "typesafe-jev.com/en/guides/api/",
+      "author": null,
+      "publishedAt": null,
+      "addedAt": "2026-10-06",
+      "metric": null,
+      "sentiment": null,
+      "tags": [
+        "api",
+        "reference",
+        "specification"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muwti6y8lkvtek",
+      "title": "Jev API tutorials and tools hub | Jev API教程与工具中心",
+      "summary": "Official hub with Jev API tutorials, Python examples, integrations, and System One evaluation tools.",
+      "url": "https://jev-typesafe.org/",
+      "kind": "official",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "web",
+      "sourceLabel": "jev-typesafe.org",
+      "author": null,
+      "publishedAt": null,
+      "addedAt": "2026-10-06",
+      "metric": null,
+      "sentiment": null,
+      "tags": [
+        "tutorial",
+        "examples",
+        "tools"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muwti6y53h8k18",
+      "title": "TypeSafe client SDKs for Jev | Jev的TypeSafe客户端SDK",
+      "summary": "Official documentation for TypeSafe client SDKs enabling typed questions and answers across programming languages.",
+      "url": "https://docs.typesafe.ai/sdk",
+      "kind": "official",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "web",
+      "sourceLabel": "docs.typesafe.ai/sdk",
+      "author": null,
+      "publishedAt": null,
+      "addedAt": "2026-10-06",
+      "metric": null,
+      "sentiment": null,
+      "tags": [
+        "sdk",
+        "client-library",
+        "documentation"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muwti6y4geauih",
+      "title": "Jev API official documentation | Jev API官方文档",
+      "summary": "Official API documentation for Jev with type-safe decision primitives, 70-500ms latency, released September 15, 2026.",
+      "url": "https://jevapi.dev/",
+      "kind": "official",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "web",
+      "sourceLabel": "jevapi.dev",
+      "author": null,
+      "publishedAt": null,
+      "addedAt": "2026-10-06",
+      "metric": null,
+      "sentiment": null,
+      "tags": [
+        "api",
+        "documentation",
+        "type-safe"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muwti6y02hn868",
+      "title": "TypeSafe AI official resources hub | TypeSafe AI官方资源中心",
+      "summary": "Official hub offering TypeSafe AI and Jev resources including community projects, tutorials, plugins and SDKs.",
+      "url": "https://typesafeai.org/",
+      "kind": "official",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "web",
+      "sourceLabel": "www.typesafeai.org",
+      "author": null,
+      "publishedAt": null,
+      "addedAt": "2026-10-06",
+      "metric": null,
+      "sentiment": null,
+      "tags": [
+        "resources",
+        "community",
+        "tutorial"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muwti6xzieb2vc",
+      "title": "Jev API pricing and availability | Jev API定价与可用性",
+      "summary": "Jev returns typed decisions at $0.042 per million input tokens with free output, launched September 21, 2026.",
+      "url": "https://jevmodel.org/",
+      "kind": "official",
+      "category": "economics",
+      "categoryName": "Speed, pricing and access",
+      "source": "web",
+      "sourceLabel": "jevmodel.org",
+      "author": null,
+      "publishedAt": null,
+      "addedAt": "2026-10-06",
+      "metric": null,
+      "sentiment": null,
+      "tags": [
+        "pricing",
+        "api",
+        "launch"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muwt7sxhq8o708",
+      "title": "Agr open decision model for tool routing | Agr工具路由开源决策模型",
+      "summary": "Agr (31B/360M open-weight models) by Command Code, optimized for tool calling and routing, scores 58.15 on Decision Index 0.2.1, supports TypeSafe SDK with live HuggingFace release. | Agr（31B/360M开源模型）由Command Code开发，为工具调用和路由优化，在决策指数0.2.1上评分58.15，支持TypeSafe SDK，在HuggingFace上发布。",
+      "url": "https://reddit.com/r/CommandCode/comments/1wygswa/introducing_agr_an_open_decision_model_by_command",
+      "kind": "code",
+      "category": "imitations",
+      "categoryName": "Open imitations and local models",
+      "source": "reddit",
+      "sourceLabel": "r/CommandCode",
+      "author": "u/maedahbatool",
+      "publishedAt": "2026-10-05",
+      "addedAt": "2026-10-06",
+      "metric": {
+        "type": "points",
+        "value": 25
+      },
+      "sentiment": null,
+      "tags": [
+        "open-source",
+        "tool-routing",
+        "sdk-support"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muwtc0dcle15w1",
+      "title": "Automatically File Gmail Messages with Jev",
+      "summary": "petrzpav/omarchy-mail terminal Gmail client uses Jev to automatically categorize inbox into labels and verify outgoing replies.",
+      "url": "https://github.com/petrzpav/omarchy-mail",
+      "kind": "usecase",
+      "category": "extraction",
+      "categoryName": "Extraction and scoring",
+      "source": "github",
+      "sourceLabel": "petrzpav",
+      "author": "petrzpav",
+      "publishedAt": "2026-09-29",
+      "addedAt": "2026-10-06",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "email",
+        "gmail",
+        "automation"
+      ],
+      "repo": {
+        "slug": "petrzpav/omarchy-mail"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muldqnpjvi8p1k",
+      "title": "Pipe System One decisions through a Unix CLI",
+      "summary": "Onesie is an expressive, Unix-pipeable CLI for working with System One models such as Jev.",
+      "url": "https://github.com/frodi-karlsson/onesie",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "author": "frodikarlsson",
+      "publishedAt": "2026-09-28",
+      "addedAt": "2026-09-28",
+      "metric": {
+        "type": "points",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "cli",
+        "unix",
+        "system-one"
+      ],
+      "repo": {
+        "slug": "frodi-karlsson/onesie"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muwtc0daq31ka6",
+      "title": "Jev is TypeSafe's Structured Decision Model",
+      "summary": "Cold Boot presents an introductory overview of Jev, TypeSafe AI's System One model for structured typed decisions.",
+      "url": "https://youtube.com/watch?v=pU88Ia3h7ic",
+      "kind": "opinion",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "youtube",
+      "sourceLabel": "Cold Boot",
+      "author": "Cold Boot",
+      "publishedAt": "2026-09-22",
+      "addedAt": "2026-10-06",
+      "metric": {
+        "type": "views",
+        "value": 1054
+      },
+      "sentiment": "positive",
+      "tags": [
+        "introduction",
+        "system-one",
+        "overview"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muwt9pim7ermgj",
+      "title": "Jev System-1 architecture explained | Jev System-1架构解释",
+      "summary": "YouTube explainer covering Jev's System-1 architecture and positioning it as major evolution in non-autoregressive decision models. | YouTube讲解视频介绍了Jev的System-1架构,将其定位为非自回归决策模型的重大进化。",
+      "url": "https://youtube.com/watch?v=lttn0licaRY",
+      "kind": "opinion",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "youtube",
+      "sourceLabel": "Gao Dalie (高達烈)",
+      "author": "Gao Dalie (高達烈)",
+      "publishedAt": "2026-09-22",
+      "addedAt": "2026-10-06",
+      "metric": {
+        "type": "views",
+        "value": 14068
+      },
+      "sentiment": "positive",
+      "tags": [
+        "system-one",
+        "architecture",
+        "education"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muwtgqs9gum3tu",
+      "title": "Directory of Jev projects and use cases | Jev项目和用例目录",
+      "summary": "Curated GitHub awesome-list cataloging real-world applications of TypeSafe Jev including content moderation, agent routing and semantic search.",
+      "url": "https://github.com/SeeAPI/awesome-jev-use-cases",
+      "kind": "code",
+      "category": "other",
+      "categoryName": "Everything else",
+      "source": "web",
+      "sourceLabel": "github.com/SeeAPI/awesome-jev-use-cases",
+      "author": null,
+      "publishedAt": "2026-09-18",
+      "addedAt": "2026-10-06",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "directory",
+        "curation",
+        "resources"
+      ],
+      "repo": {
+        "slug": "SeeAPI/awesome-jev-use-cases"
+      },
+      "tier": "listed"
     }
   ]
 }
