@@ -12312,6 +12312,111 @@
         "pushedAt": "2026-09-20T10:10:42Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_muy8oc1iz2zu4m",
+      "title": "Jev is a fixed-answer decision model in replication tests",
+      "summary": "A recent paper compares Jev with LLMs across seven political-science replications, including cost and calibration, and frames Jev as a fixed-answer-set decision model rather than a text generator.",
+      "url": "https://arxiv.org/abs/2610.06625",
+      "kind": "opinion",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "web",
+      "sourceLabel": "arXiv",
+      "author": null,
+      "publishedAt": "2026-10-06",
+      "addedAt": "2026-10-07",
+      "metric": null,
+      "sentiment": "mixed",
+      "tags": [
+        "political-science",
+        "calibration",
+        "llms"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muwt9pikovm07c",
+      "title": "Test Jev non-autoregressive constraints | 测试Jev非自回归约束",
+      "summary": "GitHub project demonstrating Jev is non-autoregressive and cannot generate natural language like traditional LLMs. | GitHub项目演示Jev的非自回归特性,不能像传统LLM那样生成自然语言。",
+      "url": "https://github.com/huemorgan2/say-hi",
+      "kind": "code",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "author": "maxheyer",
+      "publishedAt": "2026-10-01",
+      "addedAt": "2026-10-06",
+      "metric": {
+        "type": "points",
+        "value": 1
+      },
+      "sentiment": null,
+      "tags": [
+        "non-autoregressive",
+        "architecture",
+        "constraints"
+      ],
+      "repo": {
+        "slug": "huemorgan2/say-hi"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mui4kp8e6jeryk",
+      "title": "Explain what Jev is: typed decisions instead of text generation",
+      "summary": "Educational post distinguishing Jev from chat models with support-ticket routing example (topic/urgency/severity), highlighting how typed outputs eliminate parsing and validation errors.",
+      "url": "https://reddit.com/r/PromptEngineering/comments/1wm8wlo/what_is_jev_an_ai_model_that_makes_typed",
+      "kind": "opinion",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "reddit",
+      "sourceLabel": "r/PromptEngineering",
+      "author": "u/Inevitable_Salary871",
+      "publishedAt": "2026-09-21",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "points",
+        "value": 10
+      },
+      "sentiment": "positive",
+      "tags": [
+        "explainer",
+        "system-one",
+        "architecture"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muy8oc16wc1agk",
+      "title": "Provide Jev decisions through an MCP server",
+      "summary": "An open-source MCP server exposes Jev to Claude Code, Cursor, and other clients, with TypeSafe and OpenRouter support, response validation, and Go, binary, and container installation options.",
+      "url": "https://github.com/freepik-company/jev-mcp",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "freepik-company/jev-mcp",
+      "author": "freepik-company",
+      "publishedAt": "2026-09-21",
+      "addedAt": "2026-10-07",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "mcp",
+        "integration",
+        "go"
+      ],
+      "repo": {
+        "slug": "freepik-company/jev-mcp"
+      },
+      "tier": "listed"
     }
   ]
 }
