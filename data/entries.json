@@ -12425,6 +12425,189 @@
         "pushedAt": "2026-09-28T20:40:26Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_muzo7ixpwlrrrw",
+      "title": "Share a Jev case study",
+      "summary": "TypeSafe AI's own blog post presents a Jev case study; the supplied listing does not provide details of the case study's task or findings.",
+      "url": "https://typesafe.ai/blog/jack-jill-jev-case-study",
+      "kind": "official",
+      "category": "other",
+      "categoryName": "Everything else",
+      "source": "blog",
+      "sourceLabel": "typesafe.ai",
+      "author": "TypeSafe AI",
+      "publishedAt": null,
+      "addedAt": "2026-10-08",
+      "metric": null,
+      "sentiment": null,
+      "tags": [
+        "case-study"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muzo6mcdyhzixx",
+      "title": "Compare Jev with other models on future predictions",
+      "summary": "An open-source Polyseer experiment compares Jev, OpenAI Decisions API, and Cloudflare Clef probabilities on future events against Polymarket and Kalshi markets; this is the same experiment as candidate 9. | 一个开源 Polyseer 实验将 Jev、OpenAI Decisions API 和 Cloudflare Clef 对未来事件的概率判断与 Polymarket、Kalshi 市场进行比较；与候选项 9 是同一实验。",
+      "url": "https://reddit.com/r/AI_Agents/comments/1x036k3/openai_released_their_decisions_api_today_so_i",
+      "kind": "usecase",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "reddit",
+      "sourceLabel": "r/AI_Agents",
+      "author": "u/Physical_Pepper6294",
+      "publishedAt": "2026-10-07",
+      "addedAt": "2026-10-08",
+      "metric": {
+        "type": "points",
+        "value": 19
+      },
+      "sentiment": null,
+      "tags": [
+        "prediction-markets",
+        "comparison",
+        "probabilities"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muy8oc1er0alqt",
+      "title": "Jev trades short-request overhead for calibration",
+      "summary": "A cautious, flagged HN benchmark submission reports near-parity accuracy with Kev, better Jev calibration on PAWS, and higher fixed token overhead on short requests.",
+      "url": "https://news.ycombinator.com/item?id=49847306",
+      "kind": "opinion",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "author": "felix089",
+      "publishedAt": "2026-10-04",
+      "addedAt": "2026-10-07",
+      "metric": {
+        "type": "points",
+        "value": 12
+      },
+      "sentiment": "mixed",
+      "tags": [
+        "kev",
+        "calibration",
+        "cost"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muldse8l4osgtj",
+      "title": "Catalog Jev prompt patterns and calibration guidance",
+      "summary": "A bilingual collection of 43 Jev question patterns, anti-patterns, and calibration notes for typed-decision prompt design.",
+      "url": "https://github.com/vicfei/awesome-jev-prompts",
+      "kind": "code",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "github",
+      "sourceLabel": "vicfei",
+      "author": "vicfei",
+      "publishedAt": "2026-09-28",
+      "addedAt": "2026-09-28",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "prompts",
+        "calibration",
+        "bilingual"
+      ],
+      "repo": {
+        "slug": "vicfei/awesome-jev-prompts"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muzo6mcbjjdm3c",
+      "title": "Contrastive-LM connects states and actions for decisions",
+      "summary": "An open-source contrastive language model project presents a System One-style decision approach and claims performance on par with Jev across computer-use tasks. | 开源对比语言模型项目提出一种 System One 风格的决策方法，并称其在计算机操作任务上的表现可与 Jev 相当。",
+      "url": "https://reddit.com/r/LovingOpenSourceAI/comments/1wrjnra/contrastive_language_models_clms_are_new_class_of",
+      "kind": "code",
+      "category": "imitations",
+      "categoryName": "Open imitations and local models",
+      "source": "reddit",
+      "sourceLabel": "r/LovingOpenSourceAI",
+      "author": "u/Koala_Confused",
+      "publishedAt": "2026-09-27",
+      "addedAt": "2026-10-08",
+      "metric": {
+        "type": "points",
+        "value": 104
+      },
+      "sentiment": null,
+      "tags": [
+        "contrastive-learning",
+        "decision-models",
+        "computer-use"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mufy77qt08tzzc",
+      "title": "Bilingual catalogue of Jev research and projects",
+      "summary": "A bilingual index cataloguing Jev-related papers, software, interviews, analyses, demonstrations, and social-media material.",
+      "url": "https://github.com/AgenticAPP-Web/Jev-Research-Index",
+      "kind": "code",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "github",
+      "sourceLabel": "AgenticAPP-Web",
+      "author": "AgenticAPP-Web",
+      "publishedAt": "2026-09-24",
+      "addedAt": "2026-09-24",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "catalogue",
+        "research",
+        "projects"
+      ],
+      "repo": {
+        "slug": "AgenticAPP-Web/Jev-Research-Index"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muh3eghrpdxndq",
+      "title": "Triage inbound leads with Jev",
+      "summary": "A benchmarked Jev experiment reports 90% routing accuracy at 366 ms and $0.04 per thousand leads for inbound lead triage.",
+      "url": "https://github.com/deepdave98/jev-playground",
+      "kind": "usecase",
+      "category": "routing",
+      "categoryName": "Classification and routing",
+      "source": "github",
+      "sourceLabel": "deepdave98",
+      "author": "deepdave98",
+      "publishedAt": "2026-09-22",
+      "addedAt": "2026-09-25",
+      "metric": {
+        "type": "stars",
+        "value": 28
+      },
+      "sentiment": null,
+      "tags": [
+        "lead-triage",
+        "latency",
+        "cost"
+      ],
+      "repo": {
+        "slug": "deepdave98/jev-playground"
+      },
+      "tier": "listed"
     }
   ]
 }
