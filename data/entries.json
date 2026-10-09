@@ -12621,6 +12621,88 @@
         "pushedAt": "2026-10-07T15:55:28Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_muzo7awhuovulm",
+      "title": "Block distracting screens with Jev",
+      "summary": "Omarchy/Hyprland focus-mode tool uses Jev to judge whether each screen matches the user's task, with a privacy-first design.",
+      "url": "https://github.com/iYassr/omarchy-laser",
+      "kind": "usecase",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "iYassr",
+      "author": "iYassr",
+      "publishedAt": "2026-10-08",
+      "addedAt": "2026-10-08",
+      "metric": {
+        "type": "stars",
+        "value": 5
+      },
+      "sentiment": null,
+      "tags": [
+        "focus",
+        "desktop"
+      ],
+      "repo": {
+        "slug": "iYassr/omarchy-laser"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muh3fs8hqfbz1u",
+      "title": "Match macOS apps and windows with Jev",
+      "summary": "A native macOS launcher and window manager optionally uses Jev for natural-language matching.",
+      "url": "https://github.com/RyanErkal/jevcast",
+      "kind": "usecase",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "RyanErkal",
+      "author": "RyanErkal",
+      "publishedAt": "2026-09-22",
+      "addedAt": "2026-09-25",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "macos",
+        "launcher",
+        "matching"
+      ],
+      "repo": {
+        "slug": "RyanErkal/jevcast"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mv13j1belq768n",
+      "title": "Grade web page sections for SEO and clarity",
+      "summary": "The WXT-based Pagegrade project uses Jev to evaluate page sections for clarity, writing quality, and on-page SEO.",
+      "url": "https://github.com/kitze/pagegrade",
+      "kind": "usecase",
+      "category": "extraction",
+      "categoryName": "Extraction and scoring",
+      "source": "github",
+      "sourceLabel": "kitze",
+      "author": "kitze",
+      "publishedAt": "2026-09-17",
+      "addedAt": "2026-10-09",
+      "metric": {
+        "type": "stars",
+        "value": 7
+      },
+      "sentiment": null,
+      "tags": [
+        "seo",
+        "grading"
+      ],
+      "repo": {
+        "slug": "kitze/pagegrade"
+      },
+      "tier": "listed"
     }
   ]
 }
