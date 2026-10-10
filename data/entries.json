@@ -12716,6 +12716,114 @@
         "pushedAt": "2026-10-09T10:42:20Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_mv2iy9p0i1mivk",
+      "title": "TypeSafe’s funding reflects AI hype more than architecture",
+      "summary": "The poster criticizes TypeSafe’s reported $870M raise as hype-driven and links an earlier claim that a community member had built a similar architecture.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x2cyy4/typesafe_ai_raised_870m_on_hype_jev",
+      "kind": "opinion",
+      "category": "economics",
+      "categoryName": "Speed, pricing and access",
+      "source": "reddit",
+      "sourceLabel": "r/LocalLLaMA",
+      "author": "u/panther_ra",
+      "publishedAt": "2026-10-10",
+      "addedAt": "2026-10-10",
+      "metric": {
+        "type": "points",
+        "value": 60
+      },
+      "sentiment": "negative",
+      "tags": [
+        "funding",
+        "valuation",
+        "hype"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mv2iy9p5vixquu",
+      "title": "Drex provides a Jev-compatible open decision model",
+      "summary": "Nace.AI open-sources Drex 1.5, a 9B model with typed decision outputs and a Jev-compatible API. Its reported Decision Index is near Jev, while several general-knowledge benchmarks lag.",
+      "url": "https://reddit.com/r/machinelearningnews/comments/1x26l1h/naceai_opensources_drex_15_a_9b_decision_model",
+      "kind": "code",
+      "category": "imitations",
+      "categoryName": "Open imitations and local models",
+      "source": "reddit",
+      "sourceLabel": "r/machinelearningnews",
+      "author": "u/ai-lover",
+      "publishedAt": "2026-10-10",
+      "addedAt": "2026-10-10",
+      "metric": {
+        "type": "points",
+        "value": 18
+      },
+      "sentiment": null,
+      "tags": [
+        "open-model",
+        "compatibility",
+        "benchmarks"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mv2iyldc07mpgk",
+      "title": "Unify decision APIs across Jev, Foundry and Ollama",
+      "summary": "A .NET 10 SDK offers a shared Choose, Score and Assess API for Jev, Microsoft Foundry and local Ollama decision models.",
+      "url": "https://github.com/elbruno/ElBruno.AI.Decisions",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "elbruno",
+      "author": "elbruno",
+      "publishedAt": "2026-09-22",
+      "addedAt": "2026-10-10",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "dotnet",
+        "sdk",
+        "multi-provider"
+      ],
+      "repo": {
+        "slug": "elbruno/ElBruno.AI.Decisions"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mv2iyldaexzi8p",
+      "title": "Swift framework for TypeSafe Jev",
+      "summary": "A Swift framework provides access to Jev System One; this is a distinct language client.",
+      "url": "https://github.com/SoundBlaster/SwiftJev",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "SoundBlaster",
+      "author": "SoundBlaster",
+      "publishedAt": "2026-09-21",
+      "addedAt": "2026-10-10",
+      "metric": {
+        "type": "stars",
+        "value": 9
+      },
+      "sentiment": null,
+      "tags": [
+        "swift",
+        "sdk",
+        "client"
+      ],
+      "repo": {
+        "slug": "SoundBlaster/SwiftJev"
+      },
+      "tier": "listed"
     }
   ]
 }
