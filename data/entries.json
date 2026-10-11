@@ -12832,6 +12832,203 @@
         "pushedAt": "2026-10-11T07:07:18Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_mv3env7hw8i768",
+      "title": "TypeSafe AI announces its Series AI funding",
+      "summary": "TypeSafe AI’s blog post announces a Series AI raise; official TypeSafe posts are included, although the candidate provides no further product detail.",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "kind": "official",
+      "category": "other",
+      "categoryName": "Everything else",
+      "source": "blog",
+      "sourceLabel": "typesafe.ai",
+      "author": "TypeSafe AI",
+      "publishedAt": null,
+      "addedAt": "2026-10-11",
+      "metric": null,
+      "sentiment": null,
+      "tags": [
+        "official",
+        "funding"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mv3env7fftnk1f",
+      "title": "Replace brittle yes/no input checks with Jev Noul",
+      "summary": "A hands-on Python walkthrough uses Jev to interpret free-form answers to whether someone lost an item. The reviewer notes a fuzzy 0.34 result and concludes Jev is fast and tidy, but not novel.",
+      "url": "https://realpython.com/videos/jev-ai-first-look",
+      "kind": "opinion",
+      "category": "extraction",
+      "categoryName": "Extraction and scoring",
+      "source": "web",
+      "sourceLabel": "realpython.com",
+      "author": null,
+      "publishedAt": null,
+      "addedAt": "2026-10-11",
+      "metric": null,
+      "sentiment": "mixed",
+      "tags": [
+        "python",
+        "noul",
+        "review"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mv2iyldflgi3ku",
+      "title": "CLI, MCP and Claude Code plugin for decision APIs",
+      "summary": "Decisionkit provides probability-scored decisions through a CLI, MCP server and Claude Code plugin, supporting both Jev and OpenAI Decisions API.",
+      "url": "https://github.com/adityajha2005/decisionkit",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "adityajha2005",
+      "author": "adityajha2005",
+      "publishedAt": "2026-10-10",
+      "addedAt": "2026-10-10",
+      "metric": {
+        "type": "stars",
+        "value": 4
+      },
+      "sentiment": null,
+      "tags": [
+        "cli",
+        "mcp",
+        "claude-code"
+      ],
+      "repo": {
+        "slug": "adityajha2005/decisionkit"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mv3emrrl7wagvd",
+      "title": "Jev calibrates Choice well, but fixed binary thresholds falter",
+      "summary": "An independent evaluation across 37 datasets and 346,009 requests finds strong accuracy and calibrated Choice probabilities, but poor results when binary probabilities use a fixed 0.5 threshold.",
+      "url": "https://arxiv.org/abs/2609.37647",
+      "kind": "opinion",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "web",
+      "sourceLabel": "arXiv",
+      "author": "Tobias Deußer, Lorenz Sparrenberg, Rafet Sifa",
+      "publishedAt": "2026-09-29",
+      "addedAt": "2026-10-11",
+      "metric": null,
+      "sentiment": "mixed",
+      "tags": [
+        "evaluation",
+        "calibration",
+        "thresholds"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mv3emxbaggn26j",
+      "title": "Questions whether TypeSafe copied an open System One model",
+      "summary": "The title raises a specific originality question and claims an open model beats Jev, though the video description provides no supporting details.",
+      "url": "https://youtube.com/watch?v=YLLDzOsEEKE",
+      "kind": "opinion",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "youtube",
+      "sourceLabel": "AI Trend Space",
+      "author": "AI Trend Space",
+      "publishedAt": "2026-09-27",
+      "addedAt": "2026-10-11",
+      "metric": {
+        "type": "views",
+        "value": 2235
+      },
+      "sentiment": "mixed",
+      "tags": [
+        "open models",
+        "originality",
+        "comparison"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mv3enndjyertdr",
+      "title": "Explain Jev through the System 1 vs. System 2 framing",
+      "summary": "A short explainer frames Jev through the distinction between System 1 and System 2 AI models; the title suggests an explanatory stance but not a test.",
+      "url": "https://youtube.com/shorts/HTbm-6VFMUk",
+      "kind": "opinion",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "web",
+      "sourceLabel": "www.youtube.com",
+      "author": null,
+      "publishedAt": "2026-09-22",
+      "addedAt": "2026-10-11",
+      "metric": null,
+      "sentiment": "positive",
+      "tags": [
+        "system one"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mv3en3q3xcr7bu",
+      "title": ".NET port of the TypeSafe Jev SDK",
+      "summary": "An idiomatic .NET port of typesafe-ai/typesafe-sdk-js v0.6.0, providing a client for Jev.",
+      "url": "https://github.com/laurentkempe/TypeSafeJevPlayground",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "laurentkempe",
+      "author": "laurentkempe",
+      "publishedAt": "2026-09-19",
+      "addedAt": "2026-10-11",
+      "metric": {
+        "type": "stars",
+        "value": 9
+      },
+      "sentiment": null,
+      "tags": [
+        "dotnet",
+        "sdk"
+      ],
+      "repo": {
+        "slug": "laurentkempe/TypeSafeJevPlayground"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mv3en3q1ez2og6",
+      "title": "Community directory of projects built on Jev",
+      "summary": "A community-curated directory collecting projects built on TypeSafe AI's Jev; an eligible roundup of Jev-related tools and demos.",
+      "url": "https://github.com/hellogumbo/awesome-jev",
+      "kind": "code",
+      "category": "other",
+      "categoryName": "Everything else",
+      "source": "github",
+      "sourceLabel": "hellogumbo",
+      "author": "hellogumbo",
+      "publishedAt": "2026-09-17",
+      "addedAt": "2026-10-11",
+      "metric": {
+        "type": "stars",
+        "value": 218
+      },
+      "sentiment": null,
+      "tags": [
+        "directory",
+        "community"
+      ],
+      "repo": {
+        "slug": "hellogumbo/awesome-jev"
+      },
+      "tier": "listed"
     }
   ]
 }
