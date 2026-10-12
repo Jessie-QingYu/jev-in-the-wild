@@ -13041,6 +13041,114 @@
         "pushedAt": "2026-10-11T11:29:39Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_mutyh60p9uu354",
+      "title": "Reverse-engineering Jev's architecture | 反向工程Jev架构",
+      "summary": "Technical analysis video investigating and explaining Jev's internal System One model design and decision-making mechanics. | 技术分析视频，深入研究和解释Jev的内部系统一号模型架构。",
+      "url": "https://youtube.com/watch?v=OICKF8s6Upg",
+      "kind": "opinion",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "youtube",
+      "sourceLabel": "The Napkin Lab",
+      "author": "The Napkin Lab",
+      "publishedAt": "2026-09-28",
+      "addedAt": "2026-10-04",
+      "metric": {
+        "type": "views",
+        "value": 1025
+      },
+      "sentiment": "positive",
+      "tags": [
+        "architecture",
+        "analysis",
+        "technical"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muiiwt6h6erab1",
+      "title": "Jev architecture and RLCD explained",
+      "summary": "Technical deep dive into Jev's architecture, mathematical foundations, and RLCD training methodology underlying the System One model.",
+      "url": "https://youtube.com/watch?v=BsI7K7zQ1Pk",
+      "kind": "opinion",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "youtube",
+      "sourceLabel": "Singularity Research Labs",
+      "author": "Singularity Research Labs",
+      "publishedAt": "2026-09-25",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "views",
+        "value": 1280
+      },
+      "sentiment": "positive",
+      "tags": [
+        "architecture",
+        "rlcd",
+        "technical"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mv5dxoyw1mnxut",
+      "title": "Advance Slidev slides by voice-driven semantic matching",
+      "summary": "Uses Cloudflare Agents and Jev to decide when spoken content semantically matches the current slide and should advance the presentation.",
+      "url": "https://github.com/harshil1712/slidepilot",
+      "kind": "usecase",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "harshil1712",
+      "author": "harshil1712",
+      "publishedAt": "2026-09-18",
+      "addedAt": "2026-10-12",
+      "metric": {
+        "type": "stars",
+        "value": 8
+      },
+      "sentiment": null,
+      "tags": [
+        "voice",
+        "presentations",
+        "agents"
+      ],
+      "repo": {
+        "slug": "harshil1712/slidepilot"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_musivw93em6lpz",
+      "title": "Version Jev judgments for HTTP and MCP use",
+      "summary": "MIT-licensed workbench supports model listing, preview, publishing and invoking versioned judgments over HTTP or MCP; the author reports verifying flows with a TypeSafe API key.",
+      "url": "https://github.com/molis-ai/jev-workbench",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "molis-ai/jev-workbench",
+      "author": "molis-ai",
+      "publishedAt": "2026-09-18",
+      "addedAt": "2026-10-03",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "workbench",
+        "mcp",
+        "versioning"
+      ],
+      "repo": {
+        "slug": "molis-ai/jev-workbench"
+      },
+      "tier": "listed"
     }
   ]
 }
