@@ -13157,6 +13157,146 @@
         "pushedAt": "2026-09-22T14:42:37Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_muve1iyxveya6w",
+      "title": "CLI toolkit for Jev coding agents | 编码代理的Jev CLI工具包",
+      "summary": "Unofficial Jev CLI toolkit for coding agents, emphasizing reduced context and calibrated confidence. | 编码代理的非官方Jev CLI工具包,强调减少上下文和校准信心。",
+      "url": "https://github.com/bragamat/jevkit",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "bragamat",
+      "author": "bragamat",
+      "publishedAt": "2026-10-05",
+      "addedAt": "2026-10-05",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "cli",
+        "tools",
+        "agents"
+      ],
+      "repo": {
+        "slug": "bragamat/jevkit"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mv6tddu0mxhzww",
+      "title": "Provide four Jev decision-quality tools",
+      "summary": "The repository offers four tools built around Jev structured answers, while deterministic code retains final control. This is a concrete Jev-related project.",
+      "url": "https://github.com/klauswg/jev-suite",
+      "kind": "code",
+      "category": "agents",
+      "categoryName": "Agent and workflow logic",
+      "source": "github",
+      "sourceLabel": "klauswg",
+      "author": "klauswg",
+      "publishedAt": "2026-09-22",
+      "addedAt": "2026-10-13",
+      "metric": {
+        "type": "stars",
+        "value": 37
+      },
+      "sentiment": null,
+      "tags": [
+        "decision-tools",
+        "deterministic",
+        "github"
+      ],
+      "repo": {
+        "slug": "klauswg/jev-suite"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mv6tdndf8163xo",
+      "title": "Curate a Jev ecosystem hub with verified projects",
+      "summary": "Collects Jev/System One concepts, 51 projects across 12 categories, community lists, and official repository screenshots.",
+      "url": "https://github.com/supermanc417-alt/awesome-jev-hub",
+      "kind": "official",
+      "category": "other",
+      "categoryName": "Everything else",
+      "source": "github",
+      "sourceLabel": "supermanc417-alt",
+      "author": "supermanc417-alt",
+      "publishedAt": "2026-09-22",
+      "addedAt": "2026-10-13",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "ecosystem",
+        "curation",
+        "projects"
+      ],
+      "repo": {
+        "slug": "supermanc417-alt/awesome-jev-hub"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mv6tdndk74km69",
+      "title": "Provide a lightweight .NET client for Jev",
+      "summary": "A one-dependency .NET client for the TypeSafe AI System One API, described as a faithful port of the official Python SDK.",
+      "url": "https://github.com/brightshore/jev-net",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "brightshore",
+      "author": "brightshore",
+      "publishedAt": "2026-09-20",
+      "addedAt": "2026-10-13",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "dotnet",
+        "sdk",
+        "client"
+      ],
+      "repo": {
+        "slug": "brightshore/jev-net"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mv6tdnctnkhpue",
+      "title": "Grade financial decision use cases against known data",
+      "summary": "Presents 50 financial scenarios spanning ledgers, fraud, portfolios, trades, and filings, with Jev’s typed answers graded against known correct data.",
+      "url": "https://github.com/IslamBaraka90/jev-typesafe-real-financial-use-cases",
+      "kind": "usecase",
+      "category": "extraction",
+      "categoryName": "Extraction and scoring",
+      "source": "github",
+      "sourceLabel": "IslamBaraka90",
+      "author": "IslamBaraka90",
+      "publishedAt": "2026-09-19",
+      "addedAt": "2026-10-13",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "finance",
+        "evaluation",
+        "structured-output"
+      ],
+      "repo": {
+        "slug": "IslamBaraka90/jev-typesafe-real-financial-use-cases"
+      },
+      "tier": "listed"
     }
   ]
 }
