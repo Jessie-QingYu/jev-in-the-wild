@@ -2,11 +2,11 @@
 
 **Real-world use cases, open-source projects, benchmarks and criticism of [Jev](https://typesafe.ai), TypeSafe AI's System One model — what people actually build with it, and where it actually fails.**
 
-![entries](https://img.shields.io/badge/entries-419-2f81f7) ![open source](https://img.shields.io/badge/open%20source%20projects-249-2f81f7) ![updated](https://img.shields.io/badge/updated-2026--10--14-2f81f7) ![data license](https://img.shields.io/badge/data-CC0--1.0-2f81f7)
+![entries](https://img.shields.io/badge/entries-420-2f81f7) ![open source](https://img.shields.io/badge/open%20source%20projects-250-2f81f7) ![updated](https://img.shields.io/badge/updated-2026--10--14-2f81f7) ![data license](https://img.shields.io/badge/data-CC0--1.0-2f81f7)
 
 Three things make this different from the other Jev lists:
 
-1. **It is not only GitHub.** 210 of the 419 entries are Reddit threads, Hacker News posts, YouTube evaluations and blog write-ups — where most of the first-hand reporting actually happens.
+1. **It is not only GitHub.** 210 of the 420 entries are Reddit threads, Hacker News posts, YouTube evaluations and blog write-ups — where most of the first-hand reporting actually happens.
 2. **It includes the criticism.** An awesome list is promotional by construction. This one has a [section for what does not work](#where-jev-struggles), and negative results are welcome in every other section too.
 3. **It is data, not prose.** [`data/entries.json`](data/entries.json) is the source of truth and this README is generated from it. Fork the data, build something better, no scraping required.
 
@@ -44,12 +44,12 @@ Three things make this different from the other Jev lists:
 
 | | |
 | --- | --- |
-| Entries | **419** listed, 40 unproven |
-| Open-source projects | 249 |
+| Entries | **420** listed, 40 unproven |
+| Open-source projects | 250 |
 | Reported use cases | 60 |
 | Analysis and criticism | 89 |
 | Official from TypeSafe AI | 44 |
-| Where the entries come from | GitHub 234, Reddit 104, YouTube 37, Hacker News 24, blogs and web 60 |
+| Where the entries come from | GitHub 235, Reddit 104, YouTube 37, Hacker News 24, blogs and web 60 |
 | Languages of the code | Python 81, TypeScript 52, JavaScript 30, Rust 14, Go 12, HTML 10 |
 | Categories | 12 |
 | Last refreshed | 2026-10-14 |
@@ -649,7 +649,7 @@ Every other Jev list is a highlight reel. These are the entries that report a li
 
 ### Open imitations and local models
 
-*Small open models and LLM-backed adapters that reproduce the typed-decision interface without the API.* — 33 entries
+*Small open models and LLM-backed adapters that reproduce the typed-decision interface without the API.* — 34 entries
 
 | What | What it does | Kind | Signal | Date |
 | --- | --- | --- | --- | --- |
@@ -664,20 +664,21 @@ Every other Jev list is a highlight reel. These are the entries that report a li
 | [Local API-compatible replacement for Jev](https://github.com/Mushroom-Systems/lichen) | A local project intended to replace Jev with an API-compatible implementation; the description gives no further technical details. | code | ★ 58 | 2026-09-23 |
 | [TensorSharp adds image input to Jev-compatible decisions](https://reddit.com/r/unsloth/comments/1woidho/using_unsloths_diffusiongemma_gguf_for_local) | TensorSharp runs local Jev-compatible typed decisions through the System One API and extends its request format to accept images alongside text without changing the answer structure. | code | ▲ 43 | 2026-09-23 |
 | [Run open-weight Jev-compatible decision models locally](https://reddit.com/r/LocalLLaMA/comments/1wspn24/trained_locally_ultrafast_08b2b_system_1_decision) | Jeff offers 0.8B and 2B locally trained decision models with a Jev-compatible API; the author reports roughly 30 ms decisions and benchmark performance comparable to Jev. | code | ▲ 35 | 2026-09-28 |
-| [Open-weight multilingual Jev-style decision models](https://reddit.com/r/LocalLLaMA/comments/1wm0cn0/convaiinnovationslaya_multilingual) | Laya is an Apache-2.0 local alternative with English and multilingual checkpoints, typed decisions, routing, calibrated probabilities, and human-escalation support. | code | ▲ 29 | 2026-09-21 |
 | [Rust Jev-compatible API \| Rust版Jev兼容API](https://github.com/alvarobartt/sys1) | Self-hosted Rust implementation of TypeSafe AI compatible API for fast structured decisions using open models. \| 自托管Rust实现，提供TypeSafe AI兼容API进行快速结构化决策。 | code | ★ 53 | 2026-09-22 |
+| [Open-weight multilingual Jev-style decision models](https://reddit.com/r/LocalLLaMA/comments/1wm0cn0/convaiinnovationslaya_multilingual) | Laya is an Apache-2.0 local alternative with English and multilingual checkpoints, typed decisions, routing, calibrated probabilities, and human-escalation support. | code | ▲ 29 | 2026-09-21 |
 | [Run open-weight visual Jev-style decisions locally](https://reddit.com/r/computervision/comments/1wuyyrz/vev_jevlike_vision_decision_models_built_on) | Vev provides Qwen3.5 4B/9B fine-tunes for image-conditioned yes/no, choice, and scoring decisions, returning answer probabilities via local inference and a Jev-compatible API. | code | ▲ 28 | 2026-10-01 |
 | [Agr open decision model for tool routing \| Agr工具路由开源决策模型](https://reddit.com/r/CommandCode/comments/1wygswa/introducing_agr_an_open_decision_model_by_command) | Agr (31B/360M open-weight models) by Command Code, optimized for tool calling and routing, scores 58.15 on Decision Index 0.2.1, supports TypeSafe SDK with live HuggingFace release. \| Agr（31B/360M开源模型）由Command Code开发，为工具调用和路由优化，在决策指数0.2.1上评分58.15，支持TypeSafe SDK，在HuggingFace上发布。 | code | ▲ 25 | 2026-10-05 |
-| [Turn local LLMs into Jev-style decision engines](https://reddit.com/r/LLMDevs/comments/1wn45oq/notjev_turn_any_local_llm_into_a_jevstyle) | notjev uses one-token logprobs from OpenAI-compatible local models to return Jev-like verdicts, probabilities, margins, abstention, and the System One wire contract. | code | ▲ 24 | 2026-09-22 |
 | [Provide a local deterministic Jev-compatible model](https://github.com/emnlmn/snap) | The snap repository provides typed decisions from unstructured state in one forward pass with no generated text. It is local, deterministic, and explicitly Jev-compatible, but unaffiliated with TypeSafe AI. | code | ★ 12 | 2026-09-23 |
+| [Turn local LLMs into Jev-style decision engines](https://reddit.com/r/LLMDevs/comments/1wn45oq/notjev_turn_any_local_llm_into_a_jevstyle) | notjev uses one-token logprobs from OpenAI-compatible local models to return Jev-like verdicts, probabilities, margins, abstention, and the System One wire contract. | code | ▲ 24 | 2026-09-22 |
 | [Train a local Jev-compatible proxy](https://reddit.com/r/LocalLLaMA/comments/1wnt7kv/stuntd_a_local_jevcompatible_server_on_laya_that) | stuntd records hosted Jev decisions, trains a small local head on Laya, and switches to local inference after meeting an agreement threshold while retaining provider fallback. | code | ▲ 23 | 2026-09-23 |
+| [Generate text from Jev decisions](https://github.com/Code-Forge-AU/jev-llm) | An open-source experiment uses Jev choice calls for word-by-word generation, selecting and reranking candidates without a drafting LLM. | code | ★ 7 | 2026-09-17 |
 | [Drex provides a Jev-compatible open decision model](https://reddit.com/r/machinelearningnews/comments/1x26l1h/naceai_opensources_drex_15_a_9b_decision_model) | Nace.AI open-sources Drex 1.5, a 9B model with typed decision outputs and a Jev-compatible API. Its reported Decision Index is near Jev, while several general-knowledge benchmarks lag. | code | ▲ 18 | 2026-10-10 |
 | [OpenJudgement-4B open-weight alternative to Jev](https://reddit.com/r/LocalLLaMA/comments/1wp2xpn/i_built_an_openweight_alternative_to_jev_typesafe) | An experimental Qwen-based model directly scores classification, rubric and true/false answers, with Python formatting probabilities as JSON; its author says it is unfinished and not yet at Jev’s level. | code | ▲ 16 | 2026-09-24 |
-| [Generate text from Jev decisions](https://github.com/Code-Forge-AU/jev-llm) | An open-source experiment uses Jev choice calls for word-by-word generation, selecting and reranking candidates without a drafting LLM. | code | ★ 7 | 2026-09-17 |
 | [Kev local Jev-compatible decision model family](https://reddit.com/r/LocalLLaMA/comments/1wmxx9w/kev_tiny_jevlike_decision_models_08b4b9b_on) | Open Apache-2.0 models at 0.8B, 4B, and 9B sizes, with training code, frozen evals, local 32GB Mac support, and API compatibility with TypeSafe's SDK. | code | ▲ 13 | 2026-09-22 |
+| [Python judgment-call wrapper for Jev and small models](https://github.com/Kungie/gut) | Kungie/gut provides one-line Python calls for classification, rating, and yes/no/unsure judgments using Jev or small-model backends, including local NLI, Ollama, vLLM, and OpenAI. | code | ★ 6 | 2026-09-20 |
 | [Kev: open-source System One decision engine with local model support](https://reddit.com/r/coolgithubprojects/comments/1wo12v0/kev_opensource_system_one_decisions_you_can) | Apache-2.0 open-source System One-style decision engine supporting choice/score/noul primitives; self-hosted via Ollama, vLLM, or OpenAI-compatible backends; claims competitive performance with 9B local model. | code | ▲ 10 | 2026-09-23 |
 | [Open 4B local model matching Jev’s typed interface](https://reddit.com/r/LocalLLM/comments/1wllp1l/a_local_alternative_to_jev_i_trained_zico_an_open) | zico is an open Qwen3.5-4B fine-tune with a compatible server, calibrated Choice, Score and Noul outputs, image support, and MLX/CUDA execution. | code | ▲ 3 | 2026-09-20 |
-| [Python judgment-call wrapper for Jev and small models](https://github.com/Kungie/gut) | Kungie/gut provides one-line Python calls for classification, rating, and yes/no/unsure judgments using Jev or small-model backends, including local NLI, Ollama, vLLM, and OpenAI. | code | ★ 6 | 2026-09-20 |
+| [Curate open alternatives to System One decision models](https://github.com/mturac/awesome-jev-alternatives) | A curated and verified list of open alternatives and components for System One-style decision models, including Jev alternatives. | code | ★ 3 | 2026-09-27 |
 | [Open-source Qwen alternative to Jev](https://huggingface.co/spaces/drinkmoonshine/parallel-constrained-decoding) | A Hugging Face project offers a Qwen-2.5-1B RLCD-based open alternative intended to reproduce Jev-style typed decisions. | code | ▲ 2 | 2026-09-16 |
 | [Local Qwen adapter for Jev-style typed decisions](https://reddit.com/r/LocalLLM/comments/1wlr8sp/i_rebuilt_the_jev_interface_with_local_qwen) | Reimplements Jev's state-plus-questions contract with MLX Qwen models, reading probabilities from logits and reporting accuracy and calibration results. | code | ▲ 1 | 2026-09-20 |
 | [Open local Jev-style decision layer with calibration](https://reddit.com/r/learnmachinelearning/comments/1wksf4i/poorjev_an_open_local_system_one_decision_layer) | Poorjev recreates Jev’s Choice, Score and Noul interface locally, reporting ECE improvement from 0.170 to 0.071 on a 55-item held-out evaluation. | code | ▲ 1 | 2026-09-19 |
@@ -747,7 +748,7 @@ Every other Jev list is a highlight reel. These are the entries that report a li
 
 **What stays out.** Reposted news, "what is Jev" explainers with nothing behind them, reaction videos, and anything whose only claim is that Jev exists. A repository with no stars is not rejected — it goes to [New and unproven](#new-and-unproven).
 
-**The site and this list are not the same set.** The [live tracker](https://jessie.romeos.cc/full/apps/jev-tracker) shows every candidate the scan has found — currently more than the 419 listed here — because it is the raw feed. This list is the filtered one: after the first import, a new entry has to clear a bar before it is added (3+ GitHub stars, 10+ forum points, 1000+ video views; TypeSafe AI's own releases always, and an article on a formed judgment). So the site answers "what is out there", and this list answers "what has anyone else noticed".
+**The site and this list are not the same set.** The [live tracker](https://jessie.romeos.cc/full/apps/jev-tracker) shows every candidate the scan has found — currently more than the 420 listed here — because it is the raw feed. This list is the filtered one: after the first import, a new entry has to clear a bar before it is added (3+ GitHub stars, 10+ forum points, 1000+ video views; TypeSafe AI's own releases always, and an article on a formed judgment). So the site answers "what is out there", and this list answers "what has anyone else noticed".
 
 **What is automated and what is not.** The long tables are maintained automatically: numbers are re-read from the GitHub API daily, and the README is regenerated from the data. [Ten worth opening first](#ten-worth-opening-first) is chosen by hand, the reasons are written by hand, and every incoming pull request is reviewed by a person. Nothing merges itself.
 

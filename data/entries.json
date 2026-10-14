@@ -13317,6 +13317,33 @@
         "pushedAt": "2026-10-13T15:03:43Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_mujyagcvx3k49l",
+      "title": "Curate open alternatives to System One decision models",
+      "summary": "A curated and verified list of open alternatives and components for System One-style decision models, including Jev alternatives.",
+      "url": "https://github.com/mturac/awesome-jev-alternatives",
+      "kind": "code",
+      "category": "imitations",
+      "categoryName": "Open imitations and local models",
+      "source": "github",
+      "sourceLabel": "mturac",
+      "author": "mturac",
+      "publishedAt": "2026-09-27",
+      "addedAt": "2026-09-27",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "alternatives",
+        "system one"
+      ],
+      "repo": {
+        "slug": "mturac/awesome-jev-alternatives"
+      },
+      "tier": "listed"
     }
   ]
 }
