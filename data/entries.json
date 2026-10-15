@@ -13348,6 +13348,138 @@
         "pushedAt": "2026-09-27T07:41:53Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_mv9o71f2umxt50",
+      "title": "Use Jev as an enterprise decision layer",
+      "summary": "HatchWorks argues that Jev's bounded, typed decisions can complement generative LLMs in enterprise workflows, and recommends evaluating quality, latency, cost, escalation, and outcomes before rollout.",
+      "url": "https://hatchworks.com/blog/gen-ai/system-one-models-jev",
+      "kind": "opinion",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "web",
+      "sourceLabel": "hatchworks.com",
+      "author": null,
+      "publishedAt": null,
+      "addedAt": "2026-10-15",
+      "metric": null,
+      "sentiment": "positive",
+      "tags": [
+        "enterprise",
+        "system-one",
+        "evaluation"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mv9o62xwh6d9q1",
+      "title": "Release Jev 1.14.0 experimental features",
+      "summary": "TypeSafe announces Jev 1.14.0 and experimental features for dreamers. The provided listing does not specify feature details.",
+      "url": "https://typesafe.ai/blog/jev-1-14",
+      "kind": "official",
+      "category": "other",
+      "categoryName": "Everything else",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "author": "emschwartz",
+      "publishedAt": "2026-10-14",
+      "addedAt": "2026-10-15",
+      "metric": {
+        "type": "points",
+        "value": 318
+      },
+      "sentiment": null,
+      "tags": [
+        "release",
+        "experimental"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mv9o6e84bc328e",
+      "title": "Claude Code and Codex Jev skills and learning resources",
+      "summary": "Provides Claude Code/Codex skills and learning resources for building with Jev, drawing directly from TypeSafe's canonical cookbooks and documentation.",
+      "url": "https://github.com/tiffygk/jev-mode",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "tiffygk",
+      "author": "tiffygk",
+      "publishedAt": "2026-09-28",
+      "addedAt": "2026-10-15",
+      "metric": {
+        "type": "stars",
+        "value": 10
+      },
+      "sentiment": null,
+      "tags": [
+        "claude-code",
+        "codex",
+        "skills"
+      ],
+      "repo": {
+        "slug": "tiffygk/jev-mode"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mv9o6e83pdoblq",
+      "title": "Source-backed Jev and System One knowledge map",
+      "summary": "A GitHub knowledge map curates source-backed projects, papers, evaluations, robotics work, and social discovery around Jev and System One.",
+      "url": "https://github.com/Promethe-us/awesome-jev",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "Promethe-us",
+      "author": "Promethe-us",
+      "publishedAt": "2026-09-20",
+      "addedAt": "2026-10-15",
+      "metric": {
+        "type": "stars",
+        "value": 157
+      },
+      "sentiment": null,
+      "tags": [
+        "knowledge-map",
+        "curation",
+        "system-one"
+      ],
+      "repo": {
+        "slug": "Promethe-us/awesome-jev"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mv9o6e86nt5cdn",
+      "title": "System One models and ecosystem directory",
+      "summary": "Lists Jev and other System One models alongside agents, tools, SDKs, and benchmarks.",
+      "url": "https://github.com/andyrewlee/awesome-system-one",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "andyrewlee",
+      "author": "andyrewlee",
+      "publishedAt": "2026-09-19",
+      "addedAt": "2026-10-15",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "system-one",
+        "directory",
+        "curation"
+      ],
+      "repo": {
+        "slug": "andyrewlee/awesome-system-one"
+      },
+      "tier": "listed"
     }
   ]
 }
