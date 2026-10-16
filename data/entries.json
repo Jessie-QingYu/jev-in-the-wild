@@ -13492,6 +13492,88 @@
         "pushedAt": "2026-10-15T08:49:51Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_mv9o71f13jergl",
+      "title": "Play Factorio with Jev",
+      "summary": "A GitHub project explores using TypeSafe AI's Jev to play Factorio. The available description does not specify the control loop or gameplay results.",
+      "url": "https://github.com/kgaspard/jev-factorio",
+      "kind": "usecase",
+      "category": "realtime",
+      "categoryName": "Real-time and games",
+      "source": "github",
+      "sourceLabel": "kgaspard",
+      "author": "kgaspard",
+      "publishedAt": "2026-10-15",
+      "addedAt": "2026-10-15",
+      "metric": {
+        "type": "stars",
+        "value": 4
+      },
+      "sentiment": null,
+      "tags": [
+        "games",
+        "factorio",
+        "decision-making"
+      ],
+      "repo": {
+        "slug": "kgaspard/jev-factorio"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvb3ootins85ch",
+      "title": "Catalog TypeSafe Jev ecosystem projects",
+      "summary": "A community-maintained directory covering Jev integrations, compatible models, SDKs, agent tools, and research.",
+      "url": "https://github.com/VoltAgent/typesafe-jev-ecosystem",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "VoltAgent",
+      "author": "VoltAgent",
+      "publishedAt": "2026-10-10",
+      "addedAt": "2026-10-16",
+      "metric": {
+        "type": "stars",
+        "value": 8
+      },
+      "sentiment": null,
+      "tags": [
+        "ecosystem",
+        "integrations",
+        "sdk"
+      ],
+      "repo": {
+        "slug": "VoltAgent/typesafe-jev-ecosystem"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muzo6mcgydvexx",
+      "title": "Jev is a reference model but lacks EU hosting",
+      "summary": "The author regards Jev as the reference implementation, but rules it out because it lacks EU data residency; they favor Strom for EU hosting, image inputs, and caching. | 作者认为 Jev 是参考实现，但因缺少欧盟数据驻留而不考虑使用；其更看好支持欧盟托管、图像输入和缓存的 Strom。",
+      "url": "https://reddit.com/r/LLMDevs/comments/1x0cngd/jev_alternatives_openais_decisions_api_is",
+      "kind": "opinion",
+      "category": "economics",
+      "categoryName": "Speed, pricing and access",
+      "source": "reddit",
+      "sourceLabel": "r/LLMDevs",
+      "author": "u/No_Stock_8271",
+      "publishedAt": "2026-10-08",
+      "addedAt": "2026-10-08",
+      "metric": {
+        "type": "points",
+        "value": 10
+      },
+      "sentiment": "mixed",
+      "tags": [
+        "eu-hosting",
+        "alternatives",
+        "availability"
+      ],
+      "repo": null,
+      "tier": "listed"
     }
   ]
 }
