@@ -2,11 +2,11 @@
 
 **Real-world use cases, open-source projects, benchmarks and criticism of [Jev](https://typesafe.ai), TypeSafe AI's System One model — what people actually build with it, and where it actually fails.**
 
-![entries](https://img.shields.io/badge/entries-430-2f81f7) ![open source](https://img.shields.io/badge/open%20source%20projects-255-2f81f7) ![updated](https://img.shields.io/badge/updated-2026--10--17-2f81f7) ![data license](https://img.shields.io/badge/data-CC0--1.0-2f81f7)
+![entries](https://img.shields.io/badge/entries-431-2f81f7) ![open source](https://img.shields.io/badge/open%20source%20projects-256-2f81f7) ![updated](https://img.shields.io/badge/updated-2026--10--17-2f81f7) ![data license](https://img.shields.io/badge/data-CC0--1.0-2f81f7)
 
 Three things make this different from the other Jev lists:
 
-1. **It is not only GitHub.** 213 of the 430 entries are Reddit threads, Hacker News posts, YouTube evaluations and blog write-ups — where most of the first-hand reporting actually happens.
+1. **It is not only GitHub.** 213 of the 431 entries are Reddit threads, Hacker News posts, YouTube evaluations and blog write-ups — where most of the first-hand reporting actually happens.
 2. **It includes the criticism.** An awesome list is promotional by construction. This one has a [section for what does not work](#where-jev-struggles), and negative results are welcome in every other section too.
 3. **It is data, not prose.** [`data/entries.json`](data/entries.json) is the source of truth and this README is generated from it. Fork the data, build something better, no scraping required.
 
@@ -44,12 +44,12 @@ Three things make this different from the other Jev lists:
 
 | | |
 | --- | --- |
-| Entries | **430** listed, 38 unproven |
-| Open-source projects | 255 |
+| Entries | **431** listed, 38 unproven |
+| Open-source projects | 256 |
 | Reported use cases | 61 |
 | Analysis and criticism | 91 |
 | Official from TypeSafe AI | 45 |
-| Where the entries come from | GitHub 240, Reddit 105, YouTube 37, Hacker News 25, blogs and web 61 |
+| Where the entries come from | GitHub 241, Reddit 105, YouTube 37, Hacker News 25, blogs and web 61 |
 | Languages of the code | Python 81, TypeScript 52, JavaScript 30, Rust 14, Go 12, HTML 11 |
 | Categories | 12 |
 | Last refreshed | 2026-10-17 |
@@ -153,7 +153,7 @@ Every other Jev list is a highlight reel. These are the entries that report a li
 
 ## Added this week
 
-24 entries added in the seven days to 2026-10-17.
+25 entries added in the seven days to 2026-10-17.
 
 | What | What it does | Kind | Signal | Date |
 | --- | --- | --- | --- | --- |
@@ -164,9 +164,9 @@ Every other Jev list is a highlight reel. These are the entries that report a li
 | [Claude Code and Codex Jev skills and learning resources](https://github.com/tiffygk/jev-mode) | Provides Claude Code/Codex skills and learning resources for building with Jev, drawing directly from TypeSafe's canonical cookbooks and documentation. | code | ★ 12 | 2026-09-28 |
 | [Swift framework for TypeSafe Jev](https://github.com/SoundBlaster/SwiftJev) | A Swift framework provides access to Jev System One; this is a distinct language client. | code | ★ 9 | 2026-09-21 |
 | [.NET port of the TypeSafe Jev SDK](https://github.com/laurentkempe/TypeSafeJevPlayground) | An idiomatic .NET port of typesafe-ai/typesafe-sdk-js v0.6.0, providing a client for Jev. | code | ★ 9 | 2026-09-19 |
-| [TypeSafe’s funding reflects AI hype more than architecture](https://reddit.com/r/LocalLLaMA/comments/1x2cyy4/typesafe_ai_raised_870m_on_hype_jev) | The poster criticizes TypeSafe’s reported $870M raise as hype-driven and links an earlier claim that a community member had built a similar architecture. | opinion | ▲ 60 | 2026-10-10 |
 | [Catalog TypeSafe Jev ecosystem projects](https://github.com/VoltAgent/typesafe-jev-ecosystem) | A community-maintained directory covering Jev integrations, compatible models, SDKs, agent tools, and research. | code | ★ 8 | 2026-10-10 |
 | [Advance Slidev slides by voice-driven semantic matching](https://github.com/harshil1712/slidepilot) | Uses Cloudflare Agents and Jev to decide when spoken content semantically matches the current slide and should advance the presentation. | use case | ★ 8 | 2026-09-18 |
+| [TypeSafe’s funding reflects AI hype more than architecture](https://reddit.com/r/LocalLLaMA/comments/1x2cyy4/typesafe_ai_raised_870m_on_hype_jev) | The poster criticizes TypeSafe’s reported $870M raise as hype-driven and links an earlier claim that a community member had built a similar architecture. | opinion | ▲ 60 | 2026-10-10 |
 | [System One models and ecosystem directory](https://github.com/andyrewlee/awesome-system-one) | Lists Jev and other System One models alongside agents, tools, SDKs, and benchmarks. | code | ★ 6 | 2026-09-19 |
 | [CLI, MCP and Claude Code plugin for decision APIs](https://github.com/adityajha2005/decisionkit) | Decisionkit provides probability-scored decisions through a CLI, MCP server and Claude Code plugin, supporting both Jev and OpenAI Decisions API. | code | ★ 5 | 2026-10-10 |
 | [Play Factorio with Jev](https://github.com/kgaspard/jev-factorio) | A GitHub project explores using TypeSafe AI's Jev to play Factorio. The available description does not specify the control loop or gameplay results. | use case | ★ 4 | 2026-10-15 |
@@ -176,6 +176,7 @@ Every other Jev list is a highlight reel. These are the entries that report a li
 | [Unify decision APIs across Jev, Foundry and Ollama](https://github.com/elbruno/ElBruno.AI.Decisions) | A .NET 10 SDK offers a shared Choose, Score and Assess API for Jev, Microsoft Foundry and local Ollama decision models. | code | ★ 3 | 2026-09-22 |
 | [Curate a Jev ecosystem hub with verified projects](https://github.com/supermanc417-alt/awesome-jev-hub) | Collects Jev/System One concepts, 51 projects across 12 categories, community lists, and official repository screenshots. | official | ★ 3 | 2026-09-22 |
 | [Provide a lightweight .NET client for Jev](https://github.com/brightshore/jev-net) | A one-dependency .NET client for the TypeSafe AI System One API, described as a faithful port of the official Python SDK. | code | ★ 3 | 2026-09-20 |
+| [Unofficial Rust client for Jev’s typed API](https://github.com/phiat/typesafe-rust-sdk) | Rust client for TypeSafe’s System One API, supporting typed Noul, Choice, Score, and Box questions, images, plus async and blocking use. | code | ★ 3 | 2026-09-19 |
 | [Use Jev as an enterprise decision layer](https://hatchworks.com/blog/gen-ai/system-one-models-jev) | HatchWorks argues that Jev's bounded, typed decisions can complement generative LLMs in enterprise workflows, and recommends evaluating quality, latency, cost, escalation, and outcomes before rollout. | opinion | — | 2026-10-15 |
 | [TypeSafe AI announces its Series AI funding](https://typesafe.ai/blog/series-ai) | TypeSafe AI’s blog post announces a Series AI raise; official TypeSafe posts are included, although the candidate provides no further product detail. | official | — | 2026-10-11 |
 | [Replace brittle yes/no input checks with Jev Noul](https://realpython.com/videos/jev-ai-first-look) | A hands-on Python walkthrough uses Jev to interpret free-form answers to whether someone lost an item. The reviewer notes a fuzzy 0.34 result and concludes Jev is fast and tidy, but not novel. | opinion | — | 2026-10-11 |
@@ -521,7 +522,7 @@ Every other Jev list is a highlight reel. These are the entries that report a li
 
 ### SDKs and clients
 
-*Client libraries and language ports, MCP servers, framework plugins, translated docs.* — 77 entries
+*Client libraries and language ports, MCP servers, framework plugins, translated docs.* — 78 entries
 
 | What | What it does | Kind | Signal | Date |
 | --- | --- | --- | --- | --- |
@@ -581,6 +582,7 @@ Every other Jev list is a highlight reel. These are the entries that report a li
 | [.NET client SDK for TypeSafe AI](https://github.com/hardkoded/typesafe-sdk-dotnet) | An unofficial .NET port of the TypeSafe AI client SDK supporting typed questions and answers. | code | ★ 3 | 2026-09-20 |
 | [Provide a lightweight .NET client for Jev](https://github.com/brightshore/jev-net) | A one-dependency .NET client for the TypeSafe AI System One API, described as a faithful port of the official Python SDK. | code | ★ 3 | 2026-09-20 |
 | [Curated list of Jev resources](https://github.com/robokrunch/awesome-jev) | A curated directory of resources for Jev and TypeSafe AI's System One model. | code | ★ 3 | 2026-09-19 |
+| [Unofficial Rust client for Jev’s typed API](https://github.com/phiat/typesafe-rust-sdk) | Rust client for TypeSafe’s System One API, supporting typed Noul, Choice, Score, and Box questions, images, plus async and blocking use. | code | ★ 3 | 2026-09-19 |
 | [Rust SDK for TypeSafe AI Jev](https://github.com/aoprisan/typesafe-ai-rust-sdk) | Community Rust client library for TypeSafe AI System One API with typed decision support. | code | ★ 3 | 2026-09-17 |
 | [Rust SDK for the TypeSafe AI API](https://github.com/codeitlikemiley/typesafe-sdk-rust) | A Rust SDK for the TypeSafe AI API, with no further details in the description. | code | ★ 3 | 2026-09-16 |
 | [Haskell library for Jev](https://github.com/realbogart/jev) | A Haskell library for using TypeSafe AI's Jev model. | code | ★ 2 | 2026-09-20 |
@@ -756,7 +758,7 @@ Every other Jev list is a highlight reel. These are the entries that report a li
 
 **What stays out.** Reposted news, "what is Jev" explainers with nothing behind them, reaction videos, and anything whose only claim is that Jev exists. A repository with no stars is not rejected — it goes to [New and unproven](#new-and-unproven).
 
-**The site and this list are not the same set.** The [live tracker](https://jessie.romeos.cc/full/apps/jev-tracker) shows every candidate the scan has found — currently more than the 430 listed here — because it is the raw feed. This list is the filtered one: after the first import, a new entry has to clear a bar before it is added (3+ GitHub stars, 10+ forum points, 1000+ video views; TypeSafe AI's own releases always, and an article on a formed judgment). So the site answers "what is out there", and this list answers "what has anyone else noticed".
+**The site and this list are not the same set.** The [live tracker](https://jessie.romeos.cc/full/apps/jev-tracker) shows every candidate the scan has found — currently more than the 431 listed here — because it is the raw feed. This list is the filtered one: after the first import, a new entry has to clear a bar before it is added (3+ GitHub stars, 10+ forum points, 1000+ video views; TypeSafe AI's own releases always, and an article on a formed judgment). So the site answers "what is out there", and this list answers "what has anyone else noticed".
 
 **What is automated and what is not.** The long tables are maintained automatically: numbers are re-read from the GitHub API daily, and the README is regenerated from the data. [Ten worth opening first](#ten-worth-opening-first) is chosen by hand, the reasons are written by hand, and every incoming pull request is reviewed by a person. Nothing merges itself.
 

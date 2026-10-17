@@ -13582,6 +13582,34 @@
       ],
       "repo": null,
       "tier": "listed"
+    },
+    {
+      "id": "e_mvcj1lr978nia8",
+      "title": "Unofficial Rust client for Jev’s typed API",
+      "summary": "Rust client for TypeSafe’s System One API, supporting typed Noul, Choice, Score, and Box questions, images, plus async and blocking use.",
+      "url": "https://github.com/phiat/typesafe-rust-sdk",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "phiat",
+      "author": "phiat",
+      "publishedAt": "2026-09-19",
+      "addedAt": "2026-10-17",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "rust",
+        "sdk",
+        "typed-api"
+      ],
+      "repo": {
+        "slug": "phiat/typesafe-rust-sdk"
+      },
+      "tier": "listed"
     }
   ]
 }
