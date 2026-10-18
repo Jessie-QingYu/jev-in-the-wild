@@ -13614,6 +13614,116 @@
         "pushedAt": "2026-10-17T02:32:48Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_mvb3ootnur53tz",
+      "title": "Curate a verified Jev and System One resource list",
+      "summary": "A bilingual community list of papers, models, datasets, benchmarks, and SDKs, with versioned sources and verification levels.",
+      "url": "https://github.com/reacher-z/Awesome-Jev",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "reacher-z",
+      "author": "reacher-z",
+      "publishedAt": "2026-10-16",
+      "addedAt": "2026-10-16",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "curation",
+        "research",
+        "resources"
+      ],
+      "repo": {
+        "slug": "reacher-z/Awesome-Jev"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvdyhfxui0bqhl",
+      "title": "Review Jev in a Python first look",
+      "summary": "Real Python presents a first-look review of Jev from a Python user's perspective; the supplied listing gives no concrete findings or verdict.",
+      "url": "https://youtube.com/watch?v=pmnq5e5Xp4s&t=120s",
+      "kind": "opinion",
+      "category": "other",
+      "categoryName": "Everything else",
+      "source": "youtube",
+      "sourceLabel": "Real Python",
+      "author": "Real Python",
+      "publishedAt": "2026-09-27",
+      "addedAt": "2026-10-18",
+      "metric": {
+        "type": "views",
+        "value": 32752
+      },
+      "sentiment": "mixed",
+      "tags": [
+        "python",
+        "review",
+        "first look"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mui4udikvr1r7q",
+      "title": "Rust client library and CLI for Jev (Mechanical-Jev)",
+      "summary": "Rust implementation of Jev query interface (noul, choice, score) with mjev CLI tool and evaluation harness, reverse-engineered from docs.",
+      "url": "https://github.com/Lasimeri/Mechanical-Jev",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "Lasimeri",
+      "author": "Lasimeri",
+      "publishedAt": "2026-09-24",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "rust",
+        "sdk",
+        "client"
+      ],
+      "repo": {
+        "slug": "Lasimeri/Mechanical-Jev"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvdyhr0tgixs7d",
+      "title": "Add Jev-backed auto-approval to the Pi coding agent",
+      "summary": "A Pi coding-agent plugin uses Jev to semantically auto-approve bash, write, and edit calls, and fails closed when it cannot decide.",
+      "url": "https://github.com/jomatsu/pi-jev-auto-mode",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "jomatsu",
+      "author": "jomatsu",
+      "publishedAt": "2026-09-17",
+      "addedAt": "2026-10-18",
+      "metric": {
+        "type": "stars",
+        "value": 32
+      },
+      "sentiment": null,
+      "tags": [
+        "coding-agent",
+        "permissions",
+        "plugin"
+      ],
+      "repo": {
+        "slug": "jomatsu/pi-jev-auto-mode"
+      },
+      "tier": "listed"
     }
   ]
 }
