@@ -13737,6 +13737,164 @@
         "pushedAt": "2026-10-18T04:13:09Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_mvfdyrwj8p003n",
+      "title": "Jev is robust on moderation but weak on phishing",
+      "summary": "A controlled preprint finds Jev fast and robust on moderation, but detects only 62% of phishing emails and flags many benign requests.",
+      "url": "https://arxiv.org/abs/2610.17820",
+      "kind": "opinion",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "web",
+      "sourceLabel": "arXiv",
+      "author": "Xiang Li, Aichun Huang, Mingming Zhang and Zheli Liu",
+      "publishedAt": "2026-10-13",
+      "addedAt": "2026-10-19",
+      "metric": null,
+      "sentiment": "mixed",
+      "tags": [
+        "phishing",
+        "moderation",
+        "evaluation"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvfdyrwnlyga37",
+      "title": "Guide security reconnaissance with Jev",
+      "summary": "RedAmon uses Jev for fuzzing choices, WAF detection, page classification, and crawl prioritization; agents and reports still rely on a chat LLM.",
+      "url": "https://github.com/samugit83/redamon/wiki/TypeSafe-Jev",
+      "kind": "usecase",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "samugit83/redamon",
+      "author": "Samuele Giampieri",
+      "publishedAt": "2026-10-07",
+      "addedAt": "2026-10-19",
+      "metric": {
+        "type": "stars",
+        "value": 3156
+      },
+      "sentiment": null,
+      "tags": [
+        "security",
+        "reconnaissance",
+        "web"
+      ],
+      "repo": {
+        "slug": "samugit83/redamon"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mui50332j7kivz",
+      "title": "Scala 3 client library for Jev",
+      "summary": "Scala 3 SDK for TypeSafe AI Jev; enables JVM applications to call Jev's typed-decision API and receive choices, scores, and calibrated probabilities.",
+      "url": "https://github.com/softinio/verdict4s",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "softinio",
+      "author": "softinio",
+      "publishedAt": "2026-09-21",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "scala",
+        "jvm",
+        "client"
+      ],
+      "repo": {
+        "slug": "softinio/verdict4s"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvfdyrwr9ea8n0",
+      "title": "Compose typed Jev questions with a Haskell client",
+      "summary": "A Hackage-published client supports TypeSafe and OpenRouter and composes Choice, Score, and Noul questions, with examples, timeouts, and key handling.",
+      "url": "https://github.com/realbogart/jev/blob/main/README.md",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "realbogart/jev",
+      "author": "realbogart",
+      "publishedAt": "2026-09-20",
+      "addedAt": "2026-10-19",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "haskell",
+        "client",
+        "openrouter"
+      ],
+      "repo": {
+        "slug": "realbogart/jev"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvfdyrwum4w91a",
+      "title": "Jev cost savings vary substantially by workload",
+      "summary": "An article combining outside benchmarks with a 483-decision test argues the advertised 444.6× cost advantage is not universal and measured savings vary widely.",
+      "url": "https://capitalandcompute.net/blog/typesafe-jev-system-one-models-cost-use-cases",
+      "kind": "opinion",
+      "category": "economics",
+      "categoryName": "Speed, pricing and access",
+      "source": "web",
+      "sourceLabel": "Capital & Compute",
+      "author": "Capital & Compute",
+      "publishedAt": "2026-09-18",
+      "addedAt": "2026-10-19",
+      "metric": null,
+      "sentiment": "mixed",
+      "tags": [
+        "cost",
+        "benchmarks",
+        "workload"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvfdz5nnkrzvoe",
+      "title": "Swift SDK for TypeSafe AI",
+      "summary": "A Swift client SDK for TypeSafe AI; the repository listing identifies it as a Swift SDK.",
+      "url": "https://github.com/InsaneArts/typesafe-sdk-swift",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "InsaneArts",
+      "author": "InsaneArts",
+      "publishedAt": "2026-09-17",
+      "addedAt": "2026-10-19",
+      "metric": {
+        "type": "stars",
+        "value": 4
+      },
+      "sentiment": null,
+      "tags": [
+        "swift",
+        "sdk",
+        "client"
+      ],
+      "repo": {
+        "slug": "InsaneArts/typesafe-sdk-swift"
+      },
+      "tier": "listed"
     }
   ]
 }
