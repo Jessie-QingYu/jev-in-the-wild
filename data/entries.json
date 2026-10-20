@@ -13911,6 +13911,87 @@
         "pushedAt": "2026-10-17T10:54:05Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_mvgtecpsqt74tf",
+      "title": "CDMs claim to beat Jev on speed, cost and DecisionBench",
+      "summary": "A post promoting constrained decoding models claims 77.2% on DecisionBench versus Jev’s 72%, alongside much higher speed and lower cost. The comparison is an assertion, not independently substantiated here.",
+      "url": "https://reddit.com/r/accelerate/comments/1x5996g/you_already_gave_the_llm_the_answer_so_why_is_it",
+      "kind": "opinion",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "reddit",
+      "sourceLabel": "r/accelerate",
+      "author": "u/stealthispost",
+      "publishedAt": "2026-10-13",
+      "addedAt": "2026-10-20",
+      "metric": {
+        "type": "points",
+        "value": 12
+      },
+      "sentiment": "negative",
+      "tags": [
+        "benchmarks",
+        "alternatives",
+        "performance"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mv13j1bhqrc4tz",
+      "title": "MCP server for UI-tree-based computer use",
+      "summary": "Reflex-cu provides computer-use tools for AI agents, using Jev as a fast judge over UI-tree interactions across local macOS and Windows or remote Windows.",
+      "url": "https://github.com/8itlab/reflex-cu",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "8itlab",
+      "author": "8itlab",
+      "publishedAt": "2026-10-09",
+      "addedAt": "2026-10-09",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "computer-use",
+        "mcp"
+      ],
+      "repo": {
+        "slug": "8itlab/reflex-cu"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mujy9pqeo0gkat",
+      "title": "Surface Jev recommendations beside DSH choices",
+      "summary": "A DSH advisor displays Jev’s recommendation, probability spread, and confidence beside multiple-choice options so a person can choose whether to adopt it.",
+      "url": "https://github.com/gordan-code/dsh-jev-advisor",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "gordan-code",
+      "author": "gordan-code",
+      "publishedAt": "2026-09-22",
+      "addedAt": "2026-09-27",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "advisor",
+        "decision support",
+        "integration"
+      ],
+      "repo": {
+        "slug": "gordan-code/dsh-jev-advisor"
+      },
+      "tier": "listed"
     }
   ]
 }
