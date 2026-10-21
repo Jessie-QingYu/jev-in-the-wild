@@ -14000,6 +14000,112 @@
         "pushedAt": "2026-10-18T02:12:17Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_mvi8uhhs0qb9oi",
+      "title": "Claude Code plugin for Jev-powered review and command guardrails",
+      "summary": "A zero-dependency Claude Code plugin uses Jev for request triage, effort selection, command guarding, rule review, and final checks.",
+      "url": "https://github.com/Civalski/claujev",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "Civalski",
+      "author": "Civalski",
+      "publishedAt": "2026-10-20",
+      "addedAt": "2026-10-21",
+      "metric": {
+        "type": "stars",
+        "value": 4
+      },
+      "sentiment": null,
+      "tags": [
+        "claude-code",
+        "guardrails",
+        "coding-agents"
+      ],
+      "repo": {
+        "slug": "Civalski/claujev"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvi8u67v0ovzrx",
+      "title": "Stage browser-based AI gladiator battles",
+      "summary": "Blood & Sand runs browser-based arena fights with Jev and several competing decision models controlling gladiators and beasts; viewers can vote and bet.",
+      "url": "https://reddit.com/r/vibecoding/comments/1x2rfus/i_built_an_gladiator_arena_for_ai_to_fight_jev",
+      "kind": "usecase",
+      "category": "realtime",
+      "categoryName": "Real-time and games",
+      "source": "reddit",
+      "sourceLabel": "r/vibecoding",
+      "author": "u/semibaron",
+      "publishedAt": "2026-10-10",
+      "addedAt": "2026-10-21",
+      "metric": {
+        "type": "points",
+        "value": 42
+      },
+      "sentiment": null,
+      "tags": [
+        "games",
+        "arena",
+        "comparison"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvi8u67wdtznyc",
+      "title": "Check tutorial drafts against their briefs",
+      "summary": "A Laravel application sends a draft and its brief to Jev for a probability-based check; PHP routes the result while an editor retains final approval.",
+      "url": "https://reddit.com/r/laravel/comments/1wpymfd/the_laravel_ai_sdk_can_now_classify_i_built_a",
+      "kind": "usecase",
+      "category": "guardrails",
+      "categoryName": "Guardrails and verification",
+      "source": "reddit",
+      "sourceLabel": "r/laravel",
+      "author": "u/harris_r",
+      "publishedAt": "2026-09-25",
+      "addedAt": "2026-10-21",
+      "metric": {
+        "type": "points",
+        "value": 12
+      },
+      "sentiment": null,
+      "tags": [
+        "laravel",
+        "content-review",
+        "classification"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvi8u67r9ny7mm",
+      "title": "Catalog Jev ecosystem projects with source references",
+      "summary": "A curated directory maps roughly 600 projects across 17 categories and links entries to pinned source locations showing Jev decision usage.",
+      "url": "https://reddit.com/r/BestGitHubRepos/comments/1woeo4l/awesomejevprojects_a_curated_directory_of_600",
+      "kind": "code",
+      "category": "other",
+      "categoryName": "Everything else",
+      "source": "reddit",
+      "sourceLabel": "r/BestGitHubRepos",
+      "author": "u/company_url_finder",
+      "publishedAt": "2026-09-23",
+      "addedAt": "2026-10-21",
+      "metric": {
+        "type": "points",
+        "value": 72
+      },
+      "sentiment": null,
+      "tags": [
+        "directory",
+        "ecosystem",
+        "projects"
+      ],
+      "repo": null,
+      "tier": "listed"
     }
   ]
 }
