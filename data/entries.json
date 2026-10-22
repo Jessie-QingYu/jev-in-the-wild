@@ -14110,6 +14110,194 @@
       ],
       "repo": null,
       "tier": "listed"
+    },
+    {
+      "id": "e_mvgtf0z7738ywc",
+      "title": "Browse photo galleries by Jev image ratings",
+      "summary": "This project uses Jev's image model to rate photos, then publishes a slider-browsable gallery as a static site on Cloudflare.",
+      "url": "https://github.com/JonesSteven/photo-ferret",
+      "kind": "usecase",
+      "category": "other",
+      "categoryName": "Everything else",
+      "source": "github",
+      "sourceLabel": "JonesSteven",
+      "author": "JonesSteven",
+      "publishedAt": "2026-10-20",
+      "addedAt": "2026-10-20",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "image-analysis",
+        "gallery",
+        "cloudflare"
+      ],
+      "repo": {
+        "slug": "JonesSteven/photo-ferret"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvjo9i3cdtk65v",
+      "title": "Release open multimodal decision models competing with Jev",
+      "summary": "Decision 3.0 is an Apache-2.0 family of 0.6B–27B models for text, images and video, with choice, yes/no and scoring outputs. Its authors report leading scores on both Jev Decision Index boards.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x3th4p/decision_30_open_multimodal_decision_models_from",
+      "kind": "code",
+      "category": "imitations",
+      "categoryName": "Open imitations and local models",
+      "source": "reddit",
+      "sourceLabel": "r/LocalLLaMA",
+      "author": "u/henzy123",
+      "publishedAt": "2026-10-12",
+      "addedAt": "2026-10-22",
+      "metric": {
+        "type": "points",
+        "value": 547
+      },
+      "sentiment": null,
+      "tags": [
+        "open-models",
+        "multimodal",
+        "benchmarks"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvjo9i3mzkpose",
+      "title": "Question Jev’s position as giants release open alternatives",
+      "summary": "The author frames Jev’s market position as uncertain as large companies release open-source alternatives, while suggesting TypeSafe could continue differentiating through its RLCD research.",
+      "url": "https://reddit.com/r/ycombinator/comments/1x345j5/what_would_yc_advice_to_typesafe_ai_for_their_jev",
+      "kind": "opinion",
+      "category": "economics",
+      "categoryName": "Speed, pricing and access",
+      "source": "reddit",
+      "sourceLabel": "r/ycombinator",
+      "author": "u/ProposalOrganic1043",
+      "publishedAt": "2026-10-11",
+      "addedAt": "2026-10-22",
+      "metric": {
+        "type": "points",
+        "value": 37
+      },
+      "sentiment": "mixed",
+      "tags": [
+        "competition",
+        "market",
+        "rlcd"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvjo9i3qb5m00d",
+      "title": "Find Jev competitive on claim checks but weak at legal reasoning",
+      "summary": "Vals AI reports Jev matched GPT-6 Astra at 97.5% accuracy on 400 SEC claim checks at far lower cost and latency, but ranked last on its LegalBench slice; its tuned threshold also exceeded the target error rate.",
+      "url": "https://reddit.com/r/accelerate/comments/1x0bfpe/can_a_model_that_doesnt_generate_text_compete",
+      "kind": "opinion",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "reddit",
+      "sourceLabel": "r/accelerate",
+      "author": "u/stealthispost",
+      "publishedAt": "2026-10-07",
+      "addedAt": "2026-10-22",
+      "metric": {
+        "type": "points",
+        "value": 26
+      },
+      "sentiment": "mixed",
+      "tags": [
+        "claim-verification",
+        "legalbench",
+        "cost"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mufy594cep5dux",
+      "title": "Coding-agent plugin for Jev command judgments and safety gates",
+      "summary": "The dsh-plugin-jev adds a Jev question tool and a pre-dispatch shell guard, with a usage meter and block log; the author says 64 questions run in parallel and a command evaluation costs about $0.0002.",
+      "url": "https://reddit.com/r/DeepSeekHarness/comments/1wnxbjh/i_gave_my_ai_coding_agent_a_cheap_second_opinion",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "reddit",
+      "sourceLabel": "r/DeepSeekHarness",
+      "author": "u/cyb3rofficial",
+      "publishedAt": "2026-09-23",
+      "addedAt": "2026-09-24",
+      "metric": {
+        "type": "points",
+        "value": 10
+      },
+      "sentiment": null,
+      "tags": [
+        "coding-agent",
+        "safety",
+        "shell"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muct67k6a4d2a1",
+      "title": "Automate PR review with Jev",
+      "summary": "Jevest adds Jev as a millisecond decision layer around an LLM-based pull-request review pipeline.",
+      "url": "https://github.com/tincke10/Jevest",
+      "kind": "code",
+      "category": "guardrails",
+      "categoryName": "Guardrails and verification",
+      "source": "github",
+      "sourceLabel": "tincke10",
+      "author": "tincke10",
+      "publishedAt": "2026-09-18",
+      "addedAt": "2026-09-22",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "code-review",
+        "pull-requests",
+        "llm"
+      ],
+      "repo": {
+        "slug": "tincke10/Jevest"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvjo9xt3n3tywp",
+      "title": "Independent async and blocking Rust SDK",
+      "summary": "An independent Rust client provides async and blocking access to the TypeSafe AI System One API.",
+      "url": "https://github.com/gilljon/typesafe-ai-rs",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "gilljon",
+      "author": "gilljon",
+      "publishedAt": "2026-09-17",
+      "addedAt": "2026-10-22",
+      "metric": {
+        "type": "stars",
+        "value": 7
+      },
+      "sentiment": null,
+      "tags": [
+        "rust",
+        "sdk",
+        "system-one"
+      ],
+      "repo": {
+        "slug": "gilljon/typesafe-ai-rs"
+      },
+      "tier": "listed"
     }
   ]
 }
