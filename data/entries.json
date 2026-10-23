@@ -14310,6 +14310,263 @@
         "pushedAt": "2026-10-22T01:54:03Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_mvl3pu9k5fdmaz",
+      "title": "Position Jev for fast security operations decisions",
+      "summary": "Argues that Jev fits security workflows requiring software-actionable decisions, rather than generated text. The excerpt frames Jev as useful for fast operational decisions.",
+      "url": "https://prophetsecurity.ai/blog/jev-security-operations",
+      "kind": "opinion",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "web",
+      "sourceLabel": "www.prophetsecurity.ai",
+      "author": null,
+      "publishedAt": null,
+      "addedAt": "2026-10-23",
+      "metric": null,
+      "sentiment": "positive",
+      "tags": [
+        "security",
+        "operations"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvl3pu9huuqd2z",
+      "title": "Summarize the founder’s blueprint for building with Jev",
+      "summary": "A community-made summary of TypeSafe’s founder’s approach to building with Jev. It offers practical building guidance, though the listing gives little detail.",
+      "url": "https://madewithjev.com/builds/founders-blueprint-jev",
+      "kind": "official",
+      "category": "agents",
+      "categoryName": "Agent and workflow logic",
+      "source": "web",
+      "sourceLabel": "madewithjev.com",
+      "author": null,
+      "publishedAt": null,
+      "addedAt": "2026-10-23",
+      "metric": null,
+      "sentiment": null,
+      "tags": [
+        "building",
+        "guidance"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvl3p0g58oexm2",
+      "title": "Question Jev’s creator on its claims and limitations",
+      "summary": "The TWIML AI Podcast interviews Jev’s creator with a focus on difficult questions. The title alone does not establish specific conclusions beyond scrutiny of the model.",
+      "url": "https://youtube.com/watch?v=9Aato-NfjoU&t=4588s",
+      "kind": "opinion",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "youtube",
+      "sourceLabel": "The TWIML AI Podcast with Sam Charrington",
+      "author": "The TWIML AI Podcast with Sam Charrington",
+      "publishedAt": "2026-10-09",
+      "addedAt": "2026-10-23",
+      "metric": {
+        "type": "views",
+        "value": 10250
+      },
+      "sentiment": "mixed",
+      "tags": [
+        "interview",
+        "model"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvl3oo6bbkkod4",
+      "title": "Set Claude Code effort with Jev",
+      "summary": "Effortless is a Claude Code desktop mod that can use Jev to select reasoning effort per prompt, switch simple prompts to Haiku, warn about cache state, and offer handoffs.",
+      "url": "https://reddit.com/r/ClaudeCode/comments/1x19b2c/i_built_a_claude_code_mod_on_haiku_55_or_jev_that",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "reddit",
+      "sourceLabel": "r/ClaudeCode",
+      "author": "u/Intelligent-Crew-576",
+      "publishedAt": "2026-10-09",
+      "addedAt": "2026-10-23",
+      "metric": {
+        "type": "points",
+        "value": 136
+      },
+      "sentiment": null,
+      "tags": [
+        "claude-code",
+        "effort",
+        "mod"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvl3oo6dqfk2qa",
+      "title": "Jev is better calibrated but costly on short inputs",
+      "summary": "A side-by-side test against Kev 4B found similar accuracy and better Jev calibration and paraphrase detection, but Jev’s fixed input-token overhead can make short requests up to 12× more expensive.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wq2hfc/jev_vs_kev_opensource_jev_alternative_tested_side",
+      "kind": "opinion",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "reddit",
+      "sourceLabel": "r/LocalLLaMA",
+      "author": "u/facethef",
+      "publishedAt": "2026-09-25",
+      "addedAt": "2026-10-23",
+      "metric": {
+        "type": "points",
+        "value": 130
+      },
+      "sentiment": "mixed",
+      "tags": [
+        "kev",
+        "calibration",
+        "cost"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvl3p96bmj0rzx",
+      "title": "Serve open decision models through a Jev-compatible API",
+      "summary": "Ollaya pulls and serves 24 open decision-model families through a locally hosted, Jev-compatible /v1/systemone API. It also includes a CLI, daemon, desktop app, Docker, MCP server, and benchmarks.",
+      "url": "https://github.com/ollaya-dev/ollaya",
+      "kind": "code",
+      "category": "imitations",
+      "categoryName": "Open imitations and local models",
+      "source": "github",
+      "sourceLabel": "ollaya-dev",
+      "author": "ollaya-dev",
+      "publishedAt": "2026-09-23",
+      "addedAt": "2026-10-23",
+      "metric": {
+        "type": "stars",
+        "value": 1384
+      },
+      "sentiment": null,
+      "tags": [
+        "local-models",
+        "api",
+        "mcp"
+      ],
+      "repo": {
+        "slug": "ollaya-dev/ollaya"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvl3oo6f4mfcts",
+      "title": "Jev’s packaging is valuable, though its core idea is established",
+      "summary": "The author argues that Jev’s typed-decision interface resembles established calibrated classifiers, while crediting TypeSafe’s API and packaging; they also note calibration drawbacks in the open-source Laya clone.",
+      "url": "https://reddit.com/r/LLMDevs/comments/1wncmkp/jev_raised_40m_and_spent_2_years_in_stealth_and",
+      "kind": "opinion",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "reddit",
+      "sourceLabel": "r/LLMDevs",
+      "author": "u/Nickabot",
+      "publishedAt": "2026-09-22",
+      "addedAt": "2026-10-23",
+      "metric": {
+        "type": "points",
+        "value": 28
+      },
+      "sentiment": "mixed",
+      "tags": [
+        "system-one",
+        "api",
+        "open-source"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvl3p96dkckx8t",
+      "title": "Provide a Swift SDK for TypeSafe AI",
+      "summary": "A GitHub repository titled TypeSafe describes a Swift SDK for the TypeSafe platform; no further capabilities are listed.",
+      "url": "https://github.com/krzyzanowskim/TypeSafe",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "krzyzanowskim",
+      "author": "krzyzanowskim",
+      "publishedAt": "2026-09-19",
+      "addedAt": "2026-10-23",
+      "metric": {
+        "type": "stars",
+        "value": 27
+      },
+      "sentiment": null,
+      "tags": [
+        "swift",
+        "sdk"
+      ],
+      "repo": {
+        "slug": "krzyzanowskim/TypeSafe"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvl3oo6awimiha",
+      "title": "Expose Jev decisions as PostgreSQL functions",
+      "summary": "This pre-alpha MIT extension exposes Choice, Noul, and Score directly through SQL, with Docker, tests, and an NYC 311 batching example.",
+      "url": "https://github.com/giuliosmall/pg_typesafe",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "giuliosmall/pg_typesafe",
+      "author": "giuliosmall",
+      "publishedAt": "2026-09-17",
+      "addedAt": "2026-10-23",
+      "metric": {
+        "type": "stars",
+        "value": 84
+      },
+      "sentiment": null,
+      "tags": [
+        "postgresql",
+        "sql",
+        "extension"
+      ],
+      "repo": {
+        "slug": "giuliosmall/pg_typesafe"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvl3p96fjzonj6",
+      "title": "Audit Jev claims with live demos and runnable code",
+      "summary": "An exploratory GitHub thread presents a Jev claim audit alongside live demos and runnable code; the listing does not reveal its conclusions.",
+      "url": "https://github.com/SamuelSacco/jev-exploration",
+      "kind": "opinion",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "github",
+      "sourceLabel": "SamuelSacco",
+      "author": "SamuelSacco",
+      "publishedAt": "2026-09-17",
+      "addedAt": "2026-10-23",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": "mixed",
+      "tags": [
+        "claim-audit",
+        "demos"
+      ],
+      "repo": {
+        "slug": "SamuelSacco/jev-exploration"
+      },
+      "tier": "listed"
     }
   ]
 }
