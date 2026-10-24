@@ -14583,6 +14583,132 @@
         "pushedAt": "2026-10-23T03:15:09Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_mvmj7a2gtgsqfa",
+      "title": "Categorize bank statement transactions and map PDF columns",
+      "summary": "A personal finance app uses Jev to map varying bank PDF column names and image-based headers to standard transaction fields, and to categorize transactions. The post also discusses privacy and local-model tradeoffs.",
+      "url": "https://reddit.com/r/JevAI/comments/1xal42i/building_with_jev_handling_different_bank_pdf",
+      "kind": "usecase",
+      "category": "extraction",
+      "categoryName": "Extraction and scoring",
+      "source": "reddit",
+      "sourceLabel": "r/JevAI",
+      "author": "u/arindammondal",
+      "publishedAt": "2026-10-20",
+      "addedAt": "2026-10-24",
+      "metric": {
+        "type": "points",
+        "value": 15
+      },
+      "sentiment": null,
+      "tags": [
+        "pdf",
+        "finance",
+        "classification"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvmj71w175thjc",
+      "title": "Bring Jev 1.14 to Vercel AI Gateway",
+      "summary": "Vercel AI Gateway now offers Jev 1.14 with AI SDK examples for image decisions and long-context support-log checks, plus budgets, logging and data-policy controls.",
+      "url": "https://vercel.com/changelog/typesafe-ais-jev-1-14-is-now-available-on-ai-gateway",
+      "kind": "official",
+      "category": "economics",
+      "categoryName": "Speed, pricing and access",
+      "source": "web",
+      "sourceLabel": "Vercel Changelog",
+      "author": "Nick Oates, Jerilyn Zheng, Rohan Taneja and Zachary Chen",
+      "publishedAt": "2026-10-15",
+      "addedAt": "2026-10-24",
+      "metric": null,
+      "sentiment": null,
+      "tags": [
+        "gateway",
+        "ai-sdk",
+        "jev-1.14"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvmj71w3urjohg",
+      "title": "Jev remains vulnerable to prompt injection",
+      "summary": "HiddenLayer reports that a malicious ad redirected a Jev browser agent and spelling changes lowered toxicity scores, highlighting prompt-injection and robustness risks.",
+      "url": "https://hiddenlayer.com/research/system-one-model-security",
+      "kind": "opinion",
+      "category": "guardrails",
+      "categoryName": "Guardrails and verification",
+      "source": "web",
+      "sourceLabel": "HiddenLayer Research",
+      "author": "Kenneth Yeung and Kasimir Schulz",
+      "publishedAt": "2026-10-14",
+      "addedAt": "2026-10-24",
+      "metric": null,
+      "sentiment": "negative",
+      "tags": [
+        "security",
+        "prompt-injection",
+        "robustness"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvmj71w55yuo7g",
+      "title": "Classify Pi agent commands with Jev or local models",
+      "summary": "The Pi plugin applies built-in command rules first, then uses Jev or local Kev/Laya to estimate risk for unknown commands and prompts for confirmation above a threshold.",
+      "url": "https://reddit.com/r/PiCodingAgent/comments/1x0pm0g/piautomodeclassifier_an_auto_mode_plugin_for_pi",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "reddit",
+      "sourceLabel": "r/PiCodingAgent",
+      "author": "u/deepu105",
+      "publishedAt": "2026-10-08",
+      "addedAt": "2026-10-24",
+      "metric": {
+        "type": "points",
+        "value": 22
+      },
+      "sentiment": null,
+      "tags": [
+        "pi",
+        "coding-agent",
+        "command-safety"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muct53c0vye1fu",
+      "title": "Fill Japanese PDF forms with Jev",
+      "summary": "A browser app fills Japanese government PDF forms using Jev for labels while keeping user values local; it also supports OCR.",
+      "url": "https://github.com/takumi-golf/jev-fill-pdf",
+      "kind": "usecase",
+      "category": "other",
+      "categoryName": "Everything else",
+      "source": "github",
+      "sourceLabel": "takumi-golf",
+      "author": "takumi-golf",
+      "publishedAt": "2026-09-22",
+      "addedAt": "2026-09-22",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "pdf",
+        "ocr",
+        "forms"
+      ],
+      "repo": {
+        "slug": "takumi-golf/jev-fill-pdf"
+      },
+      "tier": "listed"
     }
   ]
 }
