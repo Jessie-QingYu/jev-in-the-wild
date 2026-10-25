@@ -14713,6 +14713,84 @@
         "pushedAt": "2026-09-22T15:24:24Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_mvnyj39kkupbti",
+      "title": "Release Lev, an open-weight System One model",
+      "summary": "Interfaze AI announces Lev, a Qwen-based 4B open model positioned as an open-source Jev alternative. The post links to its model and GitHub repository.",
+      "url": "https://reddit.com/r/accelerate/comments/1wrrh2x/damn_that_was_fast_jev_now_open_source_lev_a_4b",
+      "kind": "code",
+      "category": "imitations",
+      "categoryName": "Open imitations and local models",
+      "source": "reddit",
+      "sourceLabel": "r/accelerate",
+      "author": "u/stealthispost",
+      "publishedAt": "2026-09-27",
+      "addedAt": "2026-10-25",
+      "metric": {
+        "type": "points",
+        "value": 45
+      },
+      "sentiment": null,
+      "tags": [
+        "open-weights",
+        "local-model",
+        "alternative"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvnyj39h9nqqil",
+      "title": "Build a coding-agent plugin for Jev best practices",
+      "summary": "An unofficial plugin provides Jev guidance, API references, and examples for community projects. Its author reports higher eval scores than using no plugin or TypeSafe’s official plugin.",
+      "url": "https://reddit.com/r/claudeskills/comments/1wr8qdk/unofficial_jev_plugin_for_coding_agents_best",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "reddit",
+      "sourceLabel": "r/claudeskills",
+      "author": "u/aaddrick",
+      "publishedAt": "2026-09-27",
+      "addedAt": "2026-10-25",
+      "metric": {
+        "type": "points",
+        "value": 160
+      },
+      "sentiment": null,
+      "tags": [
+        "coding-agents",
+        "plugin",
+        "evals"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvnyj39meiaje6",
+      "title": "Replace repeated agent tool calls with Jev-driven graph nodes",
+      "summary": "Jive is an open-source agent harness that combines bash and Jev nodes in dependency graphs, using Jev to execute planned steps without repeated LLM calls.",
+      "url": "https://reddit.com/r/LLMDevs/comments/1wp8ugp/jive_rethinking_the_agentic_loop_with_system_one",
+      "kind": "code",
+      "category": "agents",
+      "categoryName": "Agent and workflow logic",
+      "source": "reddit",
+      "sourceLabel": "r/LLMDevs",
+      "author": "u/merijjeyn",
+      "publishedAt": "2026-09-24",
+      "addedAt": "2026-10-25",
+      "metric": {
+        "type": "points",
+        "value": 27
+      },
+      "sentiment": null,
+      "tags": [
+        "agent-harness",
+        "workflow",
+        "graphs"
+      ],
+      "repo": null,
+      "tier": "listed"
     }
   ]
 }
