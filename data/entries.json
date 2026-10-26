@@ -14791,6 +14791,88 @@
       ],
       "repo": null,
       "tier": "listed"
+    },
+    {
+      "id": "e_mvnyjbmwfru44i",
+      "title": "Check brand names with Jev",
+      "summary": "A free brand-name checker uses Jev probabilities with prewritten report text to avoid generated claims. The author benchmarks it against 563 names and offers an MCP interface.",
+      "url": "https://reddit.com/r/vibecoding/comments/1xequs5/built_a_brand_name_checker_thats_working_mainly",
+      "kind": "usecase",
+      "category": "extraction",
+      "categoryName": "Extraction and scoring",
+      "source": "reddit",
+      "sourceLabel": "r/vibecoding",
+      "author": "u/TheBanq",
+      "publishedAt": "2026-10-25",
+      "addedAt": "2026-10-25",
+      "metric": {
+        "type": "points",
+        "value": 10
+      },
+      "sentiment": null,
+      "tags": [
+        "branding",
+        "mcp",
+        "benchmark"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvpe0ca1x50kuj",
+      "title": "Triage Thunderbird mail with Jev",
+      "summary": "JevIt is an unofficial Thunderbird add-on for AI-assisted mail triage using TypeSafe’s Jev model.",
+      "url": "https://github.com/Xvectorio/jevit",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "Xvectorio",
+      "author": "Xvectorio",
+      "publishedAt": "2026-09-27",
+      "addedAt": "2026-10-26",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "email",
+        "thunderbird",
+        "triage"
+      ],
+      "repo": {
+        "slug": "Xvectorio/jevit"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvpe0c9zhzwcpt",
+      "title": "Benchmark Jev against encoder and fine-tuned models",
+      "summary": "The Chinese Agentic RL tutorial includes a reproducible comparison of discriminative models, LLM-LoRA, and rules, alongside a chapter discussing Jev/System One’s capability boundaries.",
+      "url": "https://github.com/cookiespiggy/agentic-rl",
+      "kind": "code",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "github",
+      "sourceLabel": "cookiespiggy",
+      "author": "cookiespiggy",
+      "publishedAt": "2026-06-03",
+      "addedAt": "2026-10-26",
+      "metric": {
+        "type": "stars",
+        "value": 136
+      },
+      "sentiment": null,
+      "tags": [
+        "benchmark",
+        "rl",
+        "models"
+      ],
+      "repo": {
+        "slug": "cookiespiggy/agentic-rl"
+      },
+      "tier": "listed"
     }
   ]
 }
