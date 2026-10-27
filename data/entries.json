@@ -14881,6 +14881,136 @@
         "pushedAt": "2026-10-26T13:14:06Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_mvqtfxcjt8cr8s",
+      "title": "Open model refines object-detection boxes through verification",
+      "summary": "LOCUS pairs a fast regression-head box draft with iterative token verification, presenting itself as an open alternative to Jev’s closed Box question type. It reports higher Acc@0.9 and faster decoding than its cited baselines.",
+      "url": "https://reddit.com/r/computervision/comments/1xglj1i/i_made_an_opensource_jev_for_object_detection",
+      "kind": "code",
+      "category": "imitations",
+      "categoryName": "Open imitations and local models",
+      "source": "reddit",
+      "sourceLabel": "r/computervision",
+      "author": "u/LimitlessSaint",
+      "publishedAt": "2026-10-27",
+      "addedAt": "2026-10-27",
+      "metric": {
+        "type": "points",
+        "value": 100
+      },
+      "sentiment": null,
+      "tags": [
+        "object-detection",
+        "open-models",
+        "verification"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvqtfxclgggesr",
+      "title": "Elephant-1 ties a leading decision index score at lower cost",
+      "summary": "The post reports elephant-1 tied d1-ultra on Artificial Analysis’s Decision Index at about one quarter of its cost, and scores 62.65 on Jev Decision Index 0.4. It highlights strong abstention-related results alongside low omniscience accuracy.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xdirky/baseten_releases_elephant1_9b_mit_qwen359b_base_a",
+      "kind": "opinion",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "reddit",
+      "sourceLabel": "r/LocalLLaMA",
+      "author": "u/Balance-",
+      "publishedAt": "2026-10-23",
+      "addedAt": "2026-10-27",
+      "metric": {
+        "type": "points",
+        "value": 27
+      },
+      "sentiment": "positive",
+      "tags": [
+        "open-models",
+        "decision-index",
+        "cost"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvqtfxcm6ittrs",
+      "title": "Aplomb 1 leads small models on Jev’s Decision Index",
+      "summary": "The release post reports Aplomb 1 ranked first among 4B models on Decision Index 0.2.1 and scored 75% average zero-shot intent accuracy across 51 languages on MASSIVE, alongside multimodal and long-context capabilities.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wz96qs/aplomb_1_openweights_53b_decision_model_1m",
+      "kind": "opinion",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "reddit",
+      "sourceLabel": "r/LocalLLaMA",
+      "author": "u/empiriolabsai",
+      "publishedAt": "2026-10-06",
+      "addedAt": "2026-10-27",
+      "metric": {
+        "type": "points",
+        "value": 22
+      },
+      "sentiment": "positive",
+      "tags": [
+        "open-models",
+        "decision-index",
+        "multimodal"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvqtfxcha87uuh",
+      "title": "Cloudflare’s Clef models challenge Jev’s decision-model niche",
+      "summary": "The post presents Clef and Clef-flash as direct Jev competitors, highlighting their multiple-choice probabilities, multimodal support and reported latency.",
+      "url": "https://reddit.com/r/Futurology/comments/1wwgk02/cloudflare_says_its_new_clef_model_means_humans",
+      "kind": "opinion",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "reddit",
+      "sourceLabel": "r/Futurology",
+      "author": "u/Gari_305",
+      "publishedAt": "2026-10-03",
+      "addedAt": "2026-10-27",
+      "metric": {
+        "type": "points",
+        "value": 412
+      },
+      "sentiment": "mixed",
+      "tags": [
+        "competitors",
+        "latency",
+        "decision-models"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muiiseqo5ky41u",
+      "title": "Route LLM requests with Jev; benchmark against fixed baselines",
+      "summary": "Gateway benchmark of Jev-based LLM routing: achieved 33.2% cost savings vs premium model but fixed mid-tier baseline proved more cost-effective overall.",
+      "url": "https://reddit.com/r/AI_Agents/comments/1wqpq4a/jevbased_model_routing_saved_332_vs_premium_in",
+      "kind": "usecase",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "reddit",
+      "sourceLabel": "r/AI_Agents",
+      "author": "u/smakosh",
+      "publishedAt": "2026-09-26",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "points",
+        "value": 10
+      },
+      "sentiment": null,
+      "tags": [
+        "routing",
+        "benchmarks",
+        "cost"
+      ],
+      "repo": null,
+      "tier": "listed"
     }
   ]
 }
