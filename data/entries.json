@@ -15011,6 +15011,83 @@
       ],
       "repo": null,
       "tier": "listed"
+    },
+    {
+      "id": "e_mvs8wceovk1oe1",
+      "title": "Describe Jeva’s first-principles System One design",
+      "summary": "The arXiv paper presents Jeva, a System One model developed from first principles, as an alternative to serialized-answer prediction. It is directly about Jev-style decision models.",
+      "url": "https://arxiv.org/abs/2610.18773",
+      "kind": "official",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "web",
+      "sourceLabel": "arxiv.org",
+      "author": null,
+      "publishedAt": null,
+      "addedAt": "2026-10-28",
+      "metric": null,
+      "sentiment": null,
+      "tags": [
+        "system-one",
+        "research",
+        "open-model"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvs8vf1892t1kk",
+      "title": "Simulate a village with six AI characters",
+      "summary": "Jevs Village uses Jev for decisions in a persistent browser-based simulation of six AI characters, exploring how choices shape their personalities over time.",
+      "url": "https://reddit.com/r/TopologyAI/comments/1x3iujc/i_built_a_small_village_with_six_ai_characters",
+      "kind": "usecase",
+      "category": "agents",
+      "categoryName": "Agent and workflow logic",
+      "source": "reddit",
+      "sourceLabel": "r/TopologyAI",
+      "author": "u/Zazzen",
+      "publishedAt": "2026-10-11",
+      "addedAt": "2026-10-28",
+      "metric": {
+        "type": "points",
+        "value": 10
+      },
+      "sentiment": null,
+      "tags": [
+        "simulation",
+        "characters",
+        "games"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvs8w0p0qpukee",
+      "title": "Command-line Jev client for shell, CI, and agents",
+      "summary": "CLI wraps Jev yes/no, multiple-choice, and rubric questions, returning calibrated probabilities as shell exit codes, JSON, or MCP tools.",
+      "url": "https://github.com/shaharia-lab/jev-cli",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "shaharia-lab",
+      "author": "shaharia-lab",
+      "publishedAt": "2026-09-19",
+      "addedAt": "2026-10-28",
+      "metric": {
+        "type": "stars",
+        "value": 40
+      },
+      "sentiment": null,
+      "tags": [
+        "cli",
+        "mcp",
+        "ci"
+      ],
+      "repo": {
+        "slug": "shaharia-lab/jev-cli"
+      },
+      "tier": "listed"
     }
   ]
 }
