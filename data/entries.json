@@ -15092,6 +15092,34 @@
         "pushedAt": "2026-10-29T08:08:17Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_mvfdzdnycx8flz",
+      "title": "Match job posts to fictional candidates",
+      "summary": "Scores 400 job posts against 30 fictional candidates in 12,000 decisions, reporting 3m17s runtime, $0.17 cost, and errors against an answer key.",
+      "url": "https://github.com/kaucap08/jev-job-matching",
+      "kind": "usecase",
+      "category": "extraction",
+      "categoryName": "Extraction and scoring",
+      "source": "github",
+      "sourceLabel": "kaucap08",
+      "author": "kaucap08",
+      "publishedAt": "2026-10-19",
+      "addedAt": "2026-10-19",
+      "metric": {
+        "type": "stars",
+        "value": 7
+      },
+      "sentiment": null,
+      "tags": [
+        "job-matching",
+        "scoring",
+        "cost"
+      ],
+      "repo": {
+        "slug": "kaucap08/jev-job-matching"
+      },
+      "tier": "listed"
     }
   ]
 }

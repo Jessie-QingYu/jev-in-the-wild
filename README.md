@@ -2,11 +2,11 @@
 
 **Real-world use cases, open-source projects, benchmarks and criticism of [Jev](https://typesafe.ai), TypeSafe AI's System One model — what people actually build with it, and where it actually fails.**
 
-![entries](https://img.shields.io/badge/entries-485-2f81f7) ![open source](https://img.shields.io/badge/open%20source%20projects-277-2f81f7) ![updated](https://img.shields.io/badge/updated-2026--10--29-2f81f7) ![data license](https://img.shields.io/badge/data-CC0--1.0-2f81f7)
+![entries](https://img.shields.io/badge/entries-486-2f81f7) ![open source](https://img.shields.io/badge/open%20source%20projects-278-2f81f7) ![updated](https://img.shields.io/badge/updated-2026--10--29-2f81f7) ![data license](https://img.shields.io/badge/data-CC0--1.0-2f81f7)
 
 Three things make this different from the other Jev lists:
 
-1. **It is not only GitHub.** 245 of the 485 entries are Reddit threads, Hacker News posts, YouTube evaluations and blog write-ups — where most of the first-hand reporting actually happens.
+1. **It is not only GitHub.** 245 of the 486 entries are Reddit threads, Hacker News posts, YouTube evaluations and blog write-ups — where most of the first-hand reporting actually happens.
 2. **It includes the criticism.** An awesome list is promotional by construction. This one has a [section for what does not work](#where-jev-struggles), and negative results are welcome in every other section too.
 3. **It is data, not prose.** [`data/entries.json`](data/entries.json) is the source of truth and this README is generated from it. Fork the data, build something better, no scraping required.
 
@@ -44,12 +44,12 @@ Three things make this different from the other Jev lists:
 
 | | |
 | --- | --- |
-| Entries | **485** listed, 37 unproven |
-| Open-source projects | 277 |
-| Reported use cases | 70 |
+| Entries | **486** listed, 37 unproven |
+| Open-source projects | 278 |
+| Reported use cases | 71 |
 | Analysis and criticism | 106 |
 | Official from TypeSafe AI | 48 |
-| Where the entries come from | GitHub 262, Reddit 128, YouTube 39, Hacker News 25, blogs and web 68 |
+| Where the entries come from | GitHub 263, Reddit 128, YouTube 39, Hacker News 25, blogs and web 68 |
 | Languages of the code | Python 86, TypeScript 55, JavaScript 32, Rust 19, HTML 13, Go 12 |
 | Categories | 12 |
 | Last refreshed | 2026-10-29 |
@@ -234,21 +234,22 @@ Every other Jev list is a highlight reel. These are the entries that report a li
 
 ### Extraction and scoring
 
-*Pulling typed features out of text, scoring on rubrics, labelling data at scale.* — 23 entries
+*Pulling typed features out of text, scoring on rubrics, labelling data at scale.* — 24 entries
 
 | What | What it does | Kind | Signal | Date |
 | --- | --- | --- | --- | --- |
 | [Score code quality with Jev](https://github.com/supercorp-ai/supercov/blob/main/docs/getting-started.md) | Supercov documents an optional Jev-backed code-quality scoring path alongside its local test-coverage workflow. | code | ★ 157 | 2026-09-23 |
 | [Analyze roleplay tone and story state with Jev sensors](https://reddit.com/r/SillyTavernAI/comments/1wl7uje/jev_might_be_the_next_frontier_for_improving) | A SillyTavern extension sends recent responses to batched Jev questions about plot change, character outcomes, and alignment with the system prompt. | use case | ▲ 320 | 2026-09-20 |
-| [Grade web page sections for SEO and clarity](https://github.com/kitze/pagegrade) | The WXT-based Pagegrade project uses Jev to evaluate page sections for clarity, writing quality, and on-page SEO. | use case | ★ 7 | 2026-09-17 |
 | [Score project ideas with parallel typed evaluations](https://reddit.com/r/SideProject/comments/1wiw6tk/i_built_a_side_project_to_test_typesafes_jev) | An open-source app asks about ten Choice and scoring questions in parallel, then returns a numerical project-viability score instead of generating text. | use case | ▲ 244 | 2026-09-17 |
+| [Match job posts to fictional candidates](https://github.com/kaucap08/jev-job-matching) | Scores 400 job posts against 30 fictional candidates in 12,000 decisions, reporting 3m17s runtime, $0.17 cost, and errors against an answer key. | use case | ★ 7 | 2026-10-19 |
+| [Grade web page sections for SEO and clarity](https://github.com/kitze/pagegrade) | The WXT-based Pagegrade project uses Jev to evaluate page sections for clarity, writing quality, and on-page SEO. | use case | ★ 7 | 2026-09-17 |
 | [Categorize bank statement transactions and map PDF columns](https://reddit.com/r/JevAI/comments/1xal42i/building_with_jev_handling_different_bank_pdf) | A personal finance app uses Jev to map varying bank PDF column names and image-based headers to standard transaction fields, and to categorize transactions. The post also discusses privacy and local-model tradeoffs. | use case | ▲ 15 | 2026-10-20 |
 | [Check brand names with Jev](https://reddit.com/r/vibecoding/comments/1xequs5/built_a_brand_name_checker_thats_working_mainly) | A free brand-name checker uses Jev probabilities with prewritten report text to avoid generated claims. The author benchmarks it against 563 names and offers an MCP interface. | use case | ▲ 10 | 2026-10-25 |
 | [Jev-powered semantic grep for code questions](https://github.com/fajarhide/askgrep) | askgrep searches code by questions that cannot be expressed as a text pattern and reads every function rather than sampling a subset. | code | ★ 4 | 2026-09-21 |
+| [Run Jev classification inside ClickHouse](https://reddit.com/r/Clickhouse/comments/1wm53m0/llm_as_a_judge_inside_clickhouse_native_cloud_jev) | Uses Jev as a classification judge from ClickHouse Cloud through a network-capable UDF, documenting a database-native integration. | use case | ▲ 6 | 2026-09-21 |
 | [Terminal discography classifier using Jev](https://github.com/lirantal/discoprint) | A terminal dashboard classifies an artist's discography by theme, mood and lyrical complexity using Jev, then presents the results visually. | code | ★ 4 | 2026-09-20 |
 | [Rerank and compress JSON results with Jev](https://github.com/shinpr/jev-reranker) | A repository using Jev to rerank, filter, and compress JSON search results. | code | ★ 4 | 2026-09-20 |
 | [Grade financial decision use cases against known data](https://github.com/IslamBaraka90/jev-typesafe-real-financial-use-cases) | Presents 50 financial scenarios spanning ledgers, fraud, portfolios, trades, and filings, with Jev’s typed answers graded against known correct data. | use case | ★ 4 | 2026-09-19 |
-| [Run Jev classification inside ClickHouse](https://reddit.com/r/Clickhouse/comments/1wm53m0/llm_as_a_judge_inside_clickhouse_native_cloud_jev) | Uses Jev as a classification judge from ClickHouse Cloud through a network-capable UDF, documenting a database-native integration. | use case | ▲ 6 | 2026-09-21 |
 | [Built a market-analysis desk with 215 typed judgments per pass](https://reddit.com/r/ClaudeCode/comments/1wjgk0q/built_a_live_marketanalysis_desk_in_claude_code) | A Claude Code market-analysis pipeline evaluates news and tickers with 35 requests and 215 questions in 2.7 seconds for $0.0026, using typed probabilities and scores for routing. | use case | ▲ 4 | 2026-09-18 |
 | [Automatically File Gmail Messages with Jev](https://github.com/petrzpav/omarchy-mail) | petrzpav/omarchy-mail terminal Gmail client uses Jev to automatically categorize inbox into labels and verify outgoing replies. | use case | ★ 3 | 2026-09-29 |
 | [jevsume: resume reviewer and scorer with Jev](https://github.com/unownone/jevsume) | ATS-friendly resume tool that extracts text like a parser, then runs Jev Score questions via Cloudflare Worker to compose a JevScore and feedback. | code | ★ 3 | 2026-09-17 |
@@ -829,7 +830,7 @@ Every other Jev list is a highlight reel. These are the entries that report a li
 
 **What stays out.** Reposted news, "what is Jev" explainers with nothing behind them, reaction videos, and anything whose only claim is that Jev exists. A repository with no stars is not rejected — it goes to [New and unproven](#new-and-unproven).
 
-**The site and this list are not the same set.** The [live tracker](https://jessie.romeos.cc/full/apps/jev-tracker) shows every candidate the scan has found — currently more than the 485 listed here — because it is the raw feed. This list is the filtered one: after the first import, a new entry has to clear a bar before it is added (3+ GitHub stars, 10+ forum points, 1000+ video views; TypeSafe AI's own releases always, and an article on a formed judgment). So the site answers "what is out there", and this list answers "what has anyone else noticed".
+**The site and this list are not the same set.** The [live tracker](https://jessie.romeos.cc/full/apps/jev-tracker) shows every candidate the scan has found — currently more than the 486 listed here — because it is the raw feed. This list is the filtered one: after the first import, a new entry has to clear a bar before it is added (3+ GitHub stars, 10+ forum points, 1000+ video views; TypeSafe AI's own releases always, and an article on a formed judgment). So the site answers "what is out there", and this list answers "what has anyone else noticed".
 
 **What is automated and what is not.** The long tables are maintained automatically: numbers are re-read from the GitHub API daily, and the README is regenerated from the data. [Ten worth opening first](#ten-worth-opening-first) is chosen by hand, the reasons are written by hand, and every incoming pull request is reviewed by a person. Nothing merges itself.
 
