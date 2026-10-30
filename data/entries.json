@@ -15124,6 +15124,478 @@
         "pushedAt": "2026-10-19T11:10:27Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_mvv3rtuyqlpkam",
+      "title": "Infer Jev's model and training approach from experiments",
+      "summary": "Oumi researchers hypothesize Jev is based on a Qwen 3.5/3.6-class model and likely uses soft-label cross-entropy on synthetic data; these are explicitly presented as informed guesses, not insider facts.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xguv3i/how_to_build_a_decision_model_like_jev",
+      "kind": "opinion",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "reddit",
+      "sourceLabel": "r/LocalLLaMA",
+      "author": "u/Taenin",
+      "publishedAt": "2026-10-27",
+      "addedAt": "2026-10-30",
+      "metric": {
+        "type": "points",
+        "value": 26
+      },
+      "sentiment": "mixed",
+      "tags": [
+        "oumi",
+        "model-analysis",
+        "training"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvv3rjj7wxd651",
+      "title": "LOCUS verifies open-model object-detection boxes",
+      "summary": "LOCUS combines a fast regression-head draft with parallel token verification to refine bounding boxes, reporting higher accuracy and faster decoding than comparable approaches.",
+      "url": "https://reddit.com/r/LocalLLM/comments/1xgm3dr/i_made_an_opensource_jev_for_object_detection",
+      "kind": "code",
+      "category": "imitations",
+      "categoryName": "Open imitations and local models",
+      "source": "reddit",
+      "sourceLabel": "r/LocalLLM",
+      "author": "u/LimitlessSaint",
+      "publishedAt": "2026-10-27",
+      "addedAt": "2026-10-30",
+      "metric": {
+        "type": "points",
+        "value": 103
+      },
+      "sentiment": null,
+      "tags": [
+        "object-detection",
+        "verification",
+        "open-model"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvv3rtv04btb3e",
+      "title": "Direct strategic NPC decisions in a war game",
+      "summary": "A developer integrated Jev into a turn-based strategy game's NPCs, using it to prioritize planning, attacks, and defense while conventional game logic executes orders; the author says its current performance trails their meta bot.",
+      "url": "https://reddit.com/r/aigamedev/comments/1xdisv8/experimenting_with_jev_system_one_ai_as_an_npc",
+      "kind": "usecase",
+      "category": "realtime",
+      "categoryName": "Real-time and games",
+      "source": "reddit",
+      "sourceLabel": "r/aigamedev",
+      "author": "u/Tom_Baron",
+      "publishedAt": "2026-10-23",
+      "addedAt": "2026-10-30",
+      "metric": {
+        "type": "points",
+        "value": 21
+      },
+      "sentiment": null,
+      "tags": [
+        "games",
+        "npc",
+        "strategy"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvv3t1n7atyi7x",
+      "title": "TypeSafe Jev API reportedly offers $5 monthly credit",
+      "summary": "A Reddit post reports a $5 monthly API credit without requiring a payment card; the snippet does not provide further details.",
+      "url": "https://reddit.com/r/TypeSafeAgents/comments/1xd5op3/typesafes_jev_api_gives_5_monthly_credit_with_no",
+      "kind": "official",
+      "category": "economics",
+      "categoryName": "Speed, pricing and access",
+      "source": "reddit",
+      "sourceLabel": "r/TypeSafeAgents",
+      "author": "u/naglaronaasarnagquit",
+      "publishedAt": "2026-10-23",
+      "addedAt": "2026-10-30",
+      "metric": {
+        "type": "points",
+        "value": 1
+      },
+      "sentiment": null,
+      "tags": [
+        "pricing",
+        "access"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvv3rtuvcqjytz",
+      "title": "Jev nearly matches top rerankers on company-knowledge queries",
+      "summary": "In 1,000 real-world company-knowledge cases, Jev beat the tested Cohere and Qwen models and came within 0.003 of the leading score, but Voyage rerank-3 was still best, cheapest, and fastest.",
+      "url": "https://reddit.com/r/LLMDevs/comments/1xattho/we_tested_jev_as_a_reranker_against_voyage_cohere",
+      "kind": "opinion",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "reddit",
+      "sourceLabel": "r/LLMDevs",
+      "author": "u/srnsnemil",
+      "publishedAt": "2026-10-20",
+      "addedAt": "2026-10-30",
+      "metric": {
+        "type": "points",
+        "value": 46
+      },
+      "sentiment": "mixed",
+      "tags": [
+        "reranking",
+        "retrieval",
+        "benchmark"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvv3rjj8v60xv4",
+      "title": "Adaptive Thinking gates extra LLM reasoning",
+      "summary": "The open-source project uses a Jev-like gate to trigger additional reasoning when token-level entropy indicates uncertainty, and to select among parallel thought paths.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xa9ffa/jev_based_adaptive_thinking_for_llms",
+      "kind": "code",
+      "category": "agents",
+      "categoryName": "Agent and workflow logic",
+      "source": "reddit",
+      "sourceLabel": "r/LocalLLaMA",
+      "author": "u/dimknaf",
+      "publishedAt": "2026-10-19",
+      "addedAt": "2026-10-30",
+      "metric": {
+        "type": "points",
+        "value": 98
+      },
+      "sentiment": null,
+      "tags": [
+        "adaptive-thinking",
+        "reasoning",
+        "open-source"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvv3rtuovjuyvy",
+      "title": "Clarify queries before retrieval",
+      "summary": "An enterprise knowledge-management team is testing Jev before embedding and searching user questions, to detect unclear intent or multiple questions before retrieval.",
+      "url": "https://reddit.com/r/Rag/comments/1x38uno/we_started_using_jev_to_clarify_queries_before",
+      "kind": "usecase",
+      "category": "routing",
+      "categoryName": "Classification and routing",
+      "source": "reddit",
+      "sourceLabel": "r/Rag",
+      "author": "u/Craft_Show",
+      "publishedAt": "2026-10-11",
+      "addedAt": "2026-10-30",
+      "metric": {
+        "type": "points",
+        "value": 88
+      },
+      "sentiment": null,
+      "tags": [
+        "rag",
+        "query-understanding",
+        "retrieval"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvv3rtux1uzh7z",
+      "title": "Question Jev's fit for deep agent harnesses",
+      "summary": "The author argues that separating Jev's action decisions from an LLM's reasoning may obscure why actions were taken and hinder deep, general-purpose agent workflows; they ask for supporting data.",
+      "url": "https://reddit.com/r/AI_Agents/comments/1x0cw8r/is_jev_or_similar_actually_useful_in_a_harness",
+      "kind": "opinion",
+      "category": "agents",
+      "categoryName": "Agent and workflow logic",
+      "source": "reddit",
+      "sourceLabel": "r/AI_Agents",
+      "author": "u/FluroSnow",
+      "publishedAt": "2026-10-08",
+      "addedAt": "2026-10-30",
+      "metric": {
+        "type": "points",
+        "value": 31
+      },
+      "sentiment": "negative",
+      "tags": [
+        "agent-harness",
+        "reasoning",
+        "tradeoffs"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvv3s1nnxnfk66",
+      "title": "Jev is a poor fit for standard search-result reranking",
+      "summary": "The author argues that specialized rerankers are better suited to ordering retrieved results, and Jev adds cost and risks discarding relevant documents; it may help with heterogeneous datasets.",
+      "url": "https://reddit.com/r/Rag/comments/1wzwyme/jev_as_reranker",
+      "kind": "opinion",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "reddit",
+      "sourceLabel": "r/Rag",
+      "author": "u/ORomL",
+      "publishedAt": "2026-10-07",
+      "addedAt": "2026-10-30",
+      "metric": {
+        "type": "points",
+        "value": 12
+      },
+      "sentiment": "negative",
+      "tags": [
+        "reranking",
+        "rag",
+        "comparison"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvv3so1mtvtfu8",
+      "title": "Unofficial .NET client for TypeSafe System One",
+      "summary": "A .NET client for the TypeSafe AI System One API; the listing provides little detail beyond its purpose.",
+      "url": "https://github.com/sanamhub/typesafe-dotnet",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "sanamhub",
+      "author": "sanamhub",
+      "publishedAt": "2026-10-06",
+      "addedAt": "2026-10-30",
+      "metric": {
+        "type": "stars",
+        "value": 5
+      },
+      "sentiment": null,
+      "tags": [
+        "dotnet",
+        "sdk"
+      ],
+      "repo": {
+        "slug": "sanamhub/typesafe-dotnet"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvv3rtur9oc2wx",
+      "title": "Adapt any LLM into a Jev-style decision model",
+      "summary": "Nokia Applied Research's AnyJev project extracts decisions from an LLM's internal state in one forward pass, aiming to avoid generation, parsing, and fine-tuning.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wyinzn/nokiaappliedresearchanyjev_turn_any_llm_into_a",
+      "kind": "code",
+      "category": "imitations",
+      "categoryName": "Open imitations and local models",
+      "source": "reddit",
+      "sourceLabel": "r/LocalLLaMA",
+      "author": "u/Atagor",
+      "publishedAt": "2026-10-05",
+      "addedAt": "2026-10-30",
+      "metric": {
+        "type": "points",
+        "value": 57
+      },
+      "sentiment": null,
+      "tags": [
+        "anyjev",
+        "llm-adapter",
+        "local-models"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvv3rjj4vpnu1f",
+      "title": "TinyDecide provides a 10M-parameter Jev-like model",
+      "summary": "TinyDecide is a roughly 6 MB open model presented as a Jev-like decision system, with runtimes for browser, Node.js, Python, Rust, and ESP32.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wybi2y/smallest_jevlike_model",
+      "kind": "code",
+      "category": "imitations",
+      "categoryName": "Open imitations and local models",
+      "source": "reddit",
+      "sourceLabel": "r/LocalLLaMA",
+      "author": "u/TheRealREZOR",
+      "publishedAt": "2026-10-05",
+      "addedAt": "2026-10-30",
+      "metric": {
+        "type": "points",
+        "value": 313
+      },
+      "sentiment": null,
+      "tags": [
+        "open-model",
+        "edge",
+        "decision-models"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvv3s1nmvexzr9",
+      "title": "Ask Jev for a second opinion on license choices",
+      "summary": "A Pi coding agent consults Jev as an independent second opinion when choosing among project licenses based on stated requirements.",
+      "url": "https://reddit.com/r/PiCodingAgent/comments/1wwltij/system_one_in_action",
+      "kind": "usecase",
+      "category": "agents",
+      "categoryName": "Agent and workflow logic",
+      "source": "reddit",
+      "sourceLabel": "r/PiCodingAgent",
+      "author": "u/rimaa_nahk",
+      "publishedAt": "2026-10-03",
+      "addedAt": "2026-10-30",
+      "metric": {
+        "type": "points",
+        "value": 16
+      },
+      "sentiment": null,
+      "tags": [
+        "coding-agent",
+        "decision-support",
+        "pi"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvv3rtuq2l3j4d",
+      "title": "Add a System One API to llama.cpp",
+      "summary": "A llama.cpp pull request adds a /v1/systemone endpoint for serving Jev-style models, including Laya, Julia-1, Lev, OpenJev, and Kev.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wvqbrz/llama_server_add_v1systemone_api_models_laya",
+      "kind": "official",
+      "category": "imitations",
+      "categoryName": "Open imitations and local models",
+      "source": "reddit",
+      "sourceLabel": "r/LocalLLaMA",
+      "author": "u/jacek2023",
+      "publishedAt": "2026-10-02",
+      "addedAt": "2026-10-30",
+      "metric": {
+        "type": "points",
+        "value": 83
+      },
+      "sentiment": null,
+      "tags": [
+        "llama.cpp",
+        "local-models",
+        "api"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvv3rtutv86q5u",
+      "title": "Open alternatives approach Jev but trail on production-like data",
+      "summary": "A DecideBench evaluation reports that open System One alternatives come close but do not surpass Jev; Imajev-4B scores 95%, while several alternatives perform worse on the author's production-like dataset.",
+      "url": "https://reddit.com/r/LLMDevs/comments/1wu7f18/evaluating_opensource_jev_alternatives_with",
+      "kind": "opinion",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "reddit",
+      "sourceLabel": "r/LLMDevs",
+      "author": "u/choyiny",
+      "publishedAt": "2026-09-30",
+      "addedAt": "2026-10-30",
+      "metric": {
+        "type": "points",
+        "value": 51
+      },
+      "sentiment": "mixed",
+      "tags": [
+        "decidebench",
+        "open-models",
+        "accuracy"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvv3s1nkvdpru2",
+      "title": "Build a Home Assistant voice agent with typed Jev decisions",
+      "summary": "This HACS-installable voice agent uses Jev to select devices and actions, then executes confident decisions in Python; ambiguous commands trigger clarification. Commands resolve in about 300 ms.",
+      "url": "https://reddit.com/r/homeassistant/comments/1wtbrz4/typesafe_conversation_a_home_assistant_voice",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "reddit",
+      "sourceLabel": "r/homeassistant",
+      "author": "u/Major-Mud-8518",
+      "publishedAt": "2026-09-29",
+      "addedAt": "2026-10-30",
+      "metric": {
+        "type": "points",
+        "value": 17
+      },
+      "sentiment": null,
+      "tags": [
+        "home-assistant",
+        "voice",
+        "automation"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvv3so1o1rr83r",
+      "title": "Gate agent workflows with Jev and run repair loops",
+      "summary": "An AI skill and MCP server uses Jev for triage, reviews, owner questions, tool and model routing, guarded Git steps, and build-and-repair loops across Claude Code, Codex, and Hermes.",
+      "url": "https://github.com/King4s/Jev-AI-Skill",
+      "kind": "code",
+      "category": "agents",
+      "categoryName": "Agent and workflow logic",
+      "source": "github",
+      "sourceLabel": "King4s",
+      "author": "King4s",
+      "publishedAt": "2026-09-24",
+      "addedAt": "2026-10-30",
+      "metric": {
+        "type": "stars",
+        "value": 4
+      },
+      "sentiment": null,
+      "tags": [
+        "agent-skill",
+        "mcp",
+        "guardrails"
+      ],
+      "repo": {
+        "slug": "King4s/Jev-AI-Skill"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mvv3sv9mbhcdog",
+      "title": "Curate open-source projects built with Jev",
+      "summary": "An open-source directory collects projects built with Jev and describes its typed-decision model; distinguish it from previously collected resource-list curation by its project showcase focus.",
+      "url": "https://github.com/onmyway133/awesome-jev",
+      "kind": "code",
+      "category": "other",
+      "categoryName": "Everything else",
+      "source": "web",
+      "sourceLabel": "github.com",
+      "author": null,
+      "publishedAt": "2026-09-21",
+      "addedAt": "2026-10-30",
+      "metric": {
+        "type": "stars",
+        "value": 9
+      },
+      "sentiment": null,
+      "tags": [
+        "directory",
+        "open-source",
+        "projects"
+      ],
+      "repo": {
+        "slug": "onmyway133/awesome-jev"
+      },
+      "tier": "listed"
     }
   ]
 }
